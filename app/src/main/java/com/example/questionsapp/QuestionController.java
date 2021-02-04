@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -30,6 +31,8 @@ public class QuestionController {
     TextView textViewScenarioScenariosCount;
     TextView textViewScenarioQuestionsCount;
     TextView textViewScenarioPoints;
+    TextView textViewScenarioType;
+    TextView textViewScenarioYear;
     TextView textViewScenarioSubject;
     TextView textViewScenarioTitle;
     TextView textViewScenarioDescription;
@@ -38,10 +41,14 @@ public class QuestionController {
 
     TextView textViewQuestionPoints;
     TextView textViewQuestionSubject;
+    TextView textViewQuestionType;
+    TextView textViewQuestionYear;
     TextView textViewQuestionTitle;
     TextView textViewQuestionDescription;
     TextView textViewQuestionMultipleChoice;
     ImageView imageViewQuestionImage;
+    EditText editTextQuestionUserAnswer;
+    TextView textViewQuestionCorrectChoice;
     CheckBox checkBoxChoice1;
     CheckBox checkBoxChoice2;
     CheckBox checkBoxChoice3;
@@ -82,6 +89,8 @@ public class QuestionController {
         textViewScenarioScenariosCount = (TextView) activity.findViewById(R.id.textView_scenarios_count);
         textViewScenarioQuestionsCount = (TextView) activity.findViewById(R.id.textView_questions_count);
         textViewScenarioPoints = (TextView) activity.findViewById(R.id.textView_points);
+        textViewScenarioType = (TextView) activity.findViewById(R.id.textView_type);
+        textViewScenarioYear = (TextView) activity.findViewById(R.id.textView_year);
         textViewScenarioSubject = (TextView) activity.findViewById(R.id.textView_subject);
         textViewScenarioTitle = (TextView) activity.findViewById(R.id.textView_title);
         textViewScenarioDescription = (TextView) activity.findViewById(R.id.textView_description);
@@ -89,11 +98,19 @@ public class QuestionController {
         imageViewScenarioImage.setVisibility(View.GONE);
 
         textViewQuestionPoints = (TextView) activity.findViewById(R.id.textView_q_points);
+        textViewQuestionType = (TextView) activity.findViewById(R.id.textView_q_type);
+        textViewQuestionType.setVisibility(View.GONE);
+        textViewQuestionYear = (TextView) activity.findViewById(R.id.textView_q_year);
+        textViewQuestionYear.setVisibility(View.GONE);
         textViewQuestionSubject = (TextView) activity.findViewById(R.id.textView_q_subject);
         textViewQuestionTitle = (TextView) activity.findViewById(R.id.textView_q_title);
         textViewQuestionDescription = (TextView) activity.findViewById(R.id.textView_q_description);
         imageViewQuestionImage = (ImageView) activity.findViewById(R.id.imageView_q_image);
         imageViewQuestionImage.setVisibility(View.GONE);
+        editTextQuestionUserAnswer = (EditText) activity.findViewById(R.id.editText_q_user_answer);
+        editTextQuestionUserAnswer.setVisibility(View.GONE);
+        textViewQuestionCorrectChoice = (TextView) activity.findViewById(R.id.textView_correct_choice);
+        textViewQuestionCorrectChoice.setVisibility(View.GONE);
         textViewQuestionMultipleChoice = (TextView) activity.findViewById(R.id.textView_q_multiple_choice);
         checkBoxChoice1 = (CheckBox) activity.findViewById(R.id.checkBox_choice1);
         checkBoxChoice2 = (CheckBox) activity.findViewById(R.id.checkBox_choice2);
@@ -104,7 +121,7 @@ public class QuestionController {
         textColorDefaultRb = checkBoxChoice1.getTextColors();  //save default color of a checkbox
         buttonConfirm = (Button) activity.findViewById(R.id.button_confirm);
 
-        db = new ListDataManager();
+        db = new ListDataManager(activity);
 
 
         //TODO: add search criteria
@@ -164,12 +181,19 @@ public class QuestionController {
             textViewScenarioSubject.setText("S-Subject: " + currentScenario.getSubject());
             textViewScenarioTitle.setText("S-Title: " + currentScenario.getTitle());
             textViewScenarioDescription.setText("S-Description: " + currentScenario.getDescription());
+            textViewScenarioType.setText("Type: "+currentScenario.getType());
+            textViewScenarioYear.setText("Year: "+currentScenario.getYear());
         }else {
             //disable all scenario view if its null
             textViewScenarioPoints.setVisibility(View.GONE);
             textViewScenarioSubject.setVisibility(View.GONE);
             textViewScenarioTitle.setVisibility(View.GONE);
             textViewScenarioDescription.setVisibility(View.GONE);
+            textViewScenarioType.setVisibility(View.GONE);
+            textViewScenarioYear.setVisibility(View.GONE);
+
+            textViewQuestionYear.setVisibility(View.VISIBLE);
+            textViewQuestionType.setVisibility(View.VISIBLE);
         }
 
         //check scenario image
@@ -188,6 +212,8 @@ public class QuestionController {
         textViewScenarioQuestionsCount.setText("Q-Counts: " + (questionCounter +1) + "/"+ (lastQuestion+1) );
 
         //fill question
+        textViewQuestionType.setText("Type: "+currentQuestion.getType());
+        textViewQuestionYear.setText("Year: "+currentQuestion.getYear());
         textViewQuestionPoints.setText("Q-Points: " + currentQuestion.getPoints());
         textViewQuestionSubject.setText("Q-Subject: " + currentQuestion.getSubject());
         textViewQuestionTitle.setText("Q-Title: " + currentQuestion.getTitle());
@@ -200,6 +226,9 @@ public class QuestionController {
         checkBoxChoice4.setVisibility(View.GONE);
         checkBoxChoice5.setVisibility(View.GONE);
         checkBoxChoice6.setVisibility(View.GONE);
+
+        textViewQuestionCorrectChoice.setVisibility(View.GONE);
+        editTextQuestionUserAnswer.setVisibility(View.GONE);
 
         //activate and fill checkbox if question isMultipleChoice
         if (currentQuestion.isMultipleChoice()) {
@@ -248,7 +277,9 @@ public class QuestionController {
                 }
             }
         }
-
+        else{
+            editTextQuestionUserAnswer.setVisibility(View.VISIBLE);
+        }
         buttonConfirm.setText(BUTTON_STATE_CONFIRM);
     }
 
@@ -301,8 +332,21 @@ public class QuestionController {
                 }
 
             }
-        }else {
-            //TODO: is question is not multiple choice
+        }
+        else {
+            String userAnswer = String.valueOf(editTextQuestionUserAnswer.getText());
+            textViewQuestionCorrectChoice.setVisibility(View.VISIBLE);
+            if (null != userAnswer){
+                Log.d(TAG, "showSolution: userAnswer: "+userAnswer);
+                Log.d(TAG, "showSolution: correctAnswer: "+currentQuestion.getCorrectAnswer());
+
+                textViewQuestionCorrectChoice.setText(currentQuestion.getCorrectAnswer());
+                if (currentQuestion.getCorrectAnswer() != null && currentQuestion.getCorrectAnswer().contains(userAnswer)){
+                    textViewQuestionCorrectChoice.setTextColor(Color.GREEN);
+                } else {
+                    textViewQuestionCorrectChoice.setTextColor(Color.RED);
+                }
+            }
         }
         showNextOrFinishButtonText();
     }
@@ -361,6 +405,11 @@ public class QuestionController {
         checkBoxChoice5.setChecked(false); //clear the previous selection
         checkBoxChoice6.setTextColor(textColorDefaultRb); //set checkBox color to its default
         checkBoxChoice6.setChecked(false); //clear the previous selection
+
+        textViewQuestionCorrectChoice.setTextColor(textColorDefaultRb);
+        textViewQuestionCorrectChoice.setText("");
+
+        editTextQuestionUserAnswer.setText("");
     }
 
     /**

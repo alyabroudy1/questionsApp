@@ -1,0 +1,769 @@
+[
+         {
+            "subject": "ITK",
+            "type": "Final_Exam",
+           "year": "2016",
+            "description": "Abschluss Prufueng",
+            "title": "Der Vertriebsmitarbeiter Peterson hat den Manager und zwei Mitglieder des Ensembles\n„Plattfuß“ zu einem ersten Beratungsgespräch zur Creative-Ad GmbH eingeladen. Da\nHerr Peterson nicht in der Lage ist alle technischen Fragestellungen zu beantworten,\nwerden Sie im Verlauf des Gespräches hinzugezogen.",
+            "image": "0",
+            "points": "20",
+            "questions":  [
+                  {
+                     "title": "Nennen Sie vier Aspekte, warum das Ensemble „Plattfuss seine Außendarstellung durch Internetpräsenz ergänzen sollte!",
+                     "points": "4",
+                     "type": "ITK",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "a) Internetpräsenz Zielgruppengerechtes Informationsangebot Globale Reichweite\nHohe Aktualität und schnelle Reaktionszeiten bei Änderungen\nErfüllung zeitgemäßer Anforderungen\nAufbau von Kommunikation mit den Fans (z. B. Gästebuch, Mailangebot, ...)\nVertrieb von Merchandising-Produkten"
+                  },
+                  {
+                     "title": "b) Als unerfahrene Internetnutzer interessieren sich die Kunden für den detaillierten\nAufbau von Internetadressen. Als Beispiel ziehen Sie die folgende Adresse heran:\nhttp://www.ensemble-plattfuss.de/termine/uebersicht.html\nBezeichnen Sie die sechs einzelnen Teilbereiche dieser Web-Adresse!",
+                     "points": "6",
+                     "type": "ITK",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "Web-Adresse: Die Web-Adresse http://www.ensemble-plattfuss.de/termine/uebersicht.html\nsetzt sich aus folgenden Komponenten zusammen:\n-http: Kennzeichnet das verwendete Protokoll\n- www: Name des Internetrechners (Hostname)\n- ensemble-plattfuss: Domain\n-de: Top-Level-Domain\n-Termine: Verzeichnis/Pfad der html-Datei\n-uebersicht.html: Name der html-Datei"
+                  },
+                  {
+                     "title": "c) Auf Clientseite wird zur Anzeige von Webseiten ein Web-Browser benötigt. Nennen\nSie dem Kunden vier gängige Webbrowser!",
+                     "points": "2",
+                     "type": "ITK",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "c) Browser\n-Internet Explorer - Mozilla - Chrome\n- Netscape Navigator - Opera\n- Firefox - Safari"
+                  },
+                  {
+                     "title": "d) Um Webseiten bereitstellen zu können wird serverseitig ein Web-Server benötigt.\nNennen Sie die beiden marktführenden Webserver und die üblichen Plattformen,\nauf denen diese Server eingesetzt werden!",
+                     "points": "2",
+                     "type": "ITK",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "d) Web-Server\n-Microsoft Internet Information Server (Windows-Plattformen)\n-Apache (Linux/Unix- und Windows-Plattformen)"
+                  },
+                  {
+                     "title": "e)Der Manager möchte gerne einige Detailinformationen zu verschiedenen Internet-\ndiensten bekommen. Netzwerktechnisch entsprechen diese Dienste bestimmten\nProtokollen und Ports.\nNennen Sie für die folgenden Dienste die in aller Regel benutzen Standardports und\nbeschreiben Sie den Verwendungszweck der Protokolle.  ea) http ed) pop3\neb) telnet ee) smtp\nec) ftp ef) nntp",
+                     "points": "6",
+                     "type": "ITK",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "e) Internetdienste und deren Standardports (6 P.)\nea) http - Protokoll zur Übertragung von webbasierten Inhalten(„Hyptertext transfer protocol“); port 80\neb) telnet - Protokoll zum Einloggen und Starten einer Konsolensitzung auf ent-fernten Rechnern; port 23\nec) ftp - Protokoll zum Übertragen von Dateien (‚file transfer protocoll); port 21\ned) pop3 - Protokoll zum Abrufen von Mails („post office protocol“); port 110\nee) smtp - Protokoll zum Versenden von Mails („simple mail transfer protocol“); port 25\nef) nntp - Protokoll zum Abrufen von Newsgroups („network news transferprotocol“); port 119"
+                  }
+               ]
+            
+         },
+         {
+            "subject": "WUG",
+            "type": "Final_Exam",
+           "year": "2016",
+            "description": "Abschluss Prufueng",
+            "title": "Ein solches Projekt zur Entwicklung eines Internetauftritts muss sorgsam geplant und zwischen allen Mitgliedern eines Teams gut koordiniert werden.\n1-Problemanalyse. 2- Zielfestlegung. 3-Planung. 4-Durchfürung. 5- Kontrolle.",
+            "image": "0",
+            "points": "20",
+            "questions": [
+                  {
+                     "title": "a) Ordnen Sie die Projektphasen 1 bis 5 den unten aufgeführten Vorgängen zu:\naa) Visualisierung des Projektverlaufs durch einen Netzplan\nab) Beschreibung der SOLL-Situation\nac) Beschreibung der IST-Situation\nad) Aufgabenverteilung innerhalb des Projektteams\nae) Abnahme durch den Kunden\naf) Ermittlung des Personaleinsatzes und des Budgets\nag) Festlegung des Projektablaufs\nah) abschließender SOLL-Ist-Vergleich\nai) Umsetzung der Planungsvorgaben\naj) ständige Terminkontrolle\nak) Beschreibung der Anforderungen\nal} Neubewertung des Projektplans im Bedarfsfall",
+                     "points": "12",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "aa) Visualisierung des Projektverlaufs durch einen Netzplan 3\nab) Beschreibung der SOLL-Situation 2\nac) Beschreibung der IST-Situation 1\nad) Aufgabenverteilung innerhalb des Projektteams 3\nae) Abnahme durch den Kunden 5\naf) Ermittlung des Personaleinsatzes und des Budgets 3\nag) Festlegung des Projektablaufs 3\nah) abschließender SOLL-Ist-Vergleich 5\nai) Umsetzung der Planungsvorgaben 4\naj) ständige Terminkontrolle 4\nak) Beschreibung der Anforderungen 2\nal) Anpassung des Projektplans im Bedarfsfall 4"
+                  },
+                  {
+                     "title": "b) Vor der Übergabe an den Kunden soll das Ergebnis auf vollständige Funktion hin\ngetestet werden. Beschreiben Sie stichwortartig vier wichtige Vorgehensweisen bei\neinem solchen Funktionstest.",
+                     "points": "8",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "b) Funktionstest\n- Test ggf. in der Realumgebung des Kunden durchführen\n- Testen aller Funktionen gem. dem zu Beginn erstellten Pflichtenheft\n- Dokumentation der einzelnen Prozesse und Dokumentation der jeweiligen Testergebnisse\n- ggf. testen im Beisein des Auftraggebers\n- Abnahme der Testergebnisse durch den Kunden und Unterzeichnung des Über- gabeprotokolls"
+                  },
+                  {
+                     "title": "whatever",
+                     "points": "2",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "c) Browser\n-Internet Explorer - Mozilla - Chrome\n- Netscape Navigator - Opera\n- Firefox - Safari"
+                  },
+                  {
+                     "title": "d) Um Webseiten bereitstellen zu können wird serverseitig ein Web-Server benötigt.\nNennen Sie die beiden marktführenden Webserver und die üblichen Plattformen,\nauf denen diese Server eingesetzt werden!",
+                     "points": "2",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "d) Web-Server\n-Microsoft Internet Information Server (Windows-Plattformen)\n-Apache (Linux/Unix- und Windows-Plattformen)"
+                  },
+                  {
+                     "title": "e) Der Manager möchte gerne einige Detailinformationen zu verschiedenen Internet-\ndiensten bekommen. Netzwerktechnisch entsprechen diese Dienste bestimmten Protokollen und Ports.\nNennen Sie für die folgenden Dienste die in aller Regel benutzen Standardports und\nbeschreiben Sie den Verwendungszweck der Protokolle.\nea) http ed) pop3\neb) telnet ee) smtp\nec) ftp ef) nntp",
+                     "points": "6",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "e) Internetdienste und deren Standardports (6 P.)\nea) http - Protokoll zur Übertragung von webbasierten Inhalten („Hyptertext transfer protocol“); port 80\neb) telnet - Protokoll zum Einloggen und Starten einer Konsolensitzung auf ent- fernten Rechnern; port 23\nec) ftp - Protokoll zum Übertragen von Dateien (‚file transfer protocoll); port 21\ned) pop3 - Protokoll zum Abrufen von Mails („post office protocol“); port 110\nee) smtp - Protokoll zum Versenden von Mails („simple mail transfer protocol“); port 25\nef) nntp - Protokoll zum Abrufen von Newsgroups („network news transfer protocol“); port 119"
+                  }
+               ]
+            
+         },
+         {
+            "subject": "ANW",
+            "type": "Final_Exam",
+           "year": "2016",
+            "description": "Abschluss Prufueng",
+            "title": "Das Kundengespräch ist positiv verlaufen und die Creative-Ad GmbH ist beauftragt\nworden die Internetpräsenz des Ensembles „Plattfuß“ zu realisieren.",
+            "image": "0",
+            "points": "20",
+            "questions": [
+                  {
+                     "title": "a) Bei diesem Projekt soll ein besonderes Augenmerk auf die ergonomische Gestaltung\nder Webseiten gelegt werden. Untersuchungen haben ergeben, dass Internetnutzer\neindeutige Anforderungen an Webseiten haben. Geben Sie für die folgenden An-\nforderungen je ein technisches und/oder stilistisches Gestaltungsmittel oder eine\nMethode an, um den folgenden Anforderungen gerecht zu werden, unter Beibehaltung größtmöglicher Flexibilität.\naa) Schnelle Ladezeiten (1 P.)\nab) Übersichtliche Struktur (jederzeit sollte ersichtlich sein, wo sich der Benutzer innerhalb der Hierarchie befindet) (1 P.)\nac) Die Information muss im Vordergrund stehen (1 P.)\nad) Einheitliches Erscheinungsbild (1 P.)\nae) Fehlertoleranz (z. B. sollten nach dem fehlerhaften Ausfüllen eines Formulars nicht alle Informationen erneut eingegeben werden müssen) (1 P.)\naf) Im Idealfall, Wiedererkennung des Benutzers (1 P.)\nag) Benutzerabhängiges Informationsangebot (1 P.)\nah) Gute Lesbarkeit (1 P.)",
+                     "points": "8",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "a) Gestaltungsmittel für Web-Seiten\naa) Schnelle Ladezeiten (1 P.)\n- Verwendung nur weniger bzw. kleiner Bilddateien\n- Verwendung größenoptimierter .jpg Dateien\nab) Übersichtliche Struktur (1 P.)\n- Anzeige des gegenwärtigen Standortes innerhalb der Hierarchie auf jeder Seite\n- Verwendung von Navigationsleisten\nac) Die Information muss im Vordergrund stehen (1 P.)\n- Einsatz nur weniger oder gar keiner Animationen\n- Klares Seitenlayout\nad) Einheitliches Erscheinungsbild (1 P.)\n- Verwendung von „cascading style sheets“ (CSS) zur Vereinheitlichung des Layouts\nae) Fehlertoleranz (1 P.)\n- Einsatz von Cookies\naf) Wiedererkennung des Benutzers (1 P.)\n- Einsatz von Cookies\n- Benutzeranmeldung\nag) Benutzerabhängiges Informationsangebot (1 P.)\n- Einsatz von Webseiten mit dynamischem, datenbankbasiertem Inhalt\nah) Gute Lesbarkeit (1 P.)\n- Kontrastreiche Farbgestaltung\n- Klares Schriftbild"
+                  },
+                  {
+                     "title": "Fortsetzung\nc) Im Realisierungsfalle des Projektes sollen die Veranstaltungstermine als .pdf-Dateien\nzum Herunterladen bereitgestellt werden.\nca) Nennen Sie mindestens zwei vorteilhafte Eigenschaften dieses Formates! (2 P.)\ncb) Bei der Erstellung von .pdf-Dateien kann überlichweise die Qualität in der\nEinheit „dpi” angegeben werden. Erläutern Sie diesen Begriff und stellen Sie die\npraktischen Einsatzbereiche der Qualitätsstufen 72 dpi und 300 dpi gegenüber!\n(2P)\n",
+                     "points": "4",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "c) .pdf-Dateien\nca) Vorteile von .pdf-Dateien: (2 P.)\n* In der Regel kleine Dateien.\n« Inhalt der Dokumentation kann nicht verändert werden.\n« Als Quasi-Standard können .pdf-Dateien unter fast allen Betriebssystemen\nangezeigt werden.\n« Die benötigte Software zur Anzeige von .pdf-Dateien ist kostenlos.\n« Die Bildschirmanzeige der Dokumentation entspricht dem Druckbild.\ncb\n— Die Einheit „dpi“ gibt die Punktedichte in „dots per inch“ (=Punkte pro Zoll;\n1 Zoll = 2,54 cm) an. Je höher die gewählte dpi Angabe ist, desto höher ist die\nQualität, allerdings auch die Dateigröße. Die typische Dichteangabe von 72 dpi\nwird üblicherweise als hinreichend für die Bildschirmdarstellung (z. B. im Web)\nangesehen. Im Falle einer Druckausgabe ist die Qualität aber objektiv unzureichend,\nDa fast alle modernen Drucker hardwareseitig in der Lage sind mindestens 300\nPunkte pro Zoll auf das Papier zu bringen, wird eine Auflösung von 300 dpi\ntypischerweise zur Druckausgabe verwendet, da es allgemein als guter\nKompromiss zwischen Dateigröße einerseits und Druckqualität andererseits\nangesehen wird. (2 P.)"
+                  }
+               ]
+            },
+         {
+            "subject": "WUG",
+            "type": "Final_Exam",
+           "year": "2016",
+            "description": "Abschluss Prufueng",
+            "title": "Ordnen Sie vier der genannten Vertragsarten den Sachverhalten zu.",
+            "image": "0",
+            "points": "8",
+            "questions": [
+                  {
+                     "title": "Vertragsarten\n1. Darlehnsvertrag\n2. Dienstvertrag\n3. Kaufvertrag\n4. Leihvertrag\n5. Mietvertrag\n6. Pachtvertrag\n7. Werkvertrag\nSachverhalte\n-Herr Meier von der IT-Solutions GmbH stellt sein Fahrzeug auf einem gebührenpflichtigen Parkplatz ab, um einen Kunden zu besuchen.\n-Die Hausfrau Erwine Müller borgt sich von ihrer Nachbarin sechs Eier, um einen Kuchen zu backen. Am nächsten Tag, nach ihrem Einkauf, gibt sie der Nachbarin sechs Eier zurück.\n-An einem werkseigenen Fahrzeug des Fuhrparks lassen Sie die fällige Hauptuntersuchung durchführen.\n-Im Großraumbüro der Verwaltung wird eine neu erworbene Klimaanlage von einer Spezialfirma installiert.",
+                     "points": "4",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "Lösung: 5, 1,2,7      Es handelt sich bei der vorstehenden Aufgabe um eine typische\nAufgabe zum Thema Vertragsarten, wie sie in der WiSo-Prüfung\nauf Sie zukommen kann. Bei dem Parkplatz handelt es sich um\neinen Mietvertrag (Pachtvertrag ist mit Fruchtgenuss!), das mit\nden Eiern ist kein Leihvertrag, sondern ein Darlehensvertrag,\nsonst müsste Erwine dieselben Eier zurückgeben, was ja nicht\ngeht. Beim Werkvertrag wird der Erfolg geschuldet (hier also die\nPlakette), beim Dienstvertrag nicht. Die Installation der Klimaanlage\nstellt daher einen Werkvertrag dar, nach Abschluss der Installation\nist zu erwarten, dass sie funktioniert."
+                  }
+               ]
+            },
+         {
+            "subject": "WUG",
+            "type": "Final_Exam",
+           "year": "2016",
+            "description": "Abschluss Prufueng",
+            "title": "Als Mitarbeiter/in in der Einkaufsabteilung der IT Solutions GmbH haben\nSie an einen Hersteller für IT-Equipment und Bürozubehör eine\ndetaillierte Anfrage zur Lieferung von 20 Serverschränken gestellt.\nNach einer Woche emalten Sie ein ausführliches verbindliches Angebot.\nAm nächsten Tag bestellen Sie zunächst nur einen Schrank und\nstellen die Bestellung von 19 weiteren Schränken in Aussicht, wenn\ndie Lieferung Ihren Erwartungen entspricht.",
+            "image": "0",
+            "points": "8",
+            "questions": [
+                  {
+                     "title": "a) Wann ist ein rechtsgültiger Kaufvertrag zustande gekommen?\n1. Nach Eingang der ersten Bestellung beim Lieferanten\n2. Bei Lieferung des Serverschranks\n3. Nach Eingang des verbindlichen Angebots des Lieferanten aufgrund Ihrer Anfrage\n4. Nach endgültiger Bestellung der restlichen 19 Schränke\n5. Nach der Prüfung des Schranks auf Tauglichkeit",
+                     "points": "4",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "Das detaillierte Angebot des Lieferanten ist der Antrag, und die\nerste Bestellung ist die Annahme. Das heißt, in Aufgabenteil a)\nist Aussage 1 richtig. Prüfen Sie jeweils, wann die verbindliche\nAussage gemacht wird.\n"
+                  },
+                  {
+                     "title": "b) Um welche Art des Kaufvertrags handelt es sich?\n1. Kauf nach Probe\n2. Kauf auf Probe\n3. Kauf auf Abruf\n4. Kauf zur Probe",
+                     "points": "4",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "Die richtige Antwort auf b) ist der Kauf zur Probe (4). Es wird\nzunächst eine kleine Menge bestellt, um sie probieren zu können.\nBeim Kauf nach Probe lässt man sich zunächst ein Muster\nzuschicken und entscheidet dann erst über die Bestellung. Der\nKauf auf Probe beinhaltet ein Rückgaberecht bei Nichtgefallen.\nBeim Kauf auf Abruf wird die gesamte Menge bestellt, aber\nerst nach Bedarf abgerufen."
+                  }
+               ]
+            },
+         {
+            "subject": "WUG",
+            "type": "Final_Exam",
+           "year": "2016",
+            "description": "Zwischen Prufueng herbst 2016",
+            "title": "Sie sind Auszuhildende/Auszubildender der Schwan KG, einem Systemhaus.\nDie Schwan KG hat sich unter anderem auf Prozessoptimierungspezialisiert",
+            "image": "0",
+            "points": "8",
+            "questions": [
+                  {
+                     "title": "1.1 Die Schwan KG hat sich auf die Installation, Inbetriebnahme und Wartung von Netzwerken spezialisiert.\nWelche der folgenden Aufgaben werden dem Leistungsprozess zugeordnet?",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "1,3",
+                     "correctAnswer": "\n[1] Erstellung eines Angebots\n[3] Verlegung von Leitungen beim Kunden\n",
+                     "choices": [
+                           {
+                              "title": "[1] Erstellung eines Angebots",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "[2] Ersatzkauf von Werkzeug",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[3] Verlegung von Leitungen beim Kunden",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "[4] Einstellung einer IT-subjectkraft auf eine unbefristete Stelle",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] Ermittlung des Quartalsgewinns",
+                              "correct": "false"
+                           }
+                        ]
+                     },
+                  {
+                     "title": "1.2\nDie Schwan KG bezieht Waren und Materialien von vielen Lieferanten.\nWelche der folgenden Aussagen trifft auf die Schwan KG und deren Lieferantenzu?",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "5",
+                     "correctAnswer": "\n[5] Die Schwan KG muss gegenuber ihren Kunden auch für Mängel einstehen, die den Lieferanten geschuldet sind.\n",
+                     "choices": [
+                           {
+                              "title": "[1] Die Lieferanten haben keinen Einfluss auf die Leistungserstellungder Schwan KG.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[2] Der Gewinn der Schwan KG wird durch Rabatie und Skonti ihrer Lieferanten geschmälert",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[3] Jeder Anbieter eines Marktes muss die Schwan KG beliefern, wenn dies für die Leistungserstellungder Schwan KG erforderlich ist.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[4] In einem homogenen polypolistischen Markt besitzen die Lieferanten eine starke Position und können gegenuber der Schwan KG hohe Preise\ndurchsetzen.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] Die Schwan KG muss gegenuber ihren Kunden auch für Mängel einstehen, die den Lieferanten geschuldet sind.",
+                              "correct": "true"
+                           }
+                        ]
+                     },
+                  {
+                     "title": "1.3\nDie Schwan KG besitzt eine Stablinienorganisation.\nWelche der folgenden Aussagen trifft auf eine Stabsstelle zu?   Eine Stabsstelle...\n",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "3",
+                     "correctAnswer": "\n[3] unterstützt die Arbeit von Leitungsstellen.\n",
+                     "choices": [
+                           {
+                              "title": "[1] besitzt eine disziplinarischeWeisungsbefugnisgegenüber anderen Siellen.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[2] führt die in der Geschäftsleitungvorbereiteten Entscheidungen aus.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[3] unterstützt die Arbeit von Leitungsstellen.",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "[4] ist das Bindeglied zwischen Aufbauorganisation und Ablauforganisation.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] leitet die Stelien einer subjectabteilung.",
+                              "correct": "false"
+                           }
+                        ]
+                     },
+                  {
+                     "title": "1.4\nDie Schwan KG erwägt, ihre Organisation an Geschäftsprozessenzu orientieren.\nWelches der folgenden Ziele wird mit einer Geschäftsprozessorientierung angestrebt?",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "2",
+                     "correctAnswer": "\n[2] Steigerungder Kundenzufriedenheit\n",
+                     "choices": [
+                           {
+                              "title": "[1] Spezialisierung der Mitarbeiter auf ein subjectgebiet",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[2] Steigerungder Kundenzufriedenheit",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "[3] Aufrechterhaltung der in einem Einliniensystem angelegten eindeutigen Kommunikationswege",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[4] Stärkung einer Organisation mit verrichtungsbezogenenAbteilungen",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] Vermeidung von Matrixorganisationen mit überkreuzenden Zuständigkeiten",
+                              "correct": "false"
+                           }
+                        ]
+                     },
+                  {
+                     "title": "1.5\nDie Schwan KG betreibt auch einen Großhandel für Installationsmaterial und erwägt die Auflösung des Zentrallagers zugunsten einer dezentralen\nLagerhaltung.\nWelche der folgenden Aussagen trifft auf eine dezentrale Warenlagerung zu?\nEine dezentrale Warenlagerung ...",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "5",
+                     "correctAnswer": "\n[5] ermöglicht eine schnellere Belieferung von Kunden.\n",
+                     "choices": [
+                           {
+                              "title": "[1] verringert die Lagerverwaltung.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[2] ermöglicht die Verringerung des Lagerbestands.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[3] führt generell zu einer Verringerung der Umschlagshäufigkeit",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[4] führt zu einer Reduzierung der Lagerkosten.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] ermöglicht eine schnellere Belieferung von Kunden.",
+                              "correct": "true"
+                           }
+                        ]
+                     },
+                  {
+                     "title": "1.6\nDie Schwan KG führt im Marketing verschiedene Maßnahmen durch.\nBei welcher der folgenden Aktionen handelt es sich um eine Marketingmaßnahme?",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "3",
+                     "correctAnswer": "\n[3] Festlegen von Listenpreisen und Rabatten\n",
+                     "choices": [
+                           {
+                              "title": "[1] Ermittlung der Arbeitsstunden eines Projekts und Berechnung der Lohnkosten",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[2] Zusammenbaueines PC aus Einzelteilen und dessen Lieferung",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[3] Festlegen von Listenpreisen und Rabatten",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "[4] Restrukturierung der Aufbauorganisation und Ausschreibung neuer Stellen",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] Einlagerung von Ware und Übernahme der Warendaten in das Warenwirtschaftssystem",
+                              "correct": "false"
+                           }
+                        ]
+                     },
+                  {
+                     "title": "1.7\nDie Schwan KG verfolgt mit mehreren Maßnahmen quantitative und qualitative Marketingziele.\nBei welchem der folgenden Marketingziele handelt es sich um ein quantitatives Marketingziel.",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "3",
+                     "correctAnswer": "\n[3] Ausbau des Marktanteils\n",
+                     "choices": [
+                           {
+                              "title": "[1] Verbesserung der Lieferzuverlässigkeit",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[2] Erhöhung der Kundenzufriedenheit",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[3] Ausbau des Marktanteils",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "[4] Verbesserung des Images durch Corporate Identity",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] Stärkung der Kundenbindung",
+                              "correct": "false"
+                           }
+                        ]
+                     },
+                  {
+                     "title": "1.8\nDie Schwan KG will die Zufriedenheit ihrer Kunden erhöhen.\nWelche der folgenden Aussagen zur Kundenzufriedenheit ist zutreffend?\nDie Kundenzufriedenheit ...",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "2",
+                     "correctAnswer": "\n[2] ist dann sehr gut, wenn die Schwan Ka über die Erfüllung der Basisleistungen hinaus Leistungen bietet, die den Kunden positiv überraschen.\n",
+                     "choices": [
+                           {
+                              "title": "[1] kann durch Umfragen nicht ermittelt werden.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[2] ist dann sehr gut, wenn die Schwan Ka über die Erfüllung der Basisleistungen hinaus Leistungen bietet, die den Kunden positiv überraschen.",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "[3] kann von der Schwan KG nicht beeinflusst werden, da diese von externen Faktoren abhängt.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[4] ist maximal, wenn die Schwan KG die Grunderwartungen der Kunden zu 100 Prozent erfüllt, z. B.termingerechte Lieferung in der bestellten\nQualität.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] kann dadurch gesteigert werden, indem die Schwan KG alle Leistungen streicht, die belanglos sind, weil es den Kunden gleichgültig ist, ob sie\ndiese erhalten oder nicht.",
+                              "correct": "false"
+                           }
+                        ]
+                     }
+               ]
+            },
+         {
+            "subject": "WUG",
+            "type": "Final_Exam",
+           "year": "2016",
+            "description": "Zwischen Prufueng herbst 2016",
+            "title": "In der Schwan KG liegen über einen regionalen Markt folgende Daten vor,\nMarktanteile für NAS-Systeme 2005 - 2015 (Angaben in Prozent)\n2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015\nSchwan KG 24 26 20 25 31 41 37 30 35 28 21\nBartel GmbH 26 27 31 32 33 35 37 39 38 40 42",
+            "image": "7",
+            "points": "4",
+            "questions": [
+                  {
+                     "title": "1.9\nSie sollen die in der Statistik erfasste Entwicklung der Marktanteile von 2005 bis 2015 in einer Geschäftsgrafik darstellen.\nWelche der folgenden Darstellungsformen ist dazu am besten geeignet?",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "1",
+                     "correctAnswer": "\n[1] Liniendiagramm\n",
+                     "choices": [
+                           {
+                              "title": "[1] Liniendiagramm",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "[2] Balkendiagramm",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[3] Kreisdiagramm",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[4] Gestapeltes Säulendiagramm",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] Netzdiagramm",
+                              "correct": "false"
+                           }
+                        ]
+                     },
+                  {
+                     "title": "1.10\nSie sollen die in der Statistik erfassten Daten interpretieren.\nWelche der folgenden Aussagen kann aus der Statistik abgeleitet werden?\nDie Schwan KG ... ",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "4",
+                     "correctAnswer": "\n[4] konnte im Jahr 2015 genau 50 % des Marktanteils der Bartel GmbH erzielen,\n",
+                     "choices": [
+                           {
+                              "title": "[1] erzielte In mehreren Jahren einen größeren Marktanteil als die Bartel GmbH.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[2] konnte ihren Marktanteil kontinuierlich ausbauen.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[3] verzeichnete von 2013 auf 2014 einen Umsatzrückgangvon 6 %.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[4] konnte im Jahr 2015 genau 50 % des Marktanteils der Bartel GmbH erzielen,",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "[5] konnte trotz sinkender Marktanteile in einem wachsenden Markt ihren Umsatz stabil halten.",
+                              "correct": "false"
+                           }
+                        ]
+                     },
+                  {
+                     "title": "1.11\nSie sollen vor der Geschäftsleitung die Ergebnisse einer Marktbeobachtung präsentieren\nOrdnen Sie die folgenden vorbereitenden Schritte der jeweiligen Maßnahme zu.\nVorbereitende Schritte\n[1] Persönlichen Auftritt situationsspezifisch optimieren\n[2] Zielgruppe analysieren und Ziele der Präsentation abstimmen\n[3] lnformationsinhalte festlegen und in Reihenfolge bringen\n[4] Organisatorischeund medientechnische Vorbereitungen treffen\n[5] Informationsinhalte visualisieren und Präsentationsfolien gestalten\nMaßnahmen\na) Die Erwartungen der Geschäftsleitung vorrangig berücksichtigen\nb) Nur die drei wichtigsten Ergebnisse darstellen\nc) Zahlenmaterial übersichtlich in Diagrammen abbilden\nd) Präsentationsraum reservieren und Medien bereitstellen\ne) Sich gut vorbereiten, um möglichst überzeugend zu wirken\n",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "\na) 2,\nb) 3,\nc) 5,\nd) 4,\ne) 1.\n"
+                  },
+                  {
+                     "title": "1.12\nSie sollen in einer Sitzung ein Ergebnisprotokoll führen\nWelche der folgenden Angaben ist Inhalt eines Ergebnisprotokolls?",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "5",
+                     "correctAnswer": "\n[5] Beschlüsse mit Abstimmungsergebnissen\n",
+                     "choices": [
+                           {
+                              "title": "[1] Statistik der Wortmeldungen",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[2] Alle Teilnehmerbeiträgein indirekter Rede",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[3] Mindmap aller geäußerten Aspekte",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[4] Detaillierte Schilderung des Ablaufs",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] Beschlüsse mit Abstimmungsergebnissen",
+                              "correct": "true"
+                           }
+                        ]
+                     }
+               ]
+            },
+         {
+            "subject": "WUG",
+            "type": "Final_Exam",
+           "year": "2016",
+            "description": "Zwischen Prufueng herbst 2016",
+            "title": "1.13\nDie Schwan KG nutzt zur Planung und Kontrolle des zeitlichen Ablaufs von Projekten die Netzplantechnik.\nBeispiel:\n",
+            "image": "8",
+            "points": "4",
+            "questions": [
+                  {
+                     "title": "Welche der folgenden Aussagen zur Netzplantechnik ist zutreffend?",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "3",
+                     "correctAnswer": "\n[3] Der freie Puffer (FP} eines Vorgangs wird ermittelt, indem der früheste Endzeitpunkt dieses Vorgangs (FEZ) vom frühesten Anfangszeitpunkt des\nNachfolgers (FAZ) subtrahiert wird.\n",
+                     "choices": [
+                           {
+                              "title": "[1] Der Gesamtpuffer (GP) eines Projekts ist die Differenz aus frühestem Anfangszeitpunkt (FAZ) des ersten Vorgangs und des frühesten Endzeit-\npunkts (FEZ) des letzten Vorgangs.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[2] Ein Projekt darf nicht über den kritischen Pfad geführt werden.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[3] Der freie Puffer (FP} eines Vorgangs wird ermittelt, indem der früheste Endzeitpunkt dieses Vorgangs (FEZ) vom frühesten Anfangszeitpunkt des\nNachfolgers (FAZ) subtrahiert wird.",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "[4] Der Endtermin eines Projekts wird durch Rückwartsrechnungermittelt.",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] Wird die Dauer eines Vorgangs (z. B Vorgang F) geändert, müssen die Zeitpuffer (GP und FP) der Vorgänger (z. B. Vorgänge A bis E) neu berech-\nnet werden.",
+                              "correct": "false"
+                           }
+                        ]
+                     }
+               ]
+            },
+         {
+            "subject": "WUG",
+            "type": "Final_Exam",
+           "year": "2016",
+            "description": "Zwischen Prufueng herbst 2016",
+            "title": "Sie sind Auszubildende/Auszubildender der IT-SoftServ GmbH, einem Systemhaus.\nDie iT-SoftServ GmbH wurde von der Werk AG mit der Restrukturierung der Informations- und Telekommunikationstechnik beauftragt.\n",
+            "image": "8",
+            "points": "4",
+            "questions": [
+                  {
+                     "title": "2.1\nDie IT-SoftServ GmbH berät ihre Kunden auch zu Betriebssystemen.\nWelche der folgenden Aussagen treffen auf die nachstehenden Betriebssysteme zu?\nHinweis:\nAussagen können ggf. auf mehrere Betriebssysteme zutreffen\nAussagen:\n[1] Enthält einen Linux-Kernel. ist jedoch keine klassische Linux-Distribution\n[2] Wurde für Geräte der Firma Apple entwickeit\n[3] War ursprünglich allein für die Benutzung von Web-Anwendungen ausgelegt, unterstützt nun aber auch Offline-Anwendungen\n[4] Wird in mehreren Distributionen angeboten. die teilweise kostenlos verfügbar sind\n[5] War im Jahr 2015 bei PC-Käufen in Deutschland das am häufigsten vorinstallierte Betriebssystem\n[6] Wurde speziell für Smartphones entwickelt\n[7] Wird in speziellen Versionen auch auf Servern eingesetzt\nBetriebssysteme\na) MS Windows\nb) Linux\nc) Android\nd) C5 X (Mac 08)\ne) Google Chrome 05",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "false",
+                     "currectAnswer": "1",
+                     "correctAnswer": "\na) [5:7]\nb) [4:7]\nc) [1:6]\nd) [2:7]\ne) [1:3]\n"
+                  },
+                  {
+                     "title": "2.2 In einem Großraumbüro der Werk AG mit zehn PC-Arbeitsplätzen soll das Druckvolumen statt wie bisher mit zwei nun mit einem entsprechend\nleistungsstarken Netzwerkdrucker bewältigt werden.\nWelchen der folgenden Vorteile bringt diese Neuorganisation?",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "5",
+                     "correctAnswer": "\n[5] Geringerer Energieverbrauch bei gleichem Druckvolumen\n",
+                     "choices": [
+                           {
+                              "title": "[1] Höhere Ausfalisicherheit durch Redundanz",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[2] Halbierung der Druckkosten, da nun weniger gedruckt wird",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[3] Halbierung des Papierverbrauchs bei gleichem Druckvolumen",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[4] Halbierung der Netzwerkiast bei gleichem Druckvolumen",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "[5] Geringerer Energieverbrauch bei gleichem Druckvolumen",
+                              "correct": "true"
+                           }
+                        ]
+                     }
+               ]
+            },
+         {
+            "subject": "ANW",
+            "type": "Final_Exam",
+           "year": "2016",
+            "description": "Zwischen Prufueng herbst 2016 - uml",
+            "title": "",
+            "image": "0",
+            "points": "1",
+            "questions": [
+                  {
+                     "title": "Welche Eigenschaften können Attribute einer Klasse in UML aufweisen?",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "1,2,3",
+                     "correctAnswer": "",
+                     "choices": [
+                           {
+                              "title": "{optional}: Nullwerte sind erlaubt",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "\n/attributname: abgeleitetes Attribut\n",
+                              "correct": "true"
+                           },
+                           {
+                              "title": "\n|attributname: Sichtbarkeiten werden ignoriert\n",
+                              "correct": "false"
+                           },
+                           {
+                              "title": "\n{final}: Attributwert darf nicht verändert werden\n",
+                              "correct": "true"
+                           }
+                        ]
+                     },
+                  {
+                     "title": "\nWie sollte folgender Sachverhalt abgebildet werden:\nSaisonarbeiter können in einer oder mehreren Saisonen beschäftigt werden, ihr Arbeitsbeginn und -ende wird jeweils abgespeichert.\n",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "1",
+                     "correctAnswer": "",
+                     "choices": [
+                           {
+                              "title": "\nMittels Assoziationsklasse\n",
+                              "correct": "true",
+                              "image": "a1"
+                           },
+                           {
+                              "title": "\nMittels Klassenattributen\n",
+                              "correct": "false",
+                              "image": "a2"
+                           },
+                           {
+                              "title": "\nMittels binärer Beziehung\n",
+                              "correct": "false",
+                              "image": "a3"
+                           },
+                           {
+                              "title": "\nMittels ternärer Beziehung\n",
+                              "correct": "false",
+                              "image": "a4"
+                           }
+                        ]
+                     },
+                  {
+                     "title": "\nGegeben ist folgender Ausschnitt eines Klassendiagramms. Welche der folgenden Objektdiagramme passen zu diesem Klassendiagramm?\n",
+                     "points": "1",
+                     "type": "Final_Exam",
+                     "year": "2016",
+                     "multipleChoice": "true",
+                     "currectAnswer": "2,3,4,5",
+                     "correctAnswer": "",
+                     "choices": [
+                           {
+                              "title": "\n",
+                              "correct": "false",
+                              "image": "a5"
+                           },
+                           {
+                              "title": "\n",
+                              "correct": "true",
+                              "image": "a6"
+                           },
+                           {
+                              "title": "\n",
+                              "correct": "true",
+                              "image": "a7"
+                           },
+                           {
+                              "title": "\n",
+                              "correct": "true",
+                              "image": "a8"
+                           },
+                           {
+                              "title": "\n",
+                              "correct": "true",
+                              "image": "a9"
+                           },
+                           {
+                              "title": "\n",
+                              "correct": "false",
+                              "image": "a10"
+                           }
+                        ]
+                     }
+               ]
+            }
+      ]

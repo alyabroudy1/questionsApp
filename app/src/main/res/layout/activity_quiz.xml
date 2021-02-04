@@ -28,6 +28,22 @@
         </TextView>
 
         <TextView
+            android:id="@+id/textView_type"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="@string/feedbacktitle"
+            android:textSize="10pt">
+        </TextView>
+
+        <TextView
+            android:id="@+id/textView_year"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="@string/feedbacktitle"
+            android:textSize="10pt">
+        </TextView>
+
+        <TextView
             android:id="@+id/textView_points"
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
@@ -70,6 +86,14 @@
         </ImageView>
 
         <TextView
+            android:id="@+id/textView_q_subject"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="@string/feedbacktitle"
+            android:textSize="10pt">
+        </TextView>
+
+        <TextView
             android:id="@+id/textView_q_points"
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
@@ -78,7 +102,15 @@
         </TextView>
 
         <TextView
-            android:id="@+id/textView_q_subject"
+            android:id="@+id/textView_q_type"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="@string/feedbacktitle"
+            android:textSize="10pt">
+        </TextView>
+
+        <TextView
+            android:id="@+id/textView_q_year"
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
             android:text="@string/feedbacktitle"
@@ -114,6 +146,13 @@
             android:text="@string/feedbacktitle"
             android:textSize="10pt">
         </TextView>
+
+        <EditText
+            android:id="@+id/editText_q_user_answer"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:textSize="10pt">
+        </EditText>
 
         <CheckBox
             android:layout_width="match_parent"

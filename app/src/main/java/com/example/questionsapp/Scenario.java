@@ -8,14 +8,14 @@ import java.util.List;
 public class Scenario {
 
     private static final String TAG = "Scenario";
-    static String SCENARIO_SUBJECT_WUG = "WUG";
-    static String SCENARIO_SUBJECT_ITK = "ITK";
-    static String SCENARIO_SUBJECT_ANW = "ANW";
+
 
 
     private int id;
     private String title;
     private String subject;
+    private String type;
+    private String year;
     private String description;
     private String image;
     private int points;
@@ -105,5 +105,36 @@ public class Scenario {
             Log.d(TAG, "Error addQuestion: "+question.getId() + ". Error!!!");
         }
         return result;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public String getYear() {
+        return year;
+    }
+
+    public void setYear(String year) {
+        this.year = year;
+    }
+
+    @Override
+    public String toString() {
+        return "Scenario{" +
+                "id=" + id +
+                ", title='" + title + '\'' +
+                ", subject='" + subject + '\'' +
+                ", type='" + type + '\'' +
+                ", year='" + year + '\'' +
+                ", description='" + description + '\'' +
+                ", image='" + image + '\'' +
+                ", points=" + points +
+                ", questions=" + questions +
+                '}';
     }
 }

@@ -60,4 +60,15 @@ public class Choice {
     public void setCorrect(boolean correct) {
         this.correct = correct;
     }
+
+    @Override
+    public String toString() {
+        return "Choice{" +
+                "id=" + id +
+                ", title='" + title + '\'' +
+                ", description='" + description + '\'' +
+                ", image='" + image + '\'' +
+                ", correct=" + correct +
+                '}';
+    }
 }
