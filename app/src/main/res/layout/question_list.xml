@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView_points"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:text="@string/feedbacktitle"
+        android:textSize="10pt">
+    </TextView>
+
+    <TextView
+        android:id="@+id/textView_subject"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:text="@string/feedbacktitle"
+        android:textSize="10pt">
+    </TextView>
+
+    <!--Put form controls here-->
+    <TextView
+        android:id="@+id/textView_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feedbacktitle"
+        android:textSize="10pt">
+    </TextView>
+
+    <TextView
+        android:id="@+id/textView_description"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:text="@string/feedbacktitle"
+        android:textSize="10pt">
+    </TextView>
+
+    <ImageView
+        android:id="@+id/imageView_image"
+        android:layout_width="match_parent"
+        android:layout_height="170dp" />
+
+    <TextView
+        android:id="@+id/textView_multiple_choice"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:text="@string/feedbacktitle"
+        android:textSize="10pt">
+    </TextView>
+
+    <ListView
+        android:id="@+id/listView_choices"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView_correct_choice"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:text="@string/feedbacktitle"
+        android:textSize="10pt">
+    </TextView>
+
+</LinearLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp"
+    android:orientation="vertical">
+
+
+    <CheckBox
+        android:id="@+id/checkBox_choice1"
+        android:layout_height="wrap_content"
+        android:text="@string/feedbackresponse"
+        android:layout_width="fill_parent">
+    </CheckBox>
+
+    <ImageView
+        android:id="@+id/imageView_image"
+        android:layout_width="match_parent"
+        android:layout_height="170dp" />
+
+
+</LinearLayout>
