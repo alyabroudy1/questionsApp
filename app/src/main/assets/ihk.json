@@ -765,5 +765,810 @@
                         ]
                      }
                ]
-            }
-      ]
+            },
+  {
+    "subject": "WUG",
+    "type": "Middle_Exam",
+    "year": "2014",
+    "description": "Zwischenprüfung Herbst 2014",
+    "title": "Sie sind Auszubildende/Auszubildender der Infomatic GmbH.\nDie Infomatic GmbH ist ein mittelständisches IT-Systemhaus. \n Die Infomatic GmbH führt eine umfassende Restrukturierung durch.\nSie arbeiten in diesem Projekt mit.",
+    "image": "",
+    "points": "",
+    "questions":  [
+      {
+        "title": "Für das Projekt wurde in der Infomatic GmbH ein Team mit Mitarbeitern aus verschiedenen Fachbereichen gebildet. Die Teambildung verläuft in vier Phasen.\nOrdnen Sie die folgenden Phasen den nachstehenden Erläuterungen zu.\nPhasen\n[1] Forming (Findungsphase)\n[2] Storming (Konfliktphase)\n[3] Norming (Normierungsphase)\n[4] Performing (Arbeitsphase)\nErläuterungen\nDie Teammitglieder \na) konkurrieren um Positionen und Aufgaben.\nb) konzentrieren sich auf die Aufgaben im Projekt.\nc) teilen Verantwortung und Kontrolle.\nd) machen sich untereinander bekannt.",
+        "points": "",
+        "type": "WUG",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": "a) [2]\n b) [4] \n c) [3] \n d) [1]"
+      },
+      {
+        "title": "In der nächsten Teamsitzung sollen Sie ein Brainstorming moderieren.\nWelche der folgenden Aussagen trifft auf Brainstorming zu?",
+        "points": "",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Alle Beiträge müssen fundiert und durchdacht sein.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Es soll keine zeitliche Begrenzung erfolgen.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Fachleute sollen ihre Vorschläge zuerst nennen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Alle Vorschläge sollen zunächst als gleichwertig betrachtet werden.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Kommentare und Kritik sollen spontan geäußert werden.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "In einem Meeting erläutert ein Mitarbeiter der Infomatic GmbH die betriebswirtschaftlichen Produktionsfaktoren. Dabei unterläuft ihm ein Fehler.\nWelcher der folgenden Produktionsfaktoren ist kein betriebswirtschaftlicher, sondern ein volkswirtschaftlicher Produktionsfaktor?",
+        "points": "",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Roh-, Hilfs-, Betriebsstoffe",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Boden",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Betriebsmittel",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Dispositiver Faktor",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Patente, Rechte, Lizenzen",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die Infomatic GmbH will ihre betriebswirtschaftlichen Produktionsfaktoren zur Leistungserstellung effizient einsetzen.\nIn welcher der folgenden Situationen werden die Produktionsfaktoren effizient eingesetzt?",
+        "points": "",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Mit minimalen Produktionsfaktoren wird die maximale Gütermenge erzeugt.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Mit den gegebenen Produktionsfaktoren wird die größtmögliche Gütermenge erzeugt.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Mit den gegebenen Produktionsfaktoren wird eine Gütermenge unterhalb der Kapazitätsgrenze erzeugt.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Mit den gegebenen Produktionsfaktoren wird eine möglichst geringe Gütermenge erzeugt.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Mit möglichst vielen Produktionsfaktoren wird eine Gütermenge erzeugt, die die Nachfrage überschreitet.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Kunden setzten höhere Rabatte durch.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Kunden zahlen höhere Preise.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Kunden erwarten kostenlose Zusatzleistungen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Kunden zahlen häufiger nach Ablauf der Zahlungsfrist.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Weniger Kunden nutzen Skonto.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Das Projektteam diskutiert die aktuelle Organisationsform der Infomatic GmbH und entsprechende Alternativen.\nOrdnen Sie die folgenden Organisationsformen den nachstehenden Aussagen zu.\nOrganisationsformen\n[1] Linienorganisation\n[2] Stablinienorganisation\n[3] Mehrlinienorganisation\n[4] Spartenorganisation\n[5] Matrixorganisation\nAussagen\n a) Die Ausrichtung der Organisation ist objektbezogen.\n b) Die Unternehmensleitung wird von Leitungshilfefunktionen ohne Kompetenzen entlastet.\n c) Eine Stelle kann von mehreren Vorgesetzten verschiedener Abteilungen Weisungen erhalten.\n d) Auf jeder Hierarchieebene gibt es für jede untergeordnete Stelle nur einen Vorgesetzten.\n e) Für jede ausführende Stelle gibt es zwei genau definierte Entscheidungslinien.",
+        "points": "",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": "a) [4] \n b) [2] \n c) [3] \n d) [1] \n e) [5]"
+      },
+      {
+        "title": "Das Projektteam untersucht das Zusammenwirken der Funktionsbereiche innerhalb der Infomatic GmbH.\nWelcher der folgenden Bereiche Ist eine Grundfunktion der Infomatic GmbH?",
+        "points": "",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Einkauf",
+            "correct": "true"
+          },
+          {
+            "title": "[2] Controlling",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Human Resources",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Rechnungswesen",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Informationstechnologie",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die Infomatic GmbH stellt aufgrund der Analyse der Arbeitsabläufe ihren Servicebereich auf Geschäftsprozessorientierung um.\nWelches der folgenden Ziele wird mit einer Geschäftsprozessorientierung nicht erreicht?",
+        "points": "",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Steigerung der Kundenzufriedenheit",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Deutlichere Abgrenzung der Funktionsbereiche",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Verbesserung der Wettbewerbsfähigkeit",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Verbesserung der Produktqualität und des Service",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Verminderung der Reklamationen",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die Infomatik GmbH bietet ein Produkt auf einem Markt an, auf dem viele Anbieter auf viele Nachfrager treffen.\nWelcher der folgenden Marktformen entspricht dieser Markt?",
+        "points": "",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Monopol",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Nachfrageoligopol",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Bilaterales Oligopol",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Angebotsoligopol",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Polypol",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "Das Projektteam der Infomatic GmbH analysiert die Geschäftsprozesse in den Kernfunktionen des Unternehmens.\nWelche der folgenden Aussagen zu Geschäftsprozessen Ist generell zutreffend?",
+        "points": "",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Die In- und Output-Größen eines Geschäftsprozesses sind nicht messbar.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Ein Geschäftsprozess ist an eine Abteilung gebunden und geht nicht über dessen Grenzen hinaus.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] In einem Geschäftsprozess werden alle Tätigkeiten zur Erreichung eines betrieblichen Ziels zusammengefasst.",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Geschäftsprozesse sind Teile der Aufbauorganisation eines Betriebs.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Geschäftsprozesse besitzen keine Schnittstellen zu Kunden und Lieferanten.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Das Projektteam der Infomatic GmbH plant, die Erstellung von Rechnungen zu automatisieren.\nWelche der folgenden Daten muss die Infomatic GmbH in eine Rechnung eindrucken?",
+        "points": "",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Das Logo der Infomatic GmbH",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Eine Rechnungsnummer",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Die freiwillig gewährte Garantie für das gekaufte Gerät",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Das Zustellungsdatum, ab dem die Zahlungsfrist läuft",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Der Zinssatz des dem Kunden gewährten Lieferantenkredits",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Das Projektteam plant, im Rahmen der Restrukturierung ein Thin Client einzuführen.\nIn einem Prospekt zu Thin Clients ist folgender Text enthalten:\n “The thin client server serves out the thin client operating system to the thin clients. After the thin client operating system has booted, it obtains its\n connection settings from the thin client server. These settings are then used to connect to the terminal server.”\n Welche der folgenden Angaben kann dem englischen Text entnommen werden?",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Der Thin Client-Server führt für die Thin Clients das Thin Client-Betriebssystem aus.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Nach dem Start des Thin Client-Betriebssystems auf dern Server baut es Verbindungen zu den Thin Clients auf.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Der Thin Client-Server baut eine Verbindung zum Terminalserver auf.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die Einstellungen der Verbindung werden bei der Beendigung der Sitzung gespeichert.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die Thin Clients erhalten das Betriebssystem vom Thin Client-Server.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "Sie sollen ein Gespräch mit einem Lieferanten für Thin Clients führen. Dabei kommt es auch auf aktives Zuhören an.\nWelche der folgenden Verhaltensweisen entspricht aktivem Zuhören?",
+        "points": "",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Sie sagen nichts, solange der Gesprächspartner spricht und zeigen allein durch Mimik und Gestik, dass Sie interessiert zuhören.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Sie stellen im Verlauf des Gesprächs Verständnisfragen wie z.B. „Habe ich Sie richtig verstanden, dass Sie die Thin Clients erst in der 48 Kalenderwoche liefern können?”",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Sie führen das Gespräch zielorientiert, indem Sie durch verbale und nonverbale Reaktionen den Gesprächspartner lenken.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Sie notieren sich Sachverhalte, die Sie nicht verstanden haben, um am Ende des Gesprächs nachfragen zu können.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Sie vermeiden es, Aussagen des Gesprächspartners zu wiederholen oder zusammenzufassen, damit Missverständhisse nicht auffallen.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die Thin Client-Arbeitsplätze sollen nach den ergonomischen Anforderungen der Bildschirmarbeitsplatzverordnung gestaltet werden.\n Welche der folgenden Anforderungen wird an einen ergonomisch gestalteten Bildschirmarbeitsplatz gestellt?",
+        "points": "",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Alle Arbeitsmittel müssen in Greifnähe positioniert werden, um eine stabile Arbeitshaltung zu gewährleisten.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Jeder Arbeitsplatz muss mit einer Fußstütze ausgestattet werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Es dürfen nur Geräte verwendet werden, die keine Geräusche verursachen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4| Die Tastatur muss auf dem Tisch so fixiert werden, dass der Abstand zum Bildschirm konstant ist.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die Software muss entsprechend den Kenntnissen und Erfahrungen der Benutzer im Hinblick auf die auszuführende Aufgabe angepasst werdenkönnen.",
+            "correct": "true"
+          }
+        ]
+      }
+    ]
+
+  },
+  {
+    "subject": "ITK",
+    "type": "Middle_Exam",
+    "year": "2014",
+    "description": "Zwischenprüfung Herbst 2014",
+    "title": "Sie sind Auszubildende/Auszubildender der Spezial-IT GmbH. \n Die Spezial-IT GmbH wurde von der Bildungseinrichtung @youCATE GmbH beauftragt, deren IT-Systeme zu reorganisieren. \n In diesem Rahmen soll ein weiterer Raum, in dem Zertifizierungsprüfungen abgenommen werden sollen, eingerichtet werden. Dieser Zertifizie- \n rungsraum liegt In einem anderen Gebäude auf dem gleichen Grundstück. \n Sie arbeiten in diesem Projekt mit.",
+    "image": "",
+    "points": "",
+    "questions":  [
+      {
+        "title": "Die Datenübertragung zum Zertifizierungsraum soll möglichst sicher ausgelegt sein.\n Dazu sollen Sie die dieser Anforderung entsprechende Datenübertragungstechnik auswählen und Ihre Wahl begründen.\n a) Geben Sie die zutreffende Datenübertragungstechnik an.\n [1] WLAN \n [2] LAN mit Twisted Pair Verkabelung\n [3] LAN mit LWL-Verkabelung\n b) Geben Sie die entsprechende Begründung an. \n [4] Da bei Funkübertragung keine elektromagnetischen Störungen auftreten\n [5] Da bei Kupferverkabelung keine elektromagnetischen Felder entstehen\n [6] Da diese Technik als Shared Mediatechnik bezeichnet wird\n [7] Da Lichtsignale für elektromagnetische Einflüsse nicht empfänglich sind",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": " a) [3] \n b) [7]"
+      },
+      {
+        "title": "Sie sollen die @youCATE GmbH zu Anzeigegeräten beraten. \n Ordnen Sie die folgenden Begriffe den nachstehenden Anzeigegeräten zu. \n Begriffe: \n [1] Elektronenstrahl \n [2] Flüssigkristallanzeige \n [3] Mikrospiegel \n [4] Leuchtende Dünnschichtbauelemente \n Anzeigegeräte:  \n a) OLED-Monitor\n b) LCD-Monitor \n c) DLP-Projektor \n d) Röhrenmonitor",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": " a) [4] \n b) [2] \n c) [3] \n d) [1]"
+      },
+      {
+        "title": "Die Spezial-IT GmbH soll in einem Schulungsraum der @youCATE GmbH einen Beamer installieren, der für die Anzeige von Filmen und Präsentati-onen genutzt werden soll. Der Beamer bietet die unten genannten Übertragungsstandards. Es soll der Übertragungsstandard verwendet werden, der die best mögliche Audio- und Videoübertragung über ein Kabel ermöglicht. \nWelcher der folgenden Übertragungsstandards ist dazu geeignet?",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] RGB",
+            "correct": "false"
+          },
+          {
+            "title": "[2] DVI-D",
+            "correct": "false"
+          },
+          {
+            "title": "[3] HDMI",
+            "correct": "true"
+          },
+          {
+            "title": "[4] S-Video",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Video-BNC",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die @youCATE GmbH überträgt ihre Lehrfilme von einem zentralen Server in die Schulungsräume. \n Die Auflösung eines Bildes beträgt 1.920 x 1.200 Punkte. Jeder Bildpunkt besitzt eine Farbtiefe von 24 Bit. In jeder Sekunde werden vom Server 30 \n Bilder an den Beamer übertragen. \n Berechnen Sie die Datenmenge in Gbit/s, die beim Abspielen eines Videos übertragen wird. \n Runden Sie das Ergebnis gegebenenfalls auf drei Stellen nach dem Komma auf. \n Hinweis: 1 Mbit = 1.000 Kbit",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": "1,659"
+      },
+      {
+        "title": "Für die Spannungsversorgung des Beamers muss eine neue Elektroleitung installiert werden. Die Leistungsaufnahme des Beamers beträgt 460 W; \n der Beamer wird an 230 V betrieben. \n Ermitteln Sie die Stromstärke, die der Beamer im Betrieb benötigt. \n Runden Sie das Ergebnis gegebenenfalls auf eine Stelle nach dem Komma auf,",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": "2,0"
+      },
+      {
+        "title": "Der zu installierende Beamer bietet einen Betrieb im Eco-Modus. \n Sie informieren sich, welche Auswirkungen sich aus dem Betrieb des Beamers im Eco-Modus gegenüber dem normalen Betrieb ergeben. \n Welche der folgenden Informationen trifft nicht auf den Eco-Modus zu?",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Niedrigerer Geräuschpegel",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Höhere Lampenlebensdauer möglich",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Geringere Energiekosten",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Geringere Helligkeit",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Geringere Bildauflösung",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "Die Spezial-IT GmbH soll für die @youCATE GmbH neue Drucker für den Zertifizierungsraum beschaffen. \n Ordnen Sie die folgenden Merkmale den daneben stehenden Druckertypen zu. \n Merkmale Druckertype \n [1] Verursacht von allen Druckertypen die höchste Lärmemission \n [2] Birgt die Gefahr von gesundheitsschädlichen Feinstaubemissionen a) Nadel \n [3] Kann beim Druck gleichzeitig mehrere Durchschläge erzeugen b) Tintenstrahl \n [4] Verursacht in der Regel hohe Kosten durch Druckfarbe und Ersatz von Druckköpfen \n [5] Bietet beim Druck unabhängig von der Papierqualität die beste Kantenschärfe c) Laser \n [6] Verwendet Piezo- oder Bubble-Jet-Technik zum Aufbringen der Farbe",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": "a) [1:3] \n b) [4:6] \n c) [2:5]"
+      },
+      {
+        "title": "In der @youCATE GmbH werden Daten auf verschiedenen Speichermedien gespeichert. \n Ordnen Sie die folgenden Speichertechniken den daneben stehenden Speichermedien zu. \n Hinweis: Mehrfachnennungen möglich \n Speichertechniken Speichermedien \n [1] Fotografisch \n [2] Mechanisch  \n [3] Elektronisch  \n [4] Magnetisch  \n [5] Magneto-optisch  \n [8] Optisch \n a) HDD \n b) DRA \n c) DVD \n d) MO-Disk \n e) SSD",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": "a) [4] \n b) [3] \n c) [6] \n d) [5] \n e) [3]"
+      },
+      {
+        "title": "Für die Jahresabrechnung der @youCATE GmbH sollen die Stromkosten der Prüfungsplätze ermittelt werden. \n Dazu liegen folgende Angaben vor: \n Betriebszeit/Jahr: 40 Wochen \n Prüfungen/Woche: 25 \n Dauer/Prüfung: 2 Stunden \n Strompreis: 18 ct/kWh \n Ein Prüfungsplatz besteht aus \n — einem TFT-Monitor (70 W) und \n — einem Computer (330 W). \n Berechnen Sie anhand der vorliegenden Daten die Stromkosten für einen Prüfungsplatz pro Jahr in EUR.",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": "144,00"
+      },
+      {
+        "title": "Die Spezial-IT GmbH soll in einem Prüfungsraum der @youCATE GmbH zwei Überwachungskameras installieren. Jede Kamera soll pro Sekunde ein Bild aufnehmen. Die Bilder sollen auf eine Netzwerkplatte (NAS) gespeichert werden. Jedes Bild belegt 34 KiB. Die Kameras sollen acht Stunden pro Tag betrieben werden. \n Ermitteln Sie den Speicherplatz in GiB, den die Überwachungsbilder eines Tages auf der NAS belegen. \n Runden Sie das Ergebnis gegebenenfalls auf zwei Stellen nach dem Komma auf. \n Hinweis: 1 KiB = 1.024 Byte",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": "1,87"
+      },
+      {
+        "title": "Die @youCATE GmbH will die Überwachungskameras per PoE-Technik anschließen lassen. \n Welche der folgenden Angaben ist ein charakteristisches Merkmal der PoE-Technik?",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Verschlüsselung von Datensignalen",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Energieversorgung über Lichtwellenleiter",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Energieversorgung über Ethernet-Leitungen",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Versorgungsspannung der Kameras 230 V",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Maximale Leitungslänge 250 m",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die PCs für den Zertifizierungsraum sind mit USB-Schnittstellen ausgestattet. \n Welche der folgenden Eigenschaften sind der USB-Technik zuzuordnen?",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Paralleles Bussystem",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Bereitgestellte Spannung 7,5V +2 %",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Datenrate bis zu 480 GB/s",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Host Controller im Einsatz",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Hot Plug-Fähigkeit",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Verwaltung von maximal 256 Geräten",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die IT-Prozesse in der Verwaltung der @youCATE GmbH sollen effektiver gestaltet werden. Dabei sollen die betrieblichen Informationen zwischen einem Anwendungsprogramm und einer Datenbank über eine Softwareschnittstelle ausgetauscht werden. \n Welche der folgenden Schnittstellen kommt dafür in Betracht?",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] RS-232",
+            "correct": "false"
+          },
+          {
+            "title": "[2] ODBC",
+            "correct": "true"
+          },
+          {
+            "title": "[3] IEEE-1284",
+            "correct": "false"
+          },
+          {
+            "title": "[4] USB 2.0 ",
+            "correct": "false"
+          },
+          {
+            "title": "[5] IrDA",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die Spezial-IT GmbH soll für die @youCATE GmbH ein Programm zur Schulungsraumbelegung entwickeln. \n Welches der folgenden Hilfsmittel dient zur Dokumentation einer Programmlogik?",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Datenflussplan",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Interpreter",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Debugger",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Struktogramm ",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Gantt-Diagramm",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die Spezial-IT GmbH legt großen Wert auf gut strukturierte Programme. \n Welche der folgenden Aussagen beschreibt die strukturierte Programmierung am besten?",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Eine strukturierte Programmierung strebt einen schnelleren Programmablauf an.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Der vom Compiler erzeugte Maschinencode ist leichter lesbar.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Prozedurale und strukturierte Programmierung schließen sich aus.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Strukturblöcke haben genau einen Eingang und genau einen Ausgang.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Strukturblöcke haben einen Eingang und mehrere Ausgänge.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die Spezial-IT GmbH will eine Anwendung in einer objektorientierten Programmiersprache entwickeln. \n Welche der folgenden Aussagen trifft auf die objektorientierte Programmierung zu?",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Mehrere Objekte mit gemeinsamer Struktur werden zu einer Funktion zusammengefasst.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Ein Objekt wird durch Attribute, Methoden und seine Beziehungen beschrieben.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Das Verhalten eines Objekts wird allein durch dessen Attribute bestimmt.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Nur Objekte vom gleichen Objekttyp (Klasse) können miteinander in Beziehung treten.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Eine Klasse vererbt Attribute an die öffentlichen Methoden eines Objekts.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Sie sollen eine objektorientierte Programmiersprache auswählen. \n Welche der folgenden Sprachen sind objektorientierte Programmiersprachen? \n Tragen Sie die Ziffern vor den zwei zutreffenden Sprachen in die Kästchen ein.",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] C#",
+            "correct": "true"
+          },
+          {
+            "title": "[2] PASCAL",
+            "correct": "false"
+          },
+          {
+            "title": "[3] JAVA",
+            "correct": "true"
+          },
+          {
+            "title": "[4] COBOL",
+            "correct": "false"
+          },
+          {
+            "title": "[5] ASSEMBLER",
+            "correct": "false"
+          },
+          {
+            "title": "[6] HTML",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die Spezial-IT GmbH will die für die @youCATE GmbH erstellte Software von einem Key-User testen lassen. \n Welcher der folgenden Tests ist für einen Key-User geeignet? \n Tragen Sie die Ziffer vor dem zutreffenden Test in das Kästchen ein.",
+        "points": "",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Integrationstest",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Klassentest",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Black-Box-Test",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Systemtest",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Sicherheitsfunktionstest",
+            "correct": "false"
+          }
+        ]
+      }
+
+    ]
+
+  }
+
+]
