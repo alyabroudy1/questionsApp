@@ -773,11 +773,11 @@
     "description": "Zwischenprüfung Herbst 2014",
     "title": "Sie sind Auszubildende/Auszubildender der Infomatic GmbH.\nDie Infomatic GmbH ist ein mittelständisches IT-Systemhaus. \n Die Infomatic GmbH führt eine umfassende Restrukturierung durch.\nSie arbeiten in diesem Projekt mit.",
     "image": "",
-    "points": "",
+    "points": "0",
     "questions":  [
       {
         "title": "Für das Projekt wurde in der Infomatic GmbH ein Team mit Mitarbeitern aus verschiedenen Fachbereichen gebildet. Die Teambildung verläuft in vier Phasen.\nOrdnen Sie die folgenden Phasen den nachstehenden Erläuterungen zu.\nPhasen\n[1] Forming (Findungsphase)\n[2] Storming (Konfliktphase)\n[3] Norming (Normierungsphase)\n[4] Performing (Arbeitsphase)\nErläuterungen\nDie Teammitglieder \na) konkurrieren um Positionen und Aufgaben.\nb) konzentrieren sich auf die Aufgaben im Projekt.\nc) teilen Verantwortung und Kontrolle.\nd) machen sich untereinander bekannt.",
-        "points": "",
+        "points": "0",
         "type": "WUG",
         "year": "2014",
         "multipleChoice": "false",
@@ -785,7 +785,7 @@
       },
       {
         "title": "In der nächsten Teamsitzung sollen Sie ein Brainstorming moderieren.\nWelche der folgenden Aussagen trifft auf Brainstorming zu?",
-        "points": "",
+        "points": "0",
         "subject": "WUG",
         "type": "Middle_Exam",
         "year": "2014",
@@ -816,7 +816,7 @@
       },
       {
         "title": "In einem Meeting erläutert ein Mitarbeiter der Infomatic GmbH die betriebswirtschaftlichen Produktionsfaktoren. Dabei unterläuft ihm ein Fehler.\nWelcher der folgenden Produktionsfaktoren ist kein betriebswirtschaftlicher, sondern ein volkswirtschaftlicher Produktionsfaktor?",
-        "points": "",
+        "points": "0",
         "subject": "WUG",
         "type": "Middle_Exam",
         "year": "2014",
@@ -847,7 +847,7 @@
       },
       {
         "title": "Die Infomatic GmbH will ihre betriebswirtschaftlichen Produktionsfaktoren zur Leistungserstellung effizient einsetzen.\nIn welcher der folgenden Situationen werden die Produktionsfaktoren effizient eingesetzt?",
-        "points": "",
+        "points": "0",
         "subject": "WUG",
         "type": "Middle_Exam",
         "year": "2014",
@@ -878,7 +878,7 @@
       },
       {
         "title": "",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -909,7 +909,7 @@
       },
       {
         "title": "Das Projektteam diskutiert die aktuelle Organisationsform der Infomatic GmbH und entsprechende Alternativen.\nOrdnen Sie die folgenden Organisationsformen den nachstehenden Aussagen zu.\nOrganisationsformen\n[1] Linienorganisation\n[2] Stablinienorganisation\n[3] Mehrlinienorganisation\n[4] Spartenorganisation\n[5] Matrixorganisation\nAussagen\n a) Die Ausrichtung der Organisation ist objektbezogen.\n b) Die Unternehmensleitung wird von Leitungshilfefunktionen ohne Kompetenzen entlastet.\n c) Eine Stelle kann von mehreren Vorgesetzten verschiedener Abteilungen Weisungen erhalten.\n d) Auf jeder Hierarchieebene gibt es für jede untergeordnete Stelle nur einen Vorgesetzten.\n e) Für jede ausführende Stelle gibt es zwei genau definierte Entscheidungslinien.",
-        "points": "",
+        "points": "0",
         "subject": "WUG",
         "type": "Middle_Exam",
         "year": "2014",
@@ -918,7 +918,7 @@
       },
       {
         "title": "Das Projektteam untersucht das Zusammenwirken der Funktionsbereiche innerhalb der Infomatic GmbH.\nWelcher der folgenden Bereiche Ist eine Grundfunktion der Infomatic GmbH?",
-        "points": "",
+        "points": "0",
         "subject": "WUG",
         "type": "Middle_Exam",
         "year": "2014",
@@ -949,7 +949,7 @@
       },
       {
         "title": "Die Infomatic GmbH stellt aufgrund der Analyse der Arbeitsabläufe ihren Servicebereich auf Geschäftsprozessorientierung um.\nWelches der folgenden Ziele wird mit einer Geschäftsprozessorientierung nicht erreicht?",
-        "points": "",
+        "points": "0",
         "subject": "WUG",
         "type": "Middle_Exam",
         "year": "2014",
@@ -980,7 +980,7 @@
       },
       {
         "title": "Die Infomatik GmbH bietet ein Produkt auf einem Markt an, auf dem viele Anbieter auf viele Nachfrager treffen.\nWelcher der folgenden Marktformen entspricht dieser Markt?",
-        "points": "",
+        "points": "0",
         "subject": "WUG",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1011,7 +1011,7 @@
       },
       {
         "title": "Das Projektteam der Infomatic GmbH analysiert die Geschäftsprozesse in den Kernfunktionen des Unternehmens.\nWelche der folgenden Aussagen zu Geschäftsprozessen Ist generell zutreffend?",
-        "points": "",
+        "points": "0",
         "subject": "WUG",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1042,7 +1042,7 @@
       },
       {
         "title": "Das Projektteam der Infomatic GmbH plant, die Erstellung von Rechnungen zu automatisieren.\nWelche der folgenden Daten muss die Infomatic GmbH in eine Rechnung eindrucken?",
-        "points": "",
+        "points": "0",
         "subject": "WUG",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1073,7 +1073,7 @@
       },
       {
         "title": "Das Projektteam plant, im Rahmen der Restrukturierung ein Thin Client einzuführen.\nIn einem Prospekt zu Thin Clients ist folgender Text enthalten:\n “The thin client server serves out the thin client operating system to the thin clients. After the thin client operating system has booted, it obtains its\n connection settings from the thin client server. These settings are then used to connect to the terminal server.”\n Welche der folgenden Angaben kann dem englischen Text entnommen werden?",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1104,7 +1104,7 @@
       },
       {
         "title": "Sie sollen ein Gespräch mit einem Lieferanten für Thin Clients führen. Dabei kommt es auch auf aktives Zuhören an.\nWelche der folgenden Verhaltensweisen entspricht aktivem Zuhören?",
-        "points": "",
+        "points": "0",
         "subject": "WUG",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1135,7 +1135,7 @@
       },
       {
         "title": "Die Thin Client-Arbeitsplätze sollen nach den ergonomischen Anforderungen der Bildschirmarbeitsplatzverordnung gestaltet werden.\n Welche der folgenden Anforderungen wird an einen ergonomisch gestalteten Bildschirmarbeitsplatz gestellt?",
-        "points": "",
+        "points": "0",
         "subject": "WUG",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1174,11 +1174,11 @@
     "description": "Zwischenprüfung Herbst 2014",
     "title": "Sie sind Auszubildende/Auszubildender der Spezial-IT GmbH. \n Die Spezial-IT GmbH wurde von der Bildungseinrichtung @youCATE GmbH beauftragt, deren IT-Systeme zu reorganisieren. \n In diesem Rahmen soll ein weiterer Raum, in dem Zertifizierungsprüfungen abgenommen werden sollen, eingerichtet werden. Dieser Zertifizie- \n rungsraum liegt In einem anderen Gebäude auf dem gleichen Grundstück. \n Sie arbeiten in diesem Projekt mit.",
     "image": "",
-    "points": "",
+    "points": "0",
     "questions":  [
       {
         "title": "Die Datenübertragung zum Zertifizierungsraum soll möglichst sicher ausgelegt sein.\n Dazu sollen Sie die dieser Anforderung entsprechende Datenübertragungstechnik auswählen und Ihre Wahl begründen.\n a) Geben Sie die zutreffende Datenübertragungstechnik an.\n [1] WLAN \n [2] LAN mit Twisted Pair Verkabelung\n [3] LAN mit LWL-Verkabelung\n b) Geben Sie die entsprechende Begründung an. \n [4] Da bei Funkübertragung keine elektromagnetischen Störungen auftreten\n [5] Da bei Kupferverkabelung keine elektromagnetischen Felder entstehen\n [6] Da diese Technik als Shared Mediatechnik bezeichnet wird\n [7] Da Lichtsignale für elektromagnetische Einflüsse nicht empfänglich sind",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1187,7 +1187,7 @@
       },
       {
         "title": "Sie sollen die @youCATE GmbH zu Anzeigegeräten beraten. \n Ordnen Sie die folgenden Begriffe den nachstehenden Anzeigegeräten zu. \n Begriffe: \n [1] Elektronenstrahl \n [2] Flüssigkristallanzeige \n [3] Mikrospiegel \n [4] Leuchtende Dünnschichtbauelemente \n Anzeigegeräte:  \n a) OLED-Monitor\n b) LCD-Monitor \n c) DLP-Projektor \n d) Röhrenmonitor",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1196,7 +1196,7 @@
       },
       {
         "title": "Die Spezial-IT GmbH soll in einem Schulungsraum der @youCATE GmbH einen Beamer installieren, der für die Anzeige von Filmen und Präsentati-onen genutzt werden soll. Der Beamer bietet die unten genannten Übertragungsstandards. Es soll der Übertragungsstandard verwendet werden, der die best mögliche Audio- und Videoübertragung über ein Kabel ermöglicht. \nWelcher der folgenden Übertragungsstandards ist dazu geeignet?",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1227,7 +1227,7 @@
       },
       {
         "title": "Die @youCATE GmbH überträgt ihre Lehrfilme von einem zentralen Server in die Schulungsräume. \n Die Auflösung eines Bildes beträgt 1.920 x 1.200 Punkte. Jeder Bildpunkt besitzt eine Farbtiefe von 24 Bit. In jeder Sekunde werden vom Server 30 \n Bilder an den Beamer übertragen. \n Berechnen Sie die Datenmenge in Gbit/s, die beim Abspielen eines Videos übertragen wird. \n Runden Sie das Ergebnis gegebenenfalls auf drei Stellen nach dem Komma auf. \n Hinweis: 1 Mbit = 1.000 Kbit",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1236,7 +1236,7 @@
       },
       {
         "title": "Für die Spannungsversorgung des Beamers muss eine neue Elektroleitung installiert werden. Die Leistungsaufnahme des Beamers beträgt 460 W; \n der Beamer wird an 230 V betrieben. \n Ermitteln Sie die Stromstärke, die der Beamer im Betrieb benötigt. \n Runden Sie das Ergebnis gegebenenfalls auf eine Stelle nach dem Komma auf,",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1245,7 +1245,7 @@
       },
       {
         "title": "Der zu installierende Beamer bietet einen Betrieb im Eco-Modus. \n Sie informieren sich, welche Auswirkungen sich aus dem Betrieb des Beamers im Eco-Modus gegenüber dem normalen Betrieb ergeben. \n Welche der folgenden Informationen trifft nicht auf den Eco-Modus zu?",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1275,8 +1275,8 @@
         ]
       },
       {
-        "title": "Die Spezial-IT GmbH soll für die @youCATE GmbH neue Drucker für den Zertifizierungsraum beschaffen. \n Ordnen Sie die folgenden Merkmale den daneben stehenden Druckertypen zu. \n Merkmale Druckertype \n [1] Verursacht von allen Druckertypen die höchste Lärmemission \n [2] Birgt die Gefahr von gesundheitsschädlichen Feinstaubemissionen a) Nadel \n [3] Kann beim Druck gleichzeitig mehrere Durchschläge erzeugen b) Tintenstrahl \n [4] Verursacht in der Regel hohe Kosten durch Druckfarbe und Ersatz von Druckköpfen \n [5] Bietet beim Druck unabhängig von der Papierqualität die beste Kantenschärfe c) Laser \n [6] Verwendet Piezo- oder Bubble-Jet-Technik zum Aufbringen der Farbe",
-        "points": "",
+        "title": "Die Spezial-IT GmbH soll für die @youCATE GmbH neue Drucker für den Zertifizierungsraum beschaffen. \n Ordnen Sie die folgenden Merkmale den daneben stehenden Druckertypen zu. \n Merkmale Druckertype \n [1] Verursacht von allen Druckertypen die höchste Lärmemission \n [2] Birgt die Gefahr von gesundheitsschädlichen Feinstaubemissionen  \n [3] Kann beim Druck gleichzeitig mehrere Durchschläge erzeugen \n [4] Verursacht in der Regel hohe Kosten durch Druckfarbe und Ersatz von Druckköpfen \n [5] Bietet beim Druck unabhängig von der Papierqualität die beste Kantenschärfe \n [6] Verwendet Piezo- oder Bubble-Jet-Technik zum Aufbringen der Farbe \n a) Nadel \n b) Tintenstrahl \n  c) Laser",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1285,7 +1285,7 @@
       },
       {
         "title": "In der @youCATE GmbH werden Daten auf verschiedenen Speichermedien gespeichert. \n Ordnen Sie die folgenden Speichertechniken den daneben stehenden Speichermedien zu. \n Hinweis: Mehrfachnennungen möglich \n Speichertechniken Speichermedien \n [1] Fotografisch \n [2] Mechanisch  \n [3] Elektronisch  \n [4] Magnetisch  \n [5] Magneto-optisch  \n [8] Optisch \n a) HDD \n b) DRA \n c) DVD \n d) MO-Disk \n e) SSD",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1294,7 +1294,7 @@
       },
       {
         "title": "Für die Jahresabrechnung der @youCATE GmbH sollen die Stromkosten der Prüfungsplätze ermittelt werden. \n Dazu liegen folgende Angaben vor: \n Betriebszeit/Jahr: 40 Wochen \n Prüfungen/Woche: 25 \n Dauer/Prüfung: 2 Stunden \n Strompreis: 18 ct/kWh \n Ein Prüfungsplatz besteht aus \n — einem TFT-Monitor (70 W) und \n — einem Computer (330 W). \n Berechnen Sie anhand der vorliegenden Daten die Stromkosten für einen Prüfungsplatz pro Jahr in EUR.",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1303,7 +1303,7 @@
       },
       {
         "title": "Die Spezial-IT GmbH soll in einem Prüfungsraum der @youCATE GmbH zwei Überwachungskameras installieren. Jede Kamera soll pro Sekunde ein Bild aufnehmen. Die Bilder sollen auf eine Netzwerkplatte (NAS) gespeichert werden. Jedes Bild belegt 34 KiB. Die Kameras sollen acht Stunden pro Tag betrieben werden. \n Ermitteln Sie den Speicherplatz in GiB, den die Überwachungsbilder eines Tages auf der NAS belegen. \n Runden Sie das Ergebnis gegebenenfalls auf zwei Stellen nach dem Komma auf. \n Hinweis: 1 KiB = 1.024 Byte",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1312,7 +1312,7 @@
       },
       {
         "title": "Die @youCATE GmbH will die Überwachungskameras per PoE-Technik anschließen lassen. \n Welche der folgenden Angaben ist ein charakteristisches Merkmal der PoE-Technik?",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1343,7 +1343,7 @@
       },
       {
         "title": "Die PCs für den Zertifizierungsraum sind mit USB-Schnittstellen ausgestattet. \n Welche der folgenden Eigenschaften sind der USB-Technik zuzuordnen?",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1378,7 +1378,7 @@
       },
       {
         "title": "Die IT-Prozesse in der Verwaltung der @youCATE GmbH sollen effektiver gestaltet werden. Dabei sollen die betrieblichen Informationen zwischen einem Anwendungsprogramm und einer Datenbank über eine Softwareschnittstelle ausgetauscht werden. \n Welche der folgenden Schnittstellen kommt dafür in Betracht?",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1409,7 +1409,7 @@
       },
       {
         "title": "Die Spezial-IT GmbH soll für die @youCATE GmbH ein Programm zur Schulungsraumbelegung entwickeln. \n Welches der folgenden Hilfsmittel dient zur Dokumentation einer Programmlogik?",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1440,7 +1440,7 @@
       },
       {
         "title": "Die Spezial-IT GmbH legt großen Wert auf gut strukturierte Programme. \n Welche der folgenden Aussagen beschreibt die strukturierte Programmierung am besten?",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1471,7 +1471,7 @@
       },
       {
         "title": "Die Spezial-IT GmbH will eine Anwendung in einer objektorientierten Programmiersprache entwickeln. \n Welche der folgenden Aussagen trifft auf die objektorientierte Programmierung zu?",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1502,7 +1502,7 @@
       },
       {
         "title": "Sie sollen eine objektorientierte Programmiersprache auswählen. \n Welche der folgenden Sprachen sind objektorientierte Programmiersprachen? \n Tragen Sie die Ziffern vor den zwei zutreffenden Sprachen in die Kästchen ein.",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1537,7 +1537,7 @@
       },
       {
         "title": "Die Spezial-IT GmbH will die für die @youCATE GmbH erstellte Software von einem Key-User testen lassen. \n Welcher der folgenden Tests ist für einen Key-User geeignet? \n Tragen Sie die Ziffer vor dem zutreffenden Test in das Kästchen ein.",
-        "points": "",
+        "points": "0",
         "subject": "ITK",
         "type": "Middle_Exam",
         "year": "2014",
@@ -1569,6 +1569,506 @@
 
     ]
 
+  },
+  {
+    "subject": "ITK",
+    "type": "Middle_Exam",
+    "year": "2014",
+    "description": "Zwischenprüfung Herbst 2014",
+    "title": "Sie sind Auszubildende/Auszubildender der Maschinenfabrik Blauer KG. \n Die Blauer KG möchte die Steuerung der Heizungsanlage in ihren Produktionshallen und Büroräumen automatisieren. \n Sie arbeiten in diesem Projekt mit.",
+    "image": "1.JPG",
+    "questions":  [
+
+      {
+        "title": "Ein Datensatz besteht aus folgenden Feldern: \n Raumnummer short integer (16 Bit) \n Zeit long integer (64 Bit) \n Temperatur float (32 Bit) \n Durchschnittswert | boolean (1 Byte) \n Ermitteln Sie die anfallende Datenmenge in KiB. \n Runden Sie das Ergebnis ggf. auf volle KiB auf. \n Tragen Sie das Ergebnis in die Kästchen ein. \n Hinweis: 1 KiB = 1.024 Byte",
+        "subject": "ITK",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": "6.121"
+      }
+    ]
+  },
+  {
+    "subject": "ANW",
+    "type": "Middle_Exam",
+    "year": "2014",
+    "description": "Zwischenprüfung Herbst 2014",
+    "title": "Zusätzlich zu den Temperatursensoren befindet sich in jedem Raum ein Fenstersensor. Dieser meldet, ob das Fenster geöffnet ist. \n Die Heizung soll eingeschaltet werden, wenn die Temperatur unter dem eingestellten Schwellwert von 20° C liegt und das Fenster geschlossen ist und ausgeschaltet werden, wenn die Temperatur größer/gleich dem Schwellenwert ist oder sobald ein Fenster geöffnet wird.",
+    "image": "q1.JPG",
+    "questions":  [
+
+      {
+        "title": "In welchen Räumen wird die Heizung nicht korrekt ein- oder ausgeschaltet? /n Tragen Sie die Raumnummern dieser zwei Räume in die Kästchen ein,",
+        "subject": "ANW",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "multipleChoice": "false",
+        "correctAnswer": "keine auswertung"
+      },
+      {
+        "title": "Welches der folgenden Struktogramme bildet die geforderte Logik richtig ab? \n Tragen Sie die Ziffer vor dem zutreffenden Struktogramm in das Kästchen ein.",
+        "subject": "ANW",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "image": "c1.JPG",
+            "correct": "false"
+          },
+          {
+            "image": "c2.JPG",
+            "correct": "false"
+          },
+          {
+            "image": "c3.JPG",
+            "correct": "true"
+          },
+          {
+            "image": "c4.JPG",
+            "correct": "false"
+          },
+          {
+            "image": "c5.JPG",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Welche der folgenden Kontrollstrukturen kommt in den oben stehenden Struktogrammen vor? \n Tragen Sie die Ziffer vor der zutreffenden Kontrollstruktur in das Kästchen ein.",
+        "subject": "ANW",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Kopfgesteuerte Schleife",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Fußgesteuerte Schleife",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Zählschleife",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Verzweigung",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Sprunganweisung",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Im Laufe der Programmentwicklung sind verschiedene Tests erforderlich. \n Welche der folgenden Aspekte werden mit den nachstehenden Testverfahren überprüft? \n Tragen Sie die Ziffer vor dem jeweils zutreffenden Aspekt In das Kästchen ein. \n Aspekte: \n [1] Datenkonsistenz \n [2] Syntaktische Korrektheit eines Programms \n [3] Antwortzeitverhalten eines Programms \n [4] Zusammenwirken mehrerer Programmmodule \n [5] Ergonomie der Programmoberfläche \n [6] Semantische Korrektheit eines Programmentwurfs \n Testverfahren:  \n a) Performance-Test \n b) Verbundtest",
+        "subject": "ANW",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "false",
+        "correctAnswer": "a) [3] \n b) [4]"
+      },
+      {
+        "title": "Zur Programmentwicklung setzt die IT-Abteilung ein Versionsverwaltungssystem ein. \n Welche der folgenden Aufgaben kann ein solches System nicht erfüllen? \n Tragen Sie die Ziffer vor der nicht zutreffenden Aufgabe in das Kästchen ein.",
+        "subject": "ANW",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Wiederherstellung früher Versionen eines gesamten Projektes",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Wiederherstellung früher Versionen einzelner Dateien",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Überwachung von Lizenzverletzungen im Quellcode",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Koordinierung der gemeinsamen Arbeit mehrerer Entwickler",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Dokumentation der Änderungen an einer Datei",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Die Blauer KG legt für die von ihr erstellte und im Unternehmen genutzte Software Programmdokumentationen an. \n Welche der folgenden Aussagen trifft auf eine Programmdokumentation zu? \n Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "ANW",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Muss aufgrund des Bundesdatenschutzgesetzes für kommerziell genutzte Software angelegt werden",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Wird unter anderem als Grundlage zur Weiterentwicklung durch andere Programmierer angelegt",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Muss aufgrund der Bildschirmarbeitsplatzverordnung zum Nachweis der Einhaltung ergonomischer Vorschriften angelegt werden",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Wird als Nachschlagewerk für Anwender angelegt",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Wird unter anderem als Sammlung des Quellcodes angelegt, auf die der Compiler zugreift",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Bei der Programmierung werden auch Konstanten verwendet. \n Welche der folgenden Beschreibungen trifft auf Konstanten zu? \n Tragen Sie die Ziffer vor der zutreffenden Beschreibung in das Kästchen ein. \n Konstanten: ",
+        "subject": "ANW",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] enthalten stets eine Gleitkommazahl.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] enthalten immer ganzzahlige Werte.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] können zur Laufzeit des Programms verändert werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] können während der Entwicklung des Programms verändert werden.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] werden während des Compilierens des Programms ignoriert.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Das Programm berücksichtigt bereits zwei Arten von Sensoren in den Klassen „temperatursensor” und „fenstersensor“. Möglicherweise werden später auch weitere Sensoren, zum Beispiel für Luftfeuchtigkeit, benötigt. \n Durch welche der folgenden Vorgehensweisen können Sie spätere Erweiterungen schon bei der Programmierung berücksichtigen? \n Tragen Sie die Ziffer vor der zutreffenden Vorgehensweise in das Kästchen ein.",
+        "subject": "ANW",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Man leitet alle Klassen für Sensoren von der Klasse „temperatursensor ab.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Man bildet eine allgemeine Klasse „sensor“ und leitet davon „temperatursensor”, „fenstersensor” und mögliche weitere Sensoren ab.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Man kopiert eine der vorhandenen Klassen auf die neue Klasse und ändert ihre Attribute.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Man kopiert eine der vorhandenen Klassen auf die neue Klasse und ändert ihre Methoden.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Eine Anpassung Ist nicht notwendig, da neue Sensoren immer mit Objektklassen ausgeliefert werden.",
+            "correct": "false"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "WUG",
+    "type": "Middle_Exam",
+    "year": "2014",
+    "description": "Sie sind Auszubildende/Auszubildender der Bruno Meier KG.",
+    "image": "",
+    "questions":  [
+      {
+        "title": "Der Homepage der Bruno Meier KG entnehmen Sie, dass Herr Bruno Meier als Unternehmensgründer das Unternehmen alleine führt. \n Welche der folgenden Aussagen trifft auf Herrn Meier zu? \n Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein. \n Herr Meier ist...",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Kommanditist und haftet mit seinem gesamten Vermögen.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Komplementär und haftet mit seinem gesamten Vermögen.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Kommanditist und haftet mit seinen Unternehmenseinlagen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Komplementär und haftet mit seinen Unternehmenseinlagen.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Inhaber und haftet mit seiner Mindesteinlage.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Eine Kommanditgesellschaft wie die Bruno Meier KG muss bei Gründung der Gesellschaft in das Handelsregister eingetragen werden. \n An welche der folgenden Institutionen muss man sich für diese Eintragung ins Handelsregister wenden? \n Tragen Sie die Ziffer vor der zutreffenden Institution in das Kästchen ein.",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] IHK",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Gewerbeamt",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Hausbank",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Finanzamt",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Amtsgericht",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "Auf der Busfahrt morgens in die Firma lesen Sie sich nochmals Ihren Ausbildungsvertrag durch. Sie entdecken im Vertrag einen Fehler, der sich unab- sichtlich seitens der Personalabteilung der Bruno Meier KG in das Dokument eingeschlichen hat. \n Welcher der folgenden Inhaltspunkte darf nicht in Ihrem Ausbildungsvertrag stehen? \n Tragen Sie die Ziffer vor dem nicht zulässigen Inhaltspunkt in das Kästchen ein.",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Ausbildungsdauer: drei Jahre",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Regelmäßigen Arbeitszeit: 36 Stunden/Woche",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Dauer der Probezeit: sechs Monate",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Dauer des Urlaubs: 30 Arbeitstage",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Ziel der Ausbildung",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "In Ihrem Ausbildungsvertrag wird eine Ausbildungsvergütung von 600,00 EUR brutto vereinbart. \n Welche der folgenden Aussagen erläutert den Zusatz „brutto“ zutreffend. \n Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Die fälligen Steuern und Sozialabgaben werden vom Arbeitgeber bezahlt.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die fälligen Steuern und Sozialabgaben müssen von Ihnen bezahlt werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Es müssen keine Steuern und Sozialabgaben abgeführt werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Steuern und Sozialabgaben sind teils vom Arbeitgeber aber auch zum Teil von Ihnen zu entrichten.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Von Ihnen sind nur die Sozialabgaben abzuführen.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Ihre Ausbildungsvergütung wird in einem Tarifvertrag Ihrer Branche geregelt. \n Welches der folgenden Organe ist am Abschluss dieses Tarifvertrags als Vertragspartner beteiligt \n Tragen Sie die Ziffer vor dem zutreffenden Organ in das Kästchen ein.",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Arbeitgeberverband",
+            "correct": "true"
+          },
+          {
+            "title": "[2] IHK",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Betriebsrat",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Gesellschafterversammlung",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Mitarbeiterversammlung",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Ihnen wird der Betriebsratsvorsitzende der Bruno Meier KG, Herr Heinrich, vorgestellt. \n Welcher der folgenden Sachverhalte ist die Voraussetzung für die Wahl eines Betriebsrats? \n Tragen Sie die Ziffer vor der zutreffenden Voraussetzung in das Kästchen ein.",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Der Umsatz des Unternehmens muss größer als 50.000 EUR sein.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Wenigstens fünf wahlberechtigte Arbeitnehmer müssen ständig beschäftigt sein.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Die Geschäftsleitung muss der Wahl einer Arbeitnehmervertretung zustimmen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Es muss mindestens ein Mitarbeiter Mitglied bei einer Gewerkschaft sein.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Das Unternehmen muss Mitglied im Arbeitgeberverband sein.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Sie fragen bei einer ersten Unterweisung Ihren Ausbilder Herrn Müller, wer die Sicherheitsregeln für die Büro- und Bildschirmarbeitsplätze erlässt. \n Welche der folgenden Institutionen ist hierfür zuständig? \n Tragen Sie die Ziffer vor der zutreffenden Institution in das Kästchen ein.",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Das Gewerbeaufsichtsamt.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Geschäftsleitung",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Die Träger der gesetzlichen Unfallversicherung",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Die Industrie- und Handelskammer",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die Interessenvertretung der Arbeitnehmer",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "Ein Lagerort in der Bruno Meier KG ist mit Sicherheitszeichen beschildert. \n Um welche der folgenden Zeichensorten handelt es sich bei den nachstehenden Sicherheitszeichen? \n Tragen Sie die Ziffer vor der jeweils zutreffenden Zeichensorte in das Kästchen ein. \n Zeichensorten: \n [1] Verbotszeichen \n [2] Gebotszeichen \n [3] Rettungszeichen \n [4] Brandschutzzeichen \n [5] Gefahrenzeichen \n [6] Warnzeichen \n Sicherheitszeichen",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "q2.JPG",
+        "multipleChoice": "false",
+        "correctAnswer": " a) [1] \n b) [4] \n c) [3] \n d) [6] \n e) [2]"
+      },
+      {
+        "title": "Die Bruno Meier KG muss die Verpackungsverordnung beachten. \n Zu welcher der folgenden Maßnahmen ist die Bruno Meier KG aufgrund der Verpackungsverordnung verpflichtet? \n Tragen Sie die Ziffer vor der zutreffenden Maßnahme In das Kästchen ein.",
+        "subject": "WUG",
+        "type": "Middle_Exam",
+        "year": "2014",
+        "image": "",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Verwendung von Mehrwegverpackungen",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Verzicht auf Transportverpackung, wenn Ware bereits durch Verkaufsverpackung geschützt ist",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Thermische Verwertung von Verpackungen",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Verwendung von Verpackungen aus Recyclingmaterial",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Rücknahme von Verpackungen",
+            "correct": "true"
+          }
+        ]
+      }
+    ]
   }
+
 
 ]

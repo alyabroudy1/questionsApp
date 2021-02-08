@@ -21,6 +21,10 @@ public class QuizActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
-        quizC = new QuestionController(QuizActivity.this);
+
+            quizC = new QuestionController(QuizActivity.this);
+
     }
+
+
 }

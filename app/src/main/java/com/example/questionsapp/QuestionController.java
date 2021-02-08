@@ -177,24 +177,39 @@ public class QuestionController {
 
         //if scenario is not empty fill scenario view items
         if (null != currentScenario.getTitle()){
-            textViewScenarioPoints.setText("S-Points: " + currentScenario.getPoints());
+
+            String scenarioHeader = "Q: "+ (questionCounter +1) + "/"+ (lastQuestion+1) + ", "+
+                    "S: "+ (scenarioCounter +1) + "/"+ (lastScenario +1) + ", "+
+                      currentScenario.getType() +
+                    ", "+ currentScenario.getYear() +", " +currentScenario.getSubject() + ", P:"+ currentScenario.getPoints();
+
+            textViewScenarioScenariosCount.setText(scenarioHeader);
+            textViewScenarioTitle.setText("S-Title: " + currentScenario.getTitle());
+                    /*   textViewScenarioPoints.setText("S-Points: " + currentScenario.getPoints());
             textViewScenarioSubject.setText("S-Subject: " + currentScenario.getSubject());
             textViewScenarioTitle.setText("S-Title: " + currentScenario.getTitle());
             textViewScenarioDescription.setText("S-Description: " + currentScenario.getDescription());
             textViewScenarioType.setText("Type: "+currentScenario.getType());
             textViewScenarioYear.setText("Year: "+currentScenario.getYear());
+
+          */
         }else {
             //disable all scenario view if its null
-            textViewScenarioPoints.setVisibility(View.GONE);
-            textViewScenarioSubject.setVisibility(View.GONE);
             textViewScenarioTitle.setVisibility(View.GONE);
-            textViewScenarioDescription.setVisibility(View.GONE);
-            textViewScenarioType.setVisibility(View.GONE);
-            textViewScenarioYear.setVisibility(View.GONE);
-
             textViewQuestionYear.setVisibility(View.VISIBLE);
             textViewQuestionType.setVisibility(View.VISIBLE);
         }
+        //disable unnecessary views
+        textViewScenarioPoints.setVisibility(View.GONE);
+        textViewScenarioSubject.setVisibility(View.GONE);
+        textViewScenarioDescription.setVisibility(View.GONE);
+        textViewScenarioType.setVisibility(View.GONE);
+        textViewScenarioYear.setVisibility(View.GONE);
+        textViewScenarioQuestionsCount.setVisibility(View.GONE);
+
+        //update counters
+       // textViewScenarioScenariosCount.setText("S-Counts: " + (scenarioCounter +1) + "/"+ (lastScenario +1) );
+       // textViewScenarioQuestionsCount.setText("Q-Counts: " + (questionCounter +1) + "/"+ (lastQuestion+1) );
 
         //check scenario image
         if (null != currentScenario.getImage()){
@@ -207,17 +222,31 @@ public class QuestionController {
             imageViewQuestionImage.setVisibility(View.VISIBLE);
             //TODO: view image
         }
-        //update counters
-        textViewScenarioScenariosCount.setText("S-Counts: " + (scenarioCounter +1) + "/"+ (lastScenario +1) );
-        textViewScenarioQuestionsCount.setText("Q-Counts: " + (questionCounter +1) + "/"+ (lastQuestion+1) );
+
 
         //fill question
-        textViewQuestionType.setText("Type: "+currentQuestion.getType());
+        /*textViewQuestionType.setText("Type: "+currentQuestion.getType());
         textViewQuestionYear.setText("Year: "+currentQuestion.getYear());
         textViewQuestionPoints.setText("Q-Points: " + currentQuestion.getPoints());
         textViewQuestionSubject.setText("Q-Subject: " + currentQuestion.getSubject());
         textViewQuestionTitle.setText("Q-Title: " + currentQuestion.getTitle());
         textViewQuestionDescription.setText("Q-Description: " + currentQuestion.getDescription());
+
+         */
+
+        textViewQuestionType.setVisibility(View.GONE);
+        textViewQuestionYear.setVisibility(View.GONE);
+        textViewQuestionPoints.setVisibility(View.GONE);
+        textViewQuestionDescription.setVisibility(View.GONE);
+        textViewQuestionMultipleChoice.setVisibility(View.GONE);
+
+
+        String questionHeader = "Q: "+currentQuestion.getType() +
+                ", "+ currentQuestion.getYear() +", " +currentQuestion.getSubject() + ", P:"+ currentQuestion.getPoints();
+
+        textViewQuestionSubject.setText(questionHeader);
+        textViewQuestionTitle.setText("Q-Title: " + currentQuestion.getTitle());
+
 
         //disable checkbox
         checkBoxChoice1.setVisibility(View.GONE);
