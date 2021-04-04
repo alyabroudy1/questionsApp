@@ -11,6 +11,8 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.squareup.picasso.Picasso;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -22,27 +24,21 @@ public class QuestionController {
     static int questionCounter;
     static int lastQuestion;
     static int lastScenario;
-    static boolean isNext; // if have next question or questions finished
+    static boolean isNext; // if there's a next question
 
     final static String BUTTON_STATE_CONFIRM = "Confirm";
     final static String BUTTON_STATE_NEXT = "Next";
     final static String BUTTON_STATE_FINISH = "Finish";
 
+    final static String IMAGE_DIRECTORY = "file:///android_asset/image/";
+
     TextView textViewScenarioScenariosCount;
-    TextView textViewScenarioQuestionsCount;
-    TextView textViewScenarioPoints;
-    TextView textViewScenarioType;
-    TextView textViewScenarioYear;
-    TextView textViewScenarioSubject;
+    //TextView textViewScenarioSubject;
     TextView textViewScenarioTitle;
     TextView textViewScenarioDescription;
     ImageView imageViewScenarioImage;
 
-
-    TextView textViewQuestionPoints;
     TextView textViewQuestionSubject;
-    TextView textViewQuestionType;
-    TextView textViewQuestionYear;
     TextView textViewQuestionTitle;
     TextView textViewQuestionDescription;
     TextView textViewQuestionMultipleChoice;
@@ -55,6 +51,12 @@ public class QuestionController {
     CheckBox checkBoxChoice4;
     CheckBox checkBoxChoice5;
     CheckBox checkBoxChoice6;
+    ImageView imageViewChoice1;
+    ImageView imageViewChoice2;
+    ImageView imageViewChoice3;
+    ImageView imageViewChoice4;
+    ImageView imageViewChoice5;
+    ImageView imageViewChoice6;
     Button buttonConfirm;
     private ColorStateList textColorDefaultRb; //hold the default color value of the radio buttons
 
@@ -87,21 +89,11 @@ public class QuestionController {
      */
     public void instantiateView(Activity activity) {
         textViewScenarioScenariosCount = (TextView) activity.findViewById(R.id.textView_scenarios_count);
-        textViewScenarioQuestionsCount = (TextView) activity.findViewById(R.id.textView_questions_count);
-        textViewScenarioPoints = (TextView) activity.findViewById(R.id.textView_points);
-        textViewScenarioType = (TextView) activity.findViewById(R.id.textView_type);
-        textViewScenarioYear = (TextView) activity.findViewById(R.id.textView_year);
-        textViewScenarioSubject = (TextView) activity.findViewById(R.id.textView_subject);
         textViewScenarioTitle = (TextView) activity.findViewById(R.id.textView_title);
         textViewScenarioDescription = (TextView) activity.findViewById(R.id.textView_description);
         imageViewScenarioImage = (ImageView) activity.findViewById(R.id.imageView_image);
         imageViewScenarioImage.setVisibility(View.GONE);
 
-        textViewQuestionPoints = (TextView) activity.findViewById(R.id.textView_q_points);
-        textViewQuestionType = (TextView) activity.findViewById(R.id.textView_q_type);
-        textViewQuestionType.setVisibility(View.GONE);
-        textViewQuestionYear = (TextView) activity.findViewById(R.id.textView_q_year);
-        textViewQuestionYear.setVisibility(View.GONE);
         textViewQuestionSubject = (TextView) activity.findViewById(R.id.textView_q_subject);
         textViewQuestionTitle = (TextView) activity.findViewById(R.id.textView_q_title);
         textViewQuestionDescription = (TextView) activity.findViewById(R.id.textView_q_description);
@@ -118,6 +110,19 @@ public class QuestionController {
         checkBoxChoice4 = (CheckBox) activity.findViewById(R.id.checkBox_choice4);
         checkBoxChoice5 = (CheckBox) activity.findViewById(R.id.checkBox_choice5);
         checkBoxChoice6 = (CheckBox) activity.findViewById(R.id.checkBox_choice6);
+        imageViewChoice1 = (ImageView) activity.findViewById(R.id.imageView_c1_image);
+        imageViewChoice1.setVisibility(View.GONE);
+        imageViewChoice2 = (ImageView) activity.findViewById(R.id.imageView_c2_image);
+        imageViewChoice2.setVisibility(View.GONE);
+        imageViewChoice3 = (ImageView) activity.findViewById(R.id.imageView_c3_image);
+        imageViewChoice3.setVisibility(View.GONE);
+        imageViewChoice4 = (ImageView) activity.findViewById(R.id.imageView_c4_image);
+        imageViewChoice4.setVisibility(View.GONE);
+        imageViewChoice5 = (ImageView) activity.findViewById(R.id.imageView_c5_image);
+        imageViewChoice5.setVisibility(View.GONE);
+        imageViewChoice6 = (ImageView) activity.findViewById(R.id.imageView_c6_image);
+        imageViewChoice6.setVisibility(View.GONE);
+
         textColorDefaultRb = checkBoxChoice1.getTextColors();  //save default color of a checkbox
         buttonConfirm = (Button) activity.findViewById(R.id.button_confirm);
 
@@ -196,31 +201,27 @@ public class QuestionController {
         }else {
             //disable all scenario view if its null
             textViewScenarioTitle.setVisibility(View.GONE);
-            textViewQuestionYear.setVisibility(View.VISIBLE);
-            textViewQuestionType.setVisibility(View.VISIBLE);
         }
+        //scenario image
+        if (currentScenario.getImage() != null && !currentScenario.getImage().equals("")){
+            imageViewScenarioImage.setVisibility(View.VISIBLE);
+            Log.i(TAG, "Image: "+IMAGE_DIRECTORY+currentScenario.getImage()+".JPG");
+            Picasso.get().load(IMAGE_DIRECTORY+currentScenario.getImage()).into(imageViewScenarioImage);
+        }
+
         //disable unnecessary views
-        textViewScenarioPoints.setVisibility(View.GONE);
-        textViewScenarioSubject.setVisibility(View.GONE);
+        //textViewScenarioSubject.setVisibility(View.GONE);
         textViewScenarioDescription.setVisibility(View.GONE);
-        textViewScenarioType.setVisibility(View.GONE);
-        textViewScenarioYear.setVisibility(View.GONE);
-        textViewScenarioQuestionsCount.setVisibility(View.GONE);
 
         //update counters
        // textViewScenarioScenariosCount.setText("S-Counts: " + (scenarioCounter +1) + "/"+ (lastScenario +1) );
        // textViewScenarioQuestionsCount.setText("Q-Counts: " + (questionCounter +1) + "/"+ (lastQuestion+1) );
 
-        //check scenario image
-        if (null != currentScenario.getImage()){
-            imageViewScenarioImage.setVisibility(View.VISIBLE);
-            //TODO: view image
-        }
-
         //check question image
-        if (null != currentQuestion.getImage()){
+        if (currentQuestion.getImage() != null && !currentQuestion.getImage().equals("")){
             imageViewQuestionImage.setVisibility(View.VISIBLE);
-            //TODO: view image
+            Log.i(TAG, "Image: "+activity.getAssets()+IMAGE_DIRECTORY+currentQuestion.getImage());
+            Picasso.get().load(IMAGE_DIRECTORY+currentQuestion.getImage()).into(imageViewQuestionImage);
         }
 
 
@@ -234,9 +235,6 @@ public class QuestionController {
 
          */
 
-        textViewQuestionType.setVisibility(View.GONE);
-        textViewQuestionYear.setVisibility(View.GONE);
-        textViewQuestionPoints.setVisibility(View.GONE);
         textViewQuestionDescription.setVisibility(View.GONE);
         textViewQuestionMultipleChoice.setVisibility(View.GONE);
 
@@ -269,38 +267,32 @@ public class QuestionController {
                 switch (counter) {
                     case 1:
                         Log.d(TAG, "switch: case" + 1);
-                        checkBoxChoice1.setVisibility(View.VISIBLE);
-                        checkBoxChoice1.setText(choice.getTitle());
+                        checkCheckBox(checkBoxChoice1, imageViewChoice1, choice, counter);
                         counter++;
                         break;
                     case 2:
                         Log.d(TAG, "switch: case" + 2);
-                        checkBoxChoice2.setVisibility(View.VISIBLE);
-                        checkBoxChoice2.setText(choice.getTitle());
+                        checkCheckBox(checkBoxChoice2, imageViewChoice2, choice, counter);
                         counter++;
                         break;
                     case 3:
                         Log.d(TAG, "switch: case" + 3);
-                        checkBoxChoice3.setVisibility(View.VISIBLE);
-                        checkBoxChoice3.setText(choice.getTitle());
+                        checkCheckBox(checkBoxChoice3, imageViewChoice3, choice, counter);
                         counter++;
                         break;
                     case 4:
                         Log.d(TAG, "switch: case" + 4);
-                        checkBoxChoice4.setVisibility(View.VISIBLE);
-                        checkBoxChoice4.setText(choice.getTitle());
+                        checkCheckBox(checkBoxChoice4, imageViewChoice4, choice, counter);
                         counter++;
                         break;
                     case 5:
                         Log.d(TAG, "switch: case" + 5);
-                        checkBoxChoice5.setVisibility(View.VISIBLE);
-                        checkBoxChoice5.setText(choice.getTitle());
+                        checkCheckBox(checkBoxChoice5, imageViewChoice5, choice, counter);
                         counter++;
                         break;
                     case 6:
                         Log.d(TAG, "switch: case" + 6);
-                        checkBoxChoice6.setVisibility(View.VISIBLE);
-                        checkBoxChoice6.setText(choice.getTitle());
+                        checkCheckBox(checkBoxChoice6, imageViewChoice6, choice, counter);
                         counter++;
                         break;
                 }
@@ -316,6 +308,25 @@ public class QuestionController {
         QuestionGroup questionGroup = new QuestionGroup();
     }
 
+    /**
+     * check how many choice does the current question have and initiate checkboxes accordingly used in fillScenario()
+     * @param checkBox CheckBox the checkbox to be checked
+     * @param imageView ImageView the image of the choice to be displayed
+     * @param choice Choice the choice to be rendered in the checkbox
+     * @param counter int is the choice number
+     */
+    public void checkCheckBox(CheckBox checkBox, ImageView imageView,Choice choice, int counter){
+        checkBox.setVisibility(View.VISIBLE);
+        checkBox.setText(choice.getTitle());
+        //check choice image
+        if (choice.getImage() != null && !choice.getImage().equals("")){
+            checkBox.setVisibility(View.VISIBLE);
+            Picasso.get().load(IMAGE_DIRECTORY+choice.getImage()).into(imageView);
+            if (choice.getTitle() == null || choice.getTitle().equals("")){
+                checkBox.setText("choice "+counter);
+            }
+        }
+    }
     /**
      * check user selected choice and if the choice is correct
      * @param currentQuestion Question
@@ -381,7 +392,7 @@ public class QuestionController {
     }
 
     /**
-     * to validate each user answer of a checkBox
+     * to validate each user-answer of a checkBox
      */
     private void validateCheckBoxChoice(CheckBox checkBox, Choice choice) {
         //if selected and isCorrect

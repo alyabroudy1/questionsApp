@@ -5,4 +5,15 @@
         <item>@string/feedbacktype3</item>
         <item>@string/feedbacktype4</item>
     </string-array>
+    <string-array name="subjects_array">
+        <item>WUG</item>
+        <item>ITK</item>
+        <item>Database</item>
+        <item>ANW</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
 </resources>

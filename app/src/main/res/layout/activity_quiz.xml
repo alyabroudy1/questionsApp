@@ -19,46 +19,6 @@
             android:textSize="10pt">
         </TextView>
 
-        <TextView
-            android:id="@+id/textView_questions_count"
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:text="@string/feedbacktitle"
-            android:textSize="10pt">
-        </TextView>
-
-        <TextView
-            android:id="@+id/textView_type"
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:text="@string/feedbacktitle"
-            android:textSize="10pt">
-        </TextView>
-
-        <TextView
-            android:id="@+id/textView_year"
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:text="@string/feedbacktitle"
-            android:textSize="10pt">
-        </TextView>
-
-        <TextView
-            android:id="@+id/textView_points"
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:text="@string/feedbacktitle"
-            android:textSize="10pt">
-        </TextView>
-
-        <TextView
-            android:id="@+id/textView_subject"
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:text="@string/feedbacktitle"
-            android:textSize="10pt">
-        </TextView>
-
         <!--Put form controls here-->
         <TextView
             android:id="@+id/textView_title"
@@ -78,39 +38,11 @@
 
         <ImageView
             android:id="@+id/imageView_image"
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:text="@string/feedbacktitle"
-            android:textSize="10pt"
-            android:contentDescription="TODO">
-        </ImageView>
+            android:layout_width="match_parent"
+            android:layout_height="170dp" />
 
         <TextView
             android:id="@+id/textView_q_subject"
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:text="@string/feedbacktitle"
-            android:textSize="10pt">
-        </TextView>
-
-        <TextView
-            android:id="@+id/textView_q_points"
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:text="@string/feedbacktitle"
-            android:textSize="10pt">
-        </TextView>
-
-        <TextView
-            android:id="@+id/textView_q_type"
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:text="@string/feedbacktitle"
-            android:textSize="10pt">
-        </TextView>
-
-        <TextView
-            android:id="@+id/textView_q_year"
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
             android:text="@string/feedbacktitle"
@@ -158,26 +90,61 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox_choice1"/>
+
+        <ImageView
+            android:id="@+id/imageView_c1_image"
+            android:layout_width="match_parent"
+            android:layout_height="170dp" />
+
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox_choice2"/>
+
+        <ImageView
+            android:id="@+id/imageView_c2_image"
+            android:layout_width="match_parent"
+            android:layout_height="170dp" />
+
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox_choice3"/>
+
+        <ImageView
+            android:id="@+id/imageView_c3_image"
+            android:layout_width="match_parent"
+            android:layout_height="170dp" />
+
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox_choice4"/>
+
+        <ImageView
+            android:id="@+id/imageView_c4_image"
+            android:layout_width="match_parent"
+            android:layout_height="170dp" />
+
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox_choice5"/>
+
+        <ImageView
+            android:id="@+id/imageView_c5_image"
+            android:layout_width="match_parent"
+            android:layout_height="170dp" />
+
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox_choice6"/>
+
+        <ImageView
+            android:id="@+id/imageView_c6_image"
+            android:layout_width="match_parent"
+            android:layout_height="170dp" />
 
         <TextView
             android:id="@+id/textView_correct_choice"

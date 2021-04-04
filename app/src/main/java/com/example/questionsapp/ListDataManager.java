@@ -85,7 +85,7 @@ public class ListDataManager implements DataManagerControllable{
         }.getType();
 
         scenarios = gson.fromJson(jsonFileString, listUserType);
-        Collections.shuffle(scenarios);
+        //Collections.shuffle(scenarios);
     }
 
 }

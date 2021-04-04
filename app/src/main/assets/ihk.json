@@ -5,7 +5,7 @@
            "year": "2016",
             "description": "Abschluss Prufueng",
             "title": "Der Vertriebsmitarbeiter Peterson hat den Manager und zwei Mitglieder des Ensembles\n„Plattfuß“ zu einem ersten Beratungsgespräch zur Creative-Ad GmbH eingeladen. Da\nHerr Peterson nicht in der Lage ist alle technischen Fragestellungen zu beantworten,\nwerden Sie im Verlauf des Gespräches hinzugezogen.",
-            "image": "0",
+            "image": "s1.JPG",
             "points": "20",
             "questions":  [
                   {
@@ -13,6 +13,7 @@
                      "points": "4",
                      "type": "ITK",
                      "year": "2016",
+                    "image": "q1.JPG",
                      "multipleChoice": "false",
                      "currectAnswer": "1",
                      "correctAnswer": "a) Internetpräsenz Zielgruppengerechtes Informationsangebot Globale Reichweite\nHohe Aktualität und schnelle Reaktionszeiten bei Änderungen\nErfüllung zeitgemäßer Anforderungen\nAufbau von Kommunikation mit den Fans (z. B. Gästebuch, Mailangebot, ...)\nVertrieb von Merchandising-Produkten"
@@ -456,7 +457,7 @@
            "year": "2016",
             "description": "Zwischen Prufueng herbst 2016",
             "title": "In der Schwan KG liegen über einen regionalen Markt folgende Daten vor,\nMarktanteile für NAS-Systeme 2005 - 2015 (Angaben in Prozent)\n2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015\nSchwan KG 24 26 20 25 31 41 37 30 35 28 21\nBartel GmbH 26 27 31 32 33 35 37 39 38 40 42",
-            "image": "7",
+            "image": "q7.JPG",
             "points": "4",
             "questions": [
                   {
@@ -569,7 +570,7 @@
            "year": "2016",
             "description": "Zwischen Prufueng herbst 2016",
             "title": "1.13\nDie Schwan KG nutzt zur Planung und Kontrolle des zeitlichen Ablaufs von Projekten die Netzplantechnik.\nBeispiel:\n",
-            "image": "8",
+            "image": "q8.JPG",
             "points": "4",
             "questions": [
                   {
@@ -611,7 +612,7 @@
            "year": "2016",
             "description": "Zwischen Prufueng herbst 2016",
             "title": "Sie sind Auszubildende/Auszubildender der IT-SoftServ GmbH, einem Systemhaus.\nDie iT-SoftServ GmbH wurde von der Werk AG mit der Restrukturierung der Informations- und Telekommunikationstechnik beauftragt.\n",
-            "image": "8",
+            "image": "q9.JPG",
             "points": "4",
             "questions": [
                   {
@@ -704,22 +705,22 @@
                            {
                               "title": "\nMittels Assoziationsklasse\n",
                               "correct": "true",
-                              "image": "a1"
+                              "image": "c1.JPG"
                            },
                            {
                               "title": "\nMittels Klassenattributen\n",
                               "correct": "false",
-                              "image": "a2"
+                              "image": "c2.JPG"
                            },
                            {
                               "title": "\nMittels binärer Beziehung\n",
                               "correct": "false",
-                              "image": "a3"
+                              "image": "c3.JPG"
                            },
                            {
                               "title": "\nMittels ternärer Beziehung\n",
                               "correct": "false",
-                              "image": "a4"
+                              "image": "c4.JPG"
                            }
                         ]
                      },
@@ -735,7 +736,7 @@
                            {
                               "title": "\n",
                               "correct": "false",
-                              "image": "a5"
+                              "image": "c5.JPG"
                            },
                            {
                               "title": "\n",
@@ -1308,7 +1309,7 @@
         "type": "Middle_Exam",
         "year": "2014",
         "multipleChoice": "false",
-        "correctAnswer": "1,87"
+        "correctAnswer": "34 KiB * 60Sekunde * 60Minute * 8Stunden = 979200 KiB pro Kamera pro Tag \n 979200KiB + 2Kamera = 1958400KiB pro Tag pro 2Kameras \n 1958400Ki * 1024B = 2,005,401,600B / 2^30 = 1.86767 GiB => 1.87GiB pro Tag pro 2Kameras"
       },
       {
         "title": "Die @youCATE GmbH will die Überwachungskameras per PoE-Technik anschließen lassen. \n Welche der folgenden Angaben ist ein charakteristisches Merkmal der PoE-Technik?",
@@ -1604,7 +1605,7 @@
         "type": "Middle_Exam",
         "year": "2014",
         "multipleChoice": "false",
-        "correctAnswer": "keine auswertung"
+        "correctAnswer": "[2] \n [3]"
       },
       {
         "title": "Welches der folgenden Struktogramme bildet die geforderte Logik richtig ab? \n Tragen Sie die Ziffer vor dem zutreffenden Struktogramm in das Kästchen ein.",
