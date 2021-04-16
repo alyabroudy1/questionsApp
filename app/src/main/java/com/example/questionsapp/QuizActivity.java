@@ -22,7 +22,9 @@ public class QuizActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
 
-            quizC = new QuestionController(QuizActivity.this);
+        String selectedSubject = getIntent().getStringExtra("SELECTED_SUBJECT");
+
+            quizC = new QuestionController(QuizActivity.this, selectedSubject);
 
     }
 

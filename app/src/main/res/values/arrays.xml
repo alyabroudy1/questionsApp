@@ -8,12 +8,10 @@
     <string-array name="subjects_array">
         <item>WUG</item>
         <item>ITK</item>
-        <item>Database</item>
         <item>ANW</item>
-        <item>Jupiter</item>
-        <item>Saturn</item>
-        <item>Uranus</item>
-        <item>Neptune</item>
+        <item>Database</item>
+        <item>Middle_Exam</item>
+        <item>Final_Exam</item>
     </string-array>
 
 </resources>

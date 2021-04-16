@@ -154,6 +154,11 @@
             android:textSize="12pt">
         </TextView>
 
+        <ImageView
+            android:id="@+id/textView_correct_choice_image"
+            android:layout_width="match_parent"
+            android:layout_height="170dp" />
+
         <Button
             android:id="@+id/button_confirm"
             android:layout_height="wrap_content"

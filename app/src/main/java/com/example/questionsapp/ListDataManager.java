@@ -27,11 +27,11 @@ public class ListDataManager implements DataManagerControllable{
 
 
 
-    public ListDataManager(Activity activity) {
+    public ListDataManager(Activity activity, String selectedSubject) {
         scenarios = new ArrayList<>();
         this.activity = activity;
         //this.loadFixtures();
-        this.loadJson();
+        this.loadJson(selectedSubject);
     }
 
     public List<Scenario> getScenarios(){
@@ -76,8 +76,8 @@ public class ListDataManager implements DataManagerControllable{
         return jsonString;
     }
 
-    public void loadJson() {
-        String jsonFileString = getJsonFromAssets(activity.getApplicationContext(), "ihk.json");
+    public void loadJson(String selectedSubject) {
+        String jsonFileString = getJsonFromAssets(activity.getApplicationContext(), selectedSubject+".json");
         Log.i("data", jsonFileString);
 
         Gson gson = new Gson();
@@ -85,7 +85,7 @@ public class ListDataManager implements DataManagerControllable{
         }.getType();
 
         scenarios = gson.fromJson(jsonFileString, listUserType);
-        //Collections.shuffle(scenarios);
+        Collections.shuffle(scenarios);
     }
 
 }

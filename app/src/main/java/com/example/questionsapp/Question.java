@@ -30,6 +30,7 @@ public class Question {
     private boolean multipleChoice;
     private List<Choice> choices;
     private String correctAnswer;
+    private String correctAnswerImage;
 
     public Question(String title, String subject, String description, String image, int points, boolean multipleChoice, List<Choice> choices, String correctAnswer) {
         this.title = title;
@@ -148,6 +149,14 @@ public class Question {
 
     public void setYear(String year) {
         this.year = year;
+    }
+
+    public String getCorrectAnswerImage() {
+        return correctAnswerImage;
+    }
+
+    public void setCorrectAnswerImage(String correctAnswerImage) {
+        this.correctAnswerImage = correctAnswerImage;
     }
 
     @Override

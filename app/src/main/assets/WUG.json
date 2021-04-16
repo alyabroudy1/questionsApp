@@ -1,0 +1,579 @@
+[
+  {
+    "subject": "WUG",
+    "type": "General",
+    "year": "2021",
+    "description": "Verzugszinsen, Verjährung, zinsen",
+    "title": "Verzugszinsen, Verjährung",
+    "image": "s1.JPG",
+    "questions":  [
+      {
+        "title": "titleeeee",
+        "subject": "WUG",
+        "type": "General",
+        "year": "2021",
+        "image": "q1.JPG",
+        "multipleChoice": "false",
+        "correctAnswer": "correctAnswer",
+        "correctAnswerImage": "q10.JPG",
+        "choices": []
+      },
+      {
+        "title": "Ebbbbbbbbbbg",
+        "subject": "WUG",
+        "type": "General",
+        "year": "2021",
+        "image": "q2.JPG",
+        "multipleChoice": "true",
+        "correctAnswer": "machen.",
+        "correctAnswerImage": "c5.JPG",
+        "choices": [
+          {
+            "title": "choice 1",
+            "image": "c1.JPG",
+            "correct": "true"
+          },
+          {
+            "title": "choice 2",
+            "image": "c4.JPG",
+            "correct": "false"
+          }
+        ]
+      }
+    ]
+  },
+{
+  "subject": "WUG",
+  "type": "General",
+ "year": "2021",
+  "description": "Verzugszinsen, Verjährung, zinsen",
+  "title": "Verzugszinsen, Verjährung",
+  "image": "",
+  "questions":  [
+    {
+       "title": "Erklären Sie Verzugszinsen, Verjährung",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Wenn der Schuldner nicht zahlt,haben Sie nicht das Nachsehen: Verzugszinsen als finanzieller Ausgleich Ihres SchadensDamit dieser Schaden dem Gläubiger ersetzt wird, regelt der Gesetzgeber in § 288 Bürgerliches Gesetzbuch die Verzugszinsen. Demnach können ohne Vorankündigung ab Eintritt des Zahlungsverzuges Verzugszinsen in einer Höhe von 5 Prozentpunkten p. a. über dem Basiszinssatz gefordert werden. Dieser Zinssatz gilt bei Geschäften mit einem Verbraucher. Handelt es sich um einen Geschäftsvorgang, in den nur Geschäftskunden eingebunden sind, werden Verzugszinsen in Höhe von 9 Prozentpunkten p. a. über dem Basiszinssatz fällig. \n Beispiel: \n Bei einer seit 01.01.2017 ausstehenden Forderung in Höhe von 5.000,00 €, welche mit einem Zinssatz von 9 % über dem Basiszinssatz zu verzinsen ist, betragen die bis zum 31.12.2017 aufgelaufenen Zinsen 406,00 €.Darüber hinaus darf der Gläubiger auch Mahnkosten sowie Schadensersatz für den ihm durch den Verzug des Schuldners entstandenen konkreten Schaden geltend machen.",
+       "choices": []
+    },
+    {
+       "title": "Was ist verzugzinsen Basiszinsatz?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Basiszinsatz für unternehmen = 9 % - 0.88 % = 8.12%  (ändert sich jährlich). \n Basiszinsatz für privateperson = 5 % - 0.88 % = 4.12%  (ändert sich jährlich)",
+       "choices": []
+    },
+    {
+       "title": "Beginn und Ende den Verjährung?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+      "image": "",
+      "multipleChoice": "false",
+      "correctAnswer": "-Wenn verzug beginnZeit nicht bestimmt würde, gilt 30 Tage nach Eingang des Rechnungs. \n -Den Verjährung beginn am Ende des Jahres, und dauer 3 Jahren. \n -Die Neubeginn oder Verlangerung des Verjährung beginn am selben Tag der Verlangerung und nicht am Ende des Jahres. \n (1) Die Verjährung beginnt erneut, wenn: \n 1. der Schuldner dem Gläubiger gegenüber den Anspruch durch Abschlagszahlung, Zinszahlung,Sicherheitsleistung. \n  -oder in anderer Weise anerkennt oder eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt.",
+      "choices": []
+    },
+    {
+       "title": "Aufgabe 1. Die Verweigerung: Die Maschinenfabrik Schuhwerk KG lieferte der Schreinerei Bunt GmbH 18. Juni 2040 eine computergesteuerte Universalmaschine zum Rechnungsbetrag i.H.v. 44.080,00 EUR.Laut Kaufvertrag sollte die Zahlung bis zum 18. September 2040 erfolgen. Durch einen Fehler in der Buchhaltung wird erst am 30. Dezember 2043 entdeckt, dass die Rechnung noch nicht bezahlt ist. Der zuständige Buchhalter, Herr Fuchs, wendet sich noch am selben Tag telefonisch an die Bunt GmbH mit der Bitte um sofortigen Rechnungsausgleich. Der Geschäftsführer Max Frech der Bunt GmbH beendet das Telefongespräch mit den Worten:„Wir sind nicht mehr verpflichtet, diesen Rechnungsausgleich vorzunehmen!“Die Auszubildende Tina Henzler, die sich in den nächsten Wochen die entsprechenden Kenntnisse in der Buchhaltung aneignen muss, hört dieses Gespräch ungewollt aber gespannt mit. Sie stutzt und überlegt, ob es so einfach sein kann, eine rechtmäßige Zahlung zu verweigern. Sie greift zum BGB und versucht, die richtige Antwort mithilfe des Gesetzestextes zu finden. Helfen Sie ihr dabei.",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "1. Fall: \n Fälligkeit der Forderung: _____________18.09.2040______________ \n Beginn der Verjährung: ____________31.12.2040_______________ \n Verjährungsfrist: ____________3 Jahren_______________ \n Ende der Verjährung: ___________31.12.2043________________.",
+       "choices": []
+    },
+    {
+       "title": "Aufgabe 2. Der Trick:\n Buchhalter Fuchs hat eine Idee und greift in die Trickkiste: Er schickt folgendes Fax A an die Bunt GmbH, in dem er darauf hinweist, dass nach eingehender Durchsicht sämtlicher Unterlagen sich sogar ein offener Posten von 98.800,00 EUR ergibt, was natürlich nicht stimmt. Er hofft, dass die Bunt GmbH darauf reagiert. Sonst kann es wirklich zu spät sein. \n Tatsächlich faxt wenige Minuten später der Geschäftsführer der Bunt GmbH zurück (Fax B). \n Maschinenfabrik Schuhwerk KG \n Fax A \n vom 30. Dezember 2043 An Firma Bunt GmbH \n Sehr geehrter Herr Frech,nach eingehender Durchsicht sämtlicher Unterlagen müssen wir Ihnen mitteilen, dass sich der offene Posten nicht nur auf 44.080,00 EUR sondern auf 98.800,00 EUR beläuft.Mit freundlichem Gruß \n Maschinenfabrik Schuhwerk KG (Fuchs)\n \n Schreinerei Bunt GmbH \n Fax B \n Vom 30. Dezember 2043 An Maschinenfabrik Schuhwerk KGSo eine Frechheit!!!!98.800,00 EUR kann nicht sein!!! Woher haben Sie den Betrag??? Offener Posten von 44.080,00 EUR ist korrekt.Nur: Das interessiert uns nicht mehr! Alles Gute im neuen Jahr!Bunt GmbH (Frech) \n \n Als Buchhalter Fuchs das Fax B in Händen hält, schmunzelt er. Gottseidank, damit ist das Geld für den offenen Posten noch nicht verloren. Jetzt haben wir Zeit gewonnen. Silvester ist gerettet!Auch dieses Mal versucht Tina die Aussagen ihres Buchhalters mit dem BGB nachzuvollziehen. Machen Sie es ihr nach und zeigen Sie ihren Lösungsansatz auf!",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Fälligkeit der Forderung: _____________18.09.2040______________ \n Beginn der Verjährung: ____________31.12.2040_______________ \n Verjährungsfrist: ____________3 Jahren_______________ \n Ende der 1 Verjährung: ___________31.12.2043________________ \n Handelt es sich hier um einen Neubeginn oder um Hemmung?: _______Neubeginn____________________ \n Bei Neubeginn: Datumoder bei Verlängerung: Zeitraum: _______30.12.2043____________________ \n Verjährungsfrist/ Verlängerung: ________3 Jahren___________________ \n Ende 2 der Verjährung: ___________30.12.2046________________.",
+       "choices": []
+    },
+    {
+       "title": "Die Compo AG liefert an die Computer Fix & Fertig GmbH zehn Notebooks. Die ComputerFix & Fertig GmbH erhalt die Rechnung am 3. Juni. Die Computer Fix & FertigGmbH zahlt nicht rechtzeitig. \n Ab wann kann die Compo AG in den folgenden FällenVerzugszinsen in Rechnung stellen? \n a) Es wurde kein Zahlungsziel vereinbart. Die Compo AG hat keine Mahnung verschickt.\n b) Es wurde kein Zahlungsziel vereinbart. Die Compo AG hat am 25. Juni eine Mahnungverschickt.\n C) Vereinbartes Zahlungsziel: ,,Spätestens 10 Tage nach Erhalt der Rechnung. \n d) Wie viel Prozent Verzugszinsen kann die Compo AG verlangen, wenn der Basiszinssatzbei 2.6 % liegt?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "a.30 Tage (kaufmännischer Monat) --> 3. Juli. \n b.30 Tage, Mahnung hat keinen Einfluss auf ursprüngliches Zahlungsziel \n c.13.  Juni  \n d.2,6% + 9% = 11,6%",
+       "choices": []
+    },
+    {
+       "title": "welche Auswirkung haben die folqenden Aktionen auf die Verjährung? Geben Sie an, ob die Verjährung gehemmt wird, neu beginnt oder ob die Aktion keinen Einfluss auf die Verjährung hat. \n a- Eine Uberschwemmung Verhindert die Rechtsverfolgung kurz vor Ablauf der Verjährung. \n b) Der Schuldner zahlt Zinsen, \n c) Der Schuldner bittet um Stundung der Zahlung \n d) Zustellung eines Mahnbescheids. \n e) Der Gläubiger fordert den Schuldner per Einschreiben zur Zahlung auf.",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "a. Hemmung, §206. \n b.Neubeginn, Anerkennung der Schuld. \n c.Neubeginn, Anerkennung der Schuld. \n d.Hemmung, Mahnbescheid wird durch das Gericht ausgestellt. \n e.keine Auswirkung",
+       "choices": []
+    }
+  ]
+},
+{
+  "subject": "WUG",
+  "type": "General",
+ "year": "2021",
+  "description": "Kontokorrentkredit",
+  "title": "Kontokorrentkredit",
+  "image": "",
+  "questions":  [
+    {
+       "title": "Was ist ein Kontokorrentkredit?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Der Kontokorrentkredit ist der von einem Kreditinstitut auf einem Girokonto befristet eingeräumte und betragsmäßig begrenzte Kredit zur Überbrückung von kurzfristigen Liquiditätsengpässen, der durch ankündigungslose Abrufbarkeit und jederzeitige sofortige Rückzahlbarkeit gekennzeichnet ist.",
+       "choices": []
+    },
+    {
+       "title": "Wie wird ein Kontokorrentkredit berechnet?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Zinsen = Betrag * Zinssatz / 100 * Tage / 365",
+       "choices": []
+    },
+    {
+       "title": "Jan überzieht sein Girokonto für 30 Tage um 1000 €. Der von der Bank für Kontokorrentkredite vorgeschriebene Zinssatz liegt bei 15 % p.a. \n Wie viel Zinsen muss Jan an die Bank zahlen?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Zur Berechnung nutzen wir die weiter oben angegebene Formel.\n Zinsen = Betrag * Zinssatz / 100 * Tage / 365  \n => Zinsen = 1000 * 15 / 100 * 30 / 365 = 12,33 Euro \n Jan muss also ca. 12,33 € Zinsen an die Bank für die Überziehung des Kontos zahlen.",
+       "choices": []
+    },
+    {
+       "title": "lhr chef hat Waren im Wert von 10000,00 E mit folgenden Zahlungsbedingungen gekauft:,,zahlbar innerhalb von 10Tagen mit 2 % Skonto oder in 30 Tagen ohne Abzug. \n a) Wie hoch ist der Skonto in Euro? \n b) Ihr Chef entscheidet sich dafür. den Skonto auszunutzen und einen Kontokorrentkredit aufzunehmen. \n Wie viel Euro Zinsbelastung muss er dann bei einem Zinssatzvon 12 % p. a. für die 20 Tage bezahlen?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Wir sollten den Skonto ausnutzen, da wir mehr sparen, als wir für die Überziehung zahlen müssen. \n Kontokorrent = kurzfristiger Kredit, entspricht Dispo bei Privatleuten. \n a-Nachlass bei Barzahlung = 200€(10.000€ * 2% bzw. *0,02) \n b-9800€∗12 p.A.∗20Tage / 100∗360Tage=65,33€",
+       "choices": []
+    }
+]
+},
+{
+  "subject": "WUG",
+  "type": "General",
+ "year": "2021",
+  "description": "Kaufvertrag",
+  "title": "Kaufvertrag",
+  "image": "",
+  "questions":  [
+    {
+       "title": "Was ist eine Anfrage?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Eine Anfrage: \n 1. Dient der Geschäftsanbahnung und Einholung von Informationen, \n 2. ist im Gegensatz zu Angeboten rechtlich nicht bindend, d.h. der Käufer geht keine rechtliche Verpflichtung ein, \n 3. unterliegt keinen Formvorschriften, d. h. es spielt keine Rolle, ob die Anfrage mündlich oder schriftlich erfolgt.",
+       "choices": []
+    },
+    {
+       "title": "Was ist ein Angebot?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Das Angebot ist ein Antrag an eine bestimmte Person eine Ware oder eine Dienstleistung zu den angegebenen Bedingungen zu verkaufen.",
+       "choices": []
+    },
+    {
+       "title": "Wann ist ein Angebot Zustandekommen?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Um einen Kaufvertrag abschließen zu können, benötigt man zwei übereinstimmende Willenserklärungen. Die erste Willenserklärung nennt man auch Antrag. Die zweite Willenserklärung nennt man Annahme.",
+       "choices": []
+    },
+    {
+       "title": "Gültigkeit eines Angebots?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Bindung an ein Angebot: \n Angebote sind solange gültig, wie unter normalen Umständen eine Antwort erwartet werden kann. Ein mündliches oder telefonisches Angebot gilt daher für die Dauer des Gesprächs und muss sofort angenommen werden. Bei einem schriftlichen Angebot ist der Lieferer so lange an sein Angebot gebunden, wie er unter verkehrsüblichen Umständen mit einer nach richt rechnen kann. Bei einem Brief geht man beispielsweise von einer Bindungsfrist von Ca. einer Woche aus. Darüber hinaus kann der Anbieter für die Annahme des Angebots eine bestimmte Frist setzen. Die Bindungen ein Angebot erlischt, wenn es vom Empfänger abgelehnt, abgeändert oder nicht rechtzeitig angenommen wird . Widerruft der Lieferer sein Angebot und erreicht der widerruf den Kunden spätestens gleichzeitig mit dem Angebot, so erlischt ebenfalls die Bindung.",
+       "choices": []
+    },
+    {
+       "title": "Wie macht man Angebotsvergleich?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Bei dem Angebotsvergleich wird zwischen einem quantitativen und einem qualitativen vergleich unterschieden “' dem quantitativen Angebotsvergleich werden die Einstandspreis der angebotenen Ware oder Dienstleistung berechnet und miteinander verglichen. \n Einstand preis rechnen : Preisberechnung: \n Listeneinkaufspreis 1000 Euro \n - Rabatt (2%) \n = Zieleinkaufspreis 970 Euro \n - Skonto (2%) \n = Bareinkaufspreis 950.60 \n + Verpackungskosten 10 \n + Transportkosten 15 \n = Einstandspreis 975.60",
+       "choices": []
+    },
+    {
+       "title": "Was ist Bestellung?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Die Bestellung ist eine empfangsbedürftige Willenserklärung des Käufers, bestimmte Waren zu den in der Bestellung angegebenen Bedingungen zu kaufen. Der Besteller ist an seine Bestellung gebunden. Diese Bindung tritt mit Zugang der Bestellung bei dem Verkäufer ein. Eine Bestellung kann formfrei erfolgen, allerdings empfiehlt such hier ebenfalls wieder die Schriftform.",
+       "choices": []
+    }
+    ,{
+       "title": "Was ist ein Kaufvertrag?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Bei einem Kaufvertrag handelt es sich um ein zweiseitiges Rechtsgeschäft. Durch den Abschluss des Vertrages werden beide Teile verpflichtet, den Vertrag zu erfüllen. Der Kaufvertrag ist daher ein verpflichtendes Rechtsgeschäft. \n Verkäufer: \n Der Verkäufer muss dem Käufer die Sache übergeben und das Eigentum frei von Sach- und Rechts- mängeln verschaffen. \n Käufer: \n Der Käufer muss den vereinbarten Kaufpreis zahlen und die gekaufte Sache abnehmen.",
+       "choices": []
+    }
+    ,{
+       "title": "Wie funktioniert Die Eigentumsübertragung?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Die Eigentumsübertragung: \n - an beweglichen Sachen erfolgt durch die Einigung über die Eigentumsübertragung und die Übergabe der Sache. \n - bei Grundstücken und Gebäuden erfolgt durch die Auflassung (= Erklärung der Vertragsparteien vor einem Notar) und die Eintragung ins Grundbuch (= Übergabe) \n - an Rechten erfolgt durch die Abtretung des Rechts an den Erwerber .",
+       "choices": []
+    },
+    {
+       "title": "Kaufvertragsarten Beispiele?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "•Art und Güte der Ware: \n-Gattungskauf: Kauf einer vertretbaren Sache (Der Kaufgegenstand ist eine Sache, die in mehreren gleichen Ausführungen hergestellt und daher wieder beschafft werden kann.) \n -Kauf nach Besicht: Der Käufer hat vor Vertragsabschluss Gelegenheit die Ware zu besichtigen, nach Vertragsabschluss können dann keine Mängel mehr geltend gemacht werden. \n -Kauf auf Probe: Der Käufer hat ein Rückgaberecht innerhalb eines vereinbarten Zeitraums. \n -Kauf nach Probe: Der Kauf erfolgt aufgrund früher bezogener Ware oder einem Muster. \n -Kauf zur Probe: Kauf einer kleinen Menge zum Ausprobieren der Ware \n -Kauf mit Um tauschrecht: Der Käufer kann verlangen, dass eine andere Ware gleichen Wertes geliefert wird, wenn die Ware nachträglich nicht zusagt. \n -Ramschkauf: Kauf in „Bausch und Bogen ohne nähere Spezifikation der Ware. \n -Spezifikations kauf: lm Kaufvertrag wird die Menge einer Gattungsware festgelegt. Der Käufer hat aber das Recht, innerhalb einer bestimmten Frist die zu liefernde Ware nach Maß, Form oder Farbe näher zu bestimmen. \n -Stückkauf: Kauf einer nicht vertretbaren (einmaligen) Sache, die nicht noch einmal beschafft werden kann. \n •Lieferzeit: \n -Fixkauf: Die Lieferung muss an oder bis zu einem bestimmten Zeitpunkt erfolgen. \n -Kauf auf Abruf : Der Lieferzeitpunkt wird vom Käufer nachträglich festgelegt.",
+       "choices": []
+    }
+]
+},
+{
+  "subject": "WUG",
+  "type": "General",
+ "year": "2021",
+  "description": "Mangel und Mangelarten",
+  "title": "Mangelarten - Rechte und Pflichten",
+  "image": "",
+  "questions":  [
+    {
+       "title": "Mangelarten Beispiele?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Sachmängel: \n •Mangel in der Art (Gattungsmangel): Falsche Ware wird geliefert. \n •Mangel in der Menge (Quantitätsmangel): Es wurde zu wenig Ware geliefert. \n •Mangel in der Güte (Qualitätsmangel): Die tatsächliche Beschaffenheit weicht von der vereinbarten Beschaffenheit ab (z.B. ein Backofen erreicht nicht die vertraglich zugesicherte Temperatur) oder die Beschaffenheit dient nicht dem Zweck, zu dem die Ware gekauft wurde (z.B. verdorbene Lebensmittel). \n •Mangel in der Werbung: Die gelieferte Ware entspricht nicht dem Versprechen der Werbung, z.B. ein Pkw verbraucht mehr Benzin als in der Werbung angegeben. \n •Mangel in der Montage: Der Verkäufer hat die Montage falsch durchgeführt. \n •Mangel in der Montageanleitung: Die Montageanleitung ist so fehlerhaft, dass der Verkäufer die Sache nicht montieren kann oder fehlerhaft montiert (auch „IKEAKlausel genannt).",
+       "choices": []
+    },
+    {
+       "title": "Was ist Rügefristen?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Rügefrist bezeichnet den Zeitraum, in dem ein Käufer einen Mangel „melden“ und Verbesserung verlangen muss, damit seine Ansprüche nicht verfallen. Es gibt unterschiedliche Rügefristen. Eine Rüge ist formlos. \n Ist der Käufer eine Privatperson und kauft bei einem Unternehmen, spricht man von einem Verbrauchsgüterkauf. Die Rügefrist beträgt zwei Jahre. Das gilt auch, wenn Käufer und Verkäufer Privatpersonen sind. Bei einem Verbrauchsgüterkauf von gebrauchten Produkten kann die Frist auf ein Jahr herabgesetzt werden. \n Der normale Verschleiß gehört nicht zu den Sachmängeln. Bei Mängeln an Bauwerken verjähren die Ansprüche nach fünf Jahren. \n Bei einem arglistig verschwiegenen Mangel gilt eine Verjährungsfrist von drei Jahren. \n Arglistig bedeutet, dass der Verkäufer über den Mangel informiert war, aber dem Käufer nichts sagte. Die Frist beginnt am Ende des Jahres, in dem der Mangel entdeckt wurde. Sind Käufer und Verkäufer Kaufleute, hat der Käufer die Ware unverzüglich auf Güte, Menge und Art zu prüfen und ggf. zu rügen. Durch einen Vertrag kann der Verkäufer seine Haftung beliebig verkürzen oder ausschließen.",
+       "choices": []
+    },
+    {
+       "title": "was ist Vorrangige Rechte bei Sachmängeln?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Vorrangige Rechte bei Sachmängeln \n Bringt ein Kunde einwandfreie Ware zurück, z.B. weil sie ihm nicht mehr gefällt, dann liegt kein Sachmangel vor und es besteht kein Umtauschrecht. Bietet man dem Kunden in diesem Fall die Rücknahme der Ware gegen einen Gutschein an, ist das ein freiwilliges Entgegenkommen des Verkäufers (Kulanz). \n Liegt ein Sachmangel vor, hat der Käufer verschiedene Rechte, die sich auf zwei Stufen verteilen. Die erste Stufe nennt man (vorranginge Rechte). \n Zunächst hat er Anspruch auf (Nacherfüllung), für die dem Verkäufer eine angemessene Frist gesetzt werden muss. Der Käufer kann entscheiden ob er Ersatz (also einen neuen Artikel) oder Nachbesserung (z.B. Reparatur) verlangt. \n Entstehen durch die Nacherfüllung Kosten – z.B. für Transport, Auf- oder Abbau - muss der Verkäufer sie übernehmen. \n  Der Verkäufer kann das Wahlrecht des Käufers verweigern, wenn unverhältnismäßig hohe Kosten entstehen würden. Der Käufer muss nur zwei Nachbesserungen akzeptieren. Wenn diese nicht erfolgreich sind und der Mangel weiterhin besteht, kommt es zur nächsten Stufe, den (nachrangigen) Rechten wie z.B. der Rückgabe. Diese Rechte gelten nicht, wenn der Käufer den Fehler bei Abschluss des Kaufvertrags kannte.",
+       "choices": []
+    },
+    {
+       "title": "Was ist Nachrangige Rechte bei Sachmängeln?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Wenn die vorrangigen Rechte (z.B. Ersatz oder Reparatur) erfüllt wurden, aber ein Mangel weiterhin besteht, dann gelten für den Käufer die folgenden nachrangigen Rechte: (Rücktritt vom Kaufvertrag): Der Käufer kann wegen eines (erheblichen Mangels) vom Kaufvertrag zurücktreten und erhält, falls die Ware schon bezahlt ist, den Kaufpreis zurück. Ein erheblicher Mangel liegt vor, wenn die Ware nur noch eingeschränkt oder gar nicht mehr verwendet werden kann. Wenn man von einem Kaufvertrag zurücktritt ist das so, als hätte man nie einen Vertrag abgeschlossen. Einen Gutschein muss der Kunde daher nicht akzeptieren. Der Käufer kann auf den Schadenersatz (siehe Station Sachmängel 2) verzichten und dafür den Ersatz vergeblicher Aufwendungen fordern. Beispiel: Ein Käufer hat für den Einbau eines Pizzaofens in sein Restaurant ein Loch in die Küchenmauer geschlagen. Der gelieferte Pizzaofen ist zweimal vergeblich repariert worden. Nun kann der Käufer Ersatz für seine Bauarbeiten verlangen, aber keinen Schadenersatz für entgangene Gewinne. Diese Rechte gelten nicht, wenn der Käufer den Fehler bei Abschluss des Kaufvertrags kannte. \n Minderung (Nachlass auf den Kaufpreis): Statt den Vertrag rückgängig zu machen, bietet der Verkäufer einen Preisnachlas an. Diese Option ist dann interessant, wenn es sich um einen (geringfügigen Mangel) handelt mit dem man leben kann. Z.B. wenn eine Funktion eines Fernsehers defekt ist, man diese Funktion aber auch nicht braucht. Diese Rechte gelten nicht, wenn der Käufer den Fehler bei Abschluss des Kaufvertrags kannte.",
+       "choices": []
+    },
+    {
+       "title": "(1)Ein schneidiger Lehrer hat sich einen Laptop gekauft um seinen Schülern tollen Unterricht bieten zu können. Nach einigen Monaten stellt er fest, dass die Tastatur einen Wackelkontakt hat. Der Lehrer verlangt, dass das Gerät repariert wird. \n Welcher Mangel liegt vor? Welche Rechte stehen den Käufern / Verkäufern in den folgenden Fällen zu? Geben Sie eine Handlungsempfehlung!",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Mangel: Qualitätsmangel, \n Rechte: Ersatz oder Nachbesserung, \n Empfehlung: Reparatur oder Ersatz",
+       "choices": []
+    },{
+       "title": "(2)Ein Schüler hat sich neue Kopfhörer gekauft. Leider ist der Kopfhörer defekt. Der Schüler tauscht ihn sofort um und stellt ein paar Wochen später fest, dass das Ersatzgerät ebenfalls defekt ist. Nun verlangt er sein Geld zurück, aber der Verkäufer bietet nur erneut ein Ersatzgerät an.  \n Welcher Mangel liegt vor? Welche Rechte stehen den Käufern / Verkäufern in den folgenden Fällen zu? Geben Sie eine Handlungsempfehlung!",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Mangel: Qualitätsmangel, \n Rechte: Der Käufer hat das Recht als Nacherfüllung die Beseitigung des mangels oder die Lieferung einer mangelfreien Ware verlangen. Die Nacherfüllung gilt erst als fehlgeschlagen nach dem zweiten Versuch, \n Empfehlung: Die Kopfhörer umtauschen und die neuen Annehmen.",
+       "choices": []
+    },{
+       "title": "(3)Die Ledersitze in einem neu gekauften Auto quietschen etwas, wenn man mit dem Wagen in eine Kurve fährt und eine Jeans trägt. Das Autohaus hat bereits zweimal versucht, die Lederpolster zu fetten, damit das Geräusch aufhört. Leider ohne Erfolg. Die Kundin möchte nun vom Kaufvertrag zurücktreten.  \n Welcher Mangel liegt vor? Welche Rechte stehen den Käufern / Verkäufern in den folgenden Fällen zu? Geben Sie eine Handlungsempfehlung!",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Mangel: Persönlicher mangel (geringfügig), \n Rechte: Zweimalige Nachbesserung hat keine Beseitigung des Mangels gebracht. Dem Kunden sollte eine Preisnachlass angeboten werden. Ein Recht auf Rücktritt vom Kaufvertrag besteht nicht. \n Empfehlung: Preisnachlass akzeptieren",
+       "choices": []
+    },{
+       "title": "(4)Am 1.3. wurde ein Fön „Wunderlocke 2000“ beim Fachhändler Jupiter für 29€ gekauft. Am 25.8. reklamiert der Kunde den Fön, als nicht funktionstüchtig. Der Verkäufer bietet einen Gutschein über 29€ an, der auf Wunsch auch ausgezahlt werden könnte. Einen Ersatz lehnt der Verkäufer ab, da es sich um ein Sonderangebot handelte und der Fön inzwischen 42,50€ kostet. Bei Erwerb dieses Föns würde der Gutschein natürlich akzeptiert werden. \n Welcher Mangel liegt vor? Welche Rechte stehen den Käufern / Verkäufern in den folgenden Fällen zu? Geben Sie eine Handlungsempfehlung!",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Mangel: Qualitätsmangel, \n Rechte: Verkäufer muss das Gerät reparieren oder es ersetzen ( unabhängig vom neuen Preis), \n Empfehlung: Reparatur oder Ersatz akzeptieren",
+       "choices": []
+    }
+  ]
+},
+{
+  "subject": "WUG",
+  "type": "General",
+ "year": "2021",
+  "description": "Geschäftsfähigkeit, Kaufsvertrag formen, Beschaffungsaktivitäten planen und gestalten, Rechtsgeschäfte,Nichtigkeitsgründe, Anfechtungsgründe, Lieferungsverzug, Annahmeverzug",
+  "title": "Beschaffungsaktivitäten planen und gestalten",
+  "image": "",
+  "questions":  [
+    {
+       "title": "Was ist Geschäftsfähigkeit?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Die fähigkeit rechtgeschäfte wirksam abschließen zu könnenVon Geburt nicht geschäftsfähig, \n von ende des 7 Lebensjahres Beschränkt geschäftsfähig. \n Ende des 18 Lebensjahres unbeschränkt geschäftsfähig. \n Beschränkt geschäftsfähig darf geschäfte abschließen die nur vorteile hat sonse braucht elterns willigung.",
+       "choices": []
+    },
+    {
+       "title": "Was ist Rechtsgeschäfte?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Rechtsgeschäfte: \n + Voraussetzung für Gültigkeit: \n Rechtsfähigkeit aller beteiligtenPersonen (natürliche und juristischePersonen), das bedeutet: \n - volle Geschäftsfähigkeit \n -beschränkte Geschäftsfähigkeit nur inbestimmten Ausnahmefällen. \n +Nichtigkeitsgründe: \n -Geschäftsunfähigkeit. \n -Verstoß gegen die guten Sitten. \n -Verstoß gegen ein Gesetz \n -Scherz- und Scheingeschäfte. \n -Nichteinhaltung der vorgeschriebenen Form -> Rechtsgeschäfte sind von Anfang an ungültig. \n +Anfechtungsgründe: \n -Irrtum. \n -arglistige Täuschung. \n -widerrechtliche Drohung -> Rechtsgeschäfte werden durch Anfechtung ungültig.",
+       "choices": []
+    },
+    {
+       "title": "Wie erfolgt Die Übertragung des Eigentums?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "- beweglichen Sachen (2. B. Auto, Möbelstück)durch Einigung der Vertragspartner und Übergabe des Gegenstandes, \n -unbeweglichen Sachen (Haus, Grundstück)durch Einigung vor einem Notar (notarielieBeurkundung) und durch die Eintragung insGrundbuch.",
+       "choices": []
+    },
+    {
+       "title": "Was ist Lieferungsverzug?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "in Lieferungsverzug geratenDamit ein Verkäufer in Lieferungsverzug gerät,müssen zwei Voraussetzungen erfüllt sein. Dieerste Voraussetzung ist, dass nicht oder nichtrechtzeitig geliefert wird, also der Termin der Fälligkeit überschritten wird. Zum Zweiten muss ein Verschulden des Lieferanten vorliegen. Bei Fälligkeit ist zu unterscheiden:  \n - Der Liefertermin ist kalendermößig festgelegt (Lieferdatum, z. B. 22. juni oder Ende April). In diesem Fall kommt der Verkäufer ohne Mahnung in Verzug. \n - Der Liefertermin ist kalendermößig unbestimmt. Der Verkäufer ist dann dazu verpflichtet, unverzüglich zu liefern. Kommt er der Verpflichtung nicht nach, muss der Käufer mahnen. Verschulden bedeutet, dass der Lieferant die Gründe für die verspätete Lieferung zu vertreten hat. Beispiele: -  Der Lieferant überwacht die Liefertermine nicht sorgfältig genug: fahrlässiges Handeln. \n - Er liefert bewusst ein Einzelstück an einen anderen Kunden, weil dieser für das Produkteinen höheren Preis bezahlt: vorsätzliches Handeln.",
+       "choices": []
+    },
+    {
+       "title": "Rechte des Käufers bei Lieferungsverzug?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Rechte des Käufers bei Lieferungsverzug:ist der Lieferant in Verzug, so kann der Käuferwahlweise verschiedene Rechte beanspruchen. Er kann: \n - auf Lieferung, d.h. auf Erfüllung des Vertragsbestehen, \n - auf Lieferung und Schadenersatz wegen Verzögerung bestehen (Verzögerungsschaden), \n - vom Vertrag zurücktreten",
+       "choices": []
+    },
+    {
+       "title": "was ist Annahmeverzug?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "in Annahmeverzug geraten: \n Kommt ein Käufer seiner Pflicht aus demKaufvertrag zur Annahme der Ware nicht nach,liegt eine Leistungsstörung vonseiten desKäufers vor. Er gerät in Annahmeverzug, wenner die ordnungsgemäß gelieferte Ware nichtannimmt. Ordnungsgemäß heißt, die Waremuss zur richtigen Zeit, an den richtigen Ort undmängelfrei geliefert worden sein. Dabei spieltes keine Rolle, warum der Käufer die Ware nichtannimmt.",
+       "choices": []
+    },
+    {
+       "title": "Was ist Kaufsvertrag und  Kaufsvertrag formen?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Kaufsvertrag:\n -Einseitige Rechtsgeschäfte Vertrag:Erwartet keine Bestätigung von andere Seite wie:Kündigung, Testament .. \n -Zweiseitige Rechtsgeschäfte Vertrag:Erwartet Bestätigung von andere Seite wie:Arbeitsvertrag, Pachtvertrag… \n Kaufvertrag Form: \n -Schriftlich wie: Arbeitsvertrag, Ausbildungsvertrag… \n -Notarielle Beurkundung wie: Ehevertrag, Grundstückskauf… \n -Formfreiheit wie kauf von Aktion… \n Gültigkeit:SchauRaum und internet angebot sind Angebot an die Allgemeinheit und braucht.",
+       "choices": []
+    },
+    {
+       "title": "Was ist SMART Ziele?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "S-> spezifisch Ist das Ziel konkret/präzise/eindeutig formuliert? \n M-> messbar Ist das Ziel überprüfbar? (wer/was/wann/wie viel/wie oft). \n A-> akzeptiert ist allen Beteiligten der Mehrwert des Ziels klar? wirkt die Formmuherung aktivierend/motivierend? \n R-> realistisch Ist das formulierte Ziel realistisch und erreichbar? (Ressourcen). \n T-> terminiert Ist ein klarer Zeithorizont festgelegt?",
+       "choices": []
+    },
+    {
+       "title": "Was ist Rechtsgeschäfte abschließen?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Rechtsgeschäfte kommen durch Willens-erklärungen zustande. Eine Willenserklärung liegt vor, wenn eine Person ihren Willen zum Ausdruck bringt. Dies kann: \n -mündlich. \n -schriftlich oder. \n - durch schlüssiges Handeln erfolgen (2. B. durch Handheben bei einer Versteigerung). \n Rechtsgeschäfte lassen sich in einseitige und  zweiseitige Rechtsgeschäfte unterteilen. \n - Einseitige Rechtsgeschäfte: Sie entstehen, wenn nur eine Person eine Willenserklärung abgibt(Beispiele: Kündigung, Testament). \n Zweiseitige Rechtsgeschäfte: \n Sie entstehen,wenn zwei übereinstimmende Willenserklärungen vorliegen. Zu diesen RechtsgeschäftenZählen alle Verträge. Zu den wichtigen Verträgen gehören: \n -Kaufvertrag: Veräußerung von Sachen. Beispiel: Sabine erwirbt in einem Elektrofachgeschäft einen Fernseher. \n -Darlehensvertrag: Überlassung von vertretbaren Sachen oder Geld. Der Darlehensnehmer verpflichtet sich zur Rückzahlung. Beispiel: Aufnahme eines Kredites bei der Bank. \n -Mietvertrag: Überlassung einer Sache zum Gebrauch gegen Zahlung der vereinbarten Miete. Beispiel: Wohnungsgesellschaft vermietet an Petra eine Wohnung. \n -Pachtvertrag: Überlassung einer Suche zum Gebrauch und zur Nutzung des Ertrages gegen Entgelt. Beispiel: Bauer Heinz pachtet von samen Nachbarn Ackerland. \n -Leihvertrag: Überlassung einer Suche zum Gebrauch ohne Entgelt. Beispiel: Peter überlässt seinem Freund kostenlos für einen Tag sein Fahrrad. \n -Dienstvertrag/Arbeitsvertrag: Leistung von Diensten gegen Entgelt. Beispiel: Frau Meier arbeitet als Konstruktionsmechanikerin bei der Firma Flander. \n -Werkvertrag: Herstellung eines Werkes. Beispiel: Eine Schneiderin ändert einen Anzug nach den Wünschen des Kunden um.",
+       "choices": []
+    },
+    {
+       "title": "Was ist Rechtsgeschäfte Formen?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Form der Rechtsgeschäfte: \n Es gelten folgende Formvorschriften: \n -Schriftform: u.a. Berufsausbildungsvertrag,Testament. Verbraucherkredit; \n -Öffentliche Beglaubigung: Die Echtheit der Unterschrift wird von einem Notar oder einer Behörde beglaubigt Beispiel: Antrag auf Eintragung ins Handels oder Vereinsregister; \n -Notarielle Beurkundung: Der Inhalt und die Unterschrift eines Schriftstücks werden voneinem Notar beglaubigt Beispiele: Ehevertrag, Grundstückskauf. Schenkungsversprechen.",
+       "choices": []
+    },
+    {
+       "title": "Helga  jung hat gerade einen Ausbildungsvertrag unterschrieben, Sie lädt einen Versicherungsvertreter zu sich nach Hause ein, um sich beraten zu lassen, welche Berufsunfähigkeitsversicherung abzuschließen. \n a. Handelt es sich um ein Haustürgeschäft? \n b. Kann Helga Jung den Vertrag innerhalb zwei Wochen widerrufen?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "a- Ja, weil außerhalb der normalen Geschäftsräume (z.B. Filiale, Büro einer Versicherung). \nb- Nein, denn die Damen hat den Vertreter selbst bestellt",
+       "choices": []
+    },
+    {
+       "title": "Die Firma Müller Papier OHG aus Stuttgart unterbreitet der Jurasoft G mbH am 2. Maiein schriftliches Angebot über 10000 Blatt Papier. Größe DIN-A4 zum Gesamtpreis von150.00 E. \n a) Wie lange ist die Müller Papier OHG an dieses Angebot gebunden? \n b) durch welche Zusätze könnte die Bindung an ein solches Angebot- eingeschränkt,- ausgeschlossen werden? \n C) Die Jurasoft GmbH bestellt am 6. Mai 5000 Blatt Papier zum Gesamtpreis von 75.00 E. Muss die Müller Papier OHG liefern?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "a) ca. eine Woche. \n b) eingeschränkt : (gültig bis) solange der Vorrat reicht, \n ausgeschlossen werden: Irrtum vorbehalten. \n C) Es ist eine neue Willenserklärung also muss nicht angenommen werden.",
+       "choices": []
+    },
+    {
+       "title": "Welche der nachfolgenden Aussagen zur Anfrage ist zutreffend? Die Anfrage ist imrechtlichen Sinne . . .",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "true",
+       "correctAnswer": "",
+       "choices": [
+         {
+           "title": "[1] eine formfreie Willenserklärung des Käufers.",
+           "isCorrect": "false"
+         },
+         {
+           "title": "[2] nur gültig. wenn sie in Schriftform erfolgt.",
+           "isCorrect": "false"
+         },
+         {
+           "title": "[3] keine Willenserklärung",
+           "isCorrect": "true"
+         }
+
+       ]
+    }
+  ]
+},
+{
+  "subject": "WUG",
+  "type": "General",
+ "year": "2021",
+  "description": "Darlehensarten, Sicherheiten, Investition und Finanzierung",
+  "title": "Darlehensarten",
+  "image": "",
+  "questions":  [
+    {
+       "title": "Was ist Eigen-finanzierung?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Eigenfinanzierung:\n Bei dieser Form der Finanzierung wird einem Unternehmen von den Eigentümern auf unbestimmte Zeit Kapital zur Verfügung gestellt. Als Gegenleistung werden die Kapitalgeber am Gewinn beteiligt und erhalten ein Mitspracherecht im Unternehmen. Beispiel: Die Sommerfeld GmbH nimmt Herrn Yilmaz als neuen Gesellschafter auf. Herr Yilmaz leistet eine Einlage in Höhe von 40.000,00 €. Dieses Kapital steht nun der Sommerfeld GmbH auf unbestimmte Zeit zur Verfügung. Im Gegenzug wird Herr Yilmaz prozentual an den zukünftigen Gewinnen beteiligt.",
+       "choices": []
+    },
+    {
+       "title": "Was ist Fremdfinanzierung?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Fremdfinanzierung:\n Hierbei erhält ein Unternehmen Kapital von Personen oder Kreditinstituten (Banken), die nicht am Unternehmen beteiligt sind. In den meisten Fällen geschieht dies in Form von Bankkrediten. Bei einem Kreditvertrag werden zwischen dem Unternehmen (Schuldner) und dem Kreditgeber (Gläubiger) folgende Punkte vertraglich festgehalten: Laufzeit des Kredits, Tilgungsraten (Rückzahlungsraten), Zinsen etc. Der Kreditgeber erhält für die Vergabe seines Geldes Zinsen vom Schuldner. Die Begriffe Kredit und Darlehen unterscheiden sich insbesondere durch die jeweilige Laufzeit und die Höhe der Kreditsumme. \n Kredit: kurzfristig (z.B. ein Jahr) mit kleinerer Kreditsumme (z. B. 4.000,00 €). \n Darlehen: langfristig (mehr als vier Jahre) mit höherer Kreditsumme (z. B. 70.000,00 €).\n Die Rückzahlung eines Kredits bzw. Darlehens erfolgt meist in Raten und nennt sich Tilgung. Die Kosten für ein Darlehen werden jährlich berechnet und als Zinsen bezeichnet. Tilgung und Zinsen werden häufig gemeinsam gezahlt. Zum Vergleich von Krediten ist aber nur die Summe der Zinsen interessant, denn die Summe der Tilgung sollte immer identisch hoch sein (eben so hoch, wie die Kreditsumme)",
+       "choices": []
+    },
+    {
+       "title": "was ist Festdarlehen?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Bei einem Festdarlehen leistet der Kreditnehmer die Zahlung erst am Ende der Laufzeit des Darlehens. Er zahlt jedes Jahr die anfallenden Zinsen, damit die Schulden nicht zusätzlich wachsen. Am Ende überweist er die Zinsen sowie die gesamte Tilgung.",
+       "correctAnswerImage": "ca1.PNG",
+       "choices": []
+    },
+    {
+       "title": "Was ist Abzahlungsdarlehen?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswerImage": "ca2.PNG",
+       "correctAnswer": "Bei einem Abzahlungsdarlehen leistet der Kreditnehmer jährlich fallende Zahlungen in Form von Tilgungen und Zinsen. Hierbei bleibt die Tilgung jedes Jahr gleich und die Zinsen sinken jährlich.",
+       "choices": []
+    },
+    {
+       "title": "Was ist Annuitätendarlehen?",
+       "subject": "WUG",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswerImage": "ca3.PNG",
+       "correctAnswer": "Bei einem Annuitätendarlehen (lateinisch: „annus“, Jahr) leistet der Kreditnehmer jährlich gleichbleibende Zahlungen in Form von Tilgungen und Zinsen. Genaugenommen steigt jedes Jahr der Tilgungsbetrag während die Zinsen abnehmen. Die Zahlung insgesamt bleibt dennoch gleich.",
+       "choices": []
+    }
+  ]
+}
+]

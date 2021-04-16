@@ -57,6 +57,8 @@ public class QuestionController {
     ImageView imageViewChoice4;
     ImageView imageViewChoice5;
     ImageView imageViewChoice6;
+    ImageView imageViewCorrectChoice;
+
     Button buttonConfirm;
     private ColorStateList textColorDefaultRb; //hold the default color value of the radio buttons
 
@@ -72,19 +74,23 @@ public class QuestionController {
     QuestionList questionAdapter;
     ChoiceList choiceAdapter;
 
+    String selectedSubject;
+
     DataManagerControllable db;
 
 
     Activity activity;
 
 
-    public QuestionController(Activity activity) {
+    public QuestionController(Activity activity, String selectedSubject) {
         this.activity = activity;
+        this.selectedSubject = selectedSubject;
         instantiateView(activity);
     }
 
     /**
      * instantiate activity view items
+     * notice: if u add new view adjust disableView()
      * @param activity Activity
      */
     public void instantiateView(Activity activity) {
@@ -92,17 +98,13 @@ public class QuestionController {
         textViewScenarioTitle = (TextView) activity.findViewById(R.id.textView_title);
         textViewScenarioDescription = (TextView) activity.findViewById(R.id.textView_description);
         imageViewScenarioImage = (ImageView) activity.findViewById(R.id.imageView_image);
-        imageViewScenarioImage.setVisibility(View.GONE);
 
         textViewQuestionSubject = (TextView) activity.findViewById(R.id.textView_q_subject);
         textViewQuestionTitle = (TextView) activity.findViewById(R.id.textView_q_title);
         textViewQuestionDescription = (TextView) activity.findViewById(R.id.textView_q_description);
         imageViewQuestionImage = (ImageView) activity.findViewById(R.id.imageView_q_image);
-        imageViewQuestionImage.setVisibility(View.GONE);
         editTextQuestionUserAnswer = (EditText) activity.findViewById(R.id.editText_q_user_answer);
-        editTextQuestionUserAnswer.setVisibility(View.GONE);
         textViewQuestionCorrectChoice = (TextView) activity.findViewById(R.id.textView_correct_choice);
-        textViewQuestionCorrectChoice.setVisibility(View.GONE);
         textViewQuestionMultipleChoice = (TextView) activity.findViewById(R.id.textView_q_multiple_choice);
         checkBoxChoice1 = (CheckBox) activity.findViewById(R.id.checkBox_choice1);
         checkBoxChoice2 = (CheckBox) activity.findViewById(R.id.checkBox_choice2);
@@ -111,22 +113,18 @@ public class QuestionController {
         checkBoxChoice5 = (CheckBox) activity.findViewById(R.id.checkBox_choice5);
         checkBoxChoice6 = (CheckBox) activity.findViewById(R.id.checkBox_choice6);
         imageViewChoice1 = (ImageView) activity.findViewById(R.id.imageView_c1_image);
-        imageViewChoice1.setVisibility(View.GONE);
         imageViewChoice2 = (ImageView) activity.findViewById(R.id.imageView_c2_image);
-        imageViewChoice2.setVisibility(View.GONE);
         imageViewChoice3 = (ImageView) activity.findViewById(R.id.imageView_c3_image);
-        imageViewChoice3.setVisibility(View.GONE);
         imageViewChoice4 = (ImageView) activity.findViewById(R.id.imageView_c4_image);
-        imageViewChoice4.setVisibility(View.GONE);
         imageViewChoice5 = (ImageView) activity.findViewById(R.id.imageView_c5_image);
-        imageViewChoice5.setVisibility(View.GONE);
         imageViewChoice6 = (ImageView) activity.findViewById(R.id.imageView_c6_image);
-        imageViewChoice6.setVisibility(View.GONE);
+        imageViewCorrectChoice = (ImageView) activity.findViewById(R.id.textView_correct_choice_image);
 
         textColorDefaultRb = checkBoxChoice1.getTextColors();  //save default color of a checkbox
         buttonConfirm = (Button) activity.findViewById(R.id.button_confirm);
 
-        db = new ListDataManager(activity);
+        //load json file of the selected subject
+        db = new ListDataManager(activity, selectedSubject);
 
 
         //TODO: add search criteria
@@ -167,9 +165,12 @@ public class QuestionController {
      * fill currentScenario and currentQuestion
      */
     private void fillScenario() {
+        //disable all views at the beginning of every question
+        disableViews();
 
+        //identify current scenario
         currentScenario = scenarioList.get(scenarioCounter);
-
+        //identify last question of current scenario
         lastQuestion =currentScenario.getQuestions().size() -1;
 
         //isNext = lastQuestion > 0 || lastScenario > 0;
@@ -189,33 +190,19 @@ public class QuestionController {
                     ", "+ currentScenario.getYear() +", " +currentScenario.getSubject() + ", P:"+ currentScenario.getPoints();
 
             textViewScenarioScenariosCount.setText(scenarioHeader);
-            textViewScenarioTitle.setText("S-Title: " + currentScenario.getTitle());
-                    /*   textViewScenarioPoints.setText("S-Points: " + currentScenario.getPoints());
-            textViewScenarioSubject.setText("S-Subject: " + currentScenario.getSubject());
-            textViewScenarioTitle.setText("S-Title: " + currentScenario.getTitle());
-            textViewScenarioDescription.setText("S-Description: " + currentScenario.getDescription());
-            textViewScenarioType.setText("Type: "+currentScenario.getType());
-            textViewScenarioYear.setText("Year: "+currentScenario.getYear());
+            textViewScenarioScenariosCount.setVisibility(View.VISIBLE);
 
-          */
-        }else {
-            //disable all scenario view if its null
-            textViewScenarioTitle.setVisibility(View.GONE);
+            textViewScenarioTitle.setText("S-Title: " + currentScenario.getTitle());
+            textViewScenarioTitle.setVisibility(View.VISIBLE);
+
         }
+
         //scenario image
         if (currentScenario.getImage() != null && !currentScenario.getImage().equals("")){
             imageViewScenarioImage.setVisibility(View.VISIBLE);
             Log.i(TAG, "Image: "+IMAGE_DIRECTORY+currentScenario.getImage()+".JPG");
             Picasso.get().load(IMAGE_DIRECTORY+currentScenario.getImage()).into(imageViewScenarioImage);
         }
-
-        //disable unnecessary views
-        //textViewScenarioSubject.setVisibility(View.GONE);
-        textViewScenarioDescription.setVisibility(View.GONE);
-
-        //update counters
-       // textViewScenarioScenariosCount.setText("S-Counts: " + (scenarioCounter +1) + "/"+ (lastScenario +1) );
-       // textViewScenarioQuestionsCount.setText("Q-Counts: " + (questionCounter +1) + "/"+ (lastQuestion+1) );
 
         //check question image
         if (currentQuestion.getImage() != null && !currentQuestion.getImage().equals("")){
@@ -224,38 +211,13 @@ public class QuestionController {
             Picasso.get().load(IMAGE_DIRECTORY+currentQuestion.getImage()).into(imageViewQuestionImage);
         }
 
-
-        //fill question
-        /*textViewQuestionType.setText("Type: "+currentQuestion.getType());
-        textViewQuestionYear.setText("Year: "+currentQuestion.getYear());
-        textViewQuestionPoints.setText("Q-Points: " + currentQuestion.getPoints());
-        textViewQuestionSubject.setText("Q-Subject: " + currentQuestion.getSubject());
-        textViewQuestionTitle.setText("Q-Title: " + currentQuestion.getTitle());
-        textViewQuestionDescription.setText("Q-Description: " + currentQuestion.getDescription());
-
-         */
-
-        textViewQuestionDescription.setVisibility(View.GONE);
-        textViewQuestionMultipleChoice.setVisibility(View.GONE);
-
-
         String questionHeader = "Q: "+currentQuestion.getType() +
                 ", "+ currentQuestion.getYear() +", " +currentQuestion.getSubject() + ", P:"+ currentQuestion.getPoints();
 
         textViewQuestionSubject.setText(questionHeader);
+        textViewQuestionSubject.setVisibility(View.VISIBLE);
         textViewQuestionTitle.setText("Q-Title: " + currentQuestion.getTitle());
-
-
-        //disable checkbox
-        checkBoxChoice1.setVisibility(View.GONE);
-        checkBoxChoice2.setVisibility(View.GONE);
-        checkBoxChoice3.setVisibility(View.GONE);
-        checkBoxChoice4.setVisibility(View.GONE);
-        checkBoxChoice5.setVisibility(View.GONE);
-        checkBoxChoice6.setVisibility(View.GONE);
-
-        textViewQuestionCorrectChoice.setVisibility(View.GONE);
-        editTextQuestionUserAnswer.setVisibility(View.GONE);
+        textViewQuestionTitle.setVisibility(View.VISIBLE);
 
         //activate and fill checkbox if question isMultipleChoice
         if (currentQuestion.isMultipleChoice()) {
@@ -302,6 +264,36 @@ public class QuestionController {
             editTextQuestionUserAnswer.setVisibility(View.VISIBLE);
         }
         buttonConfirm.setText(BUTTON_STATE_CONFIRM);
+    }
+
+    /**
+     * disable all views at every question
+     */
+    private void disableViews() {
+        textViewScenarioScenariosCount.setVisibility(View.GONE);
+        textViewScenarioTitle.setVisibility(View.GONE);
+        textViewScenarioDescription.setVisibility(View.GONE);
+        textViewQuestionSubject.setVisibility(View.GONE);
+        textViewQuestionTitle.setVisibility(View.GONE);
+        textViewQuestionDescription.setVisibility(View.GONE);
+        editTextQuestionUserAnswer.setVisibility(View.GONE);
+        textViewQuestionCorrectChoice.setVisibility(View.GONE);
+        textViewQuestionMultipleChoice.setVisibility(View.GONE);
+        checkBoxChoice1.setVisibility(View.GONE);
+        checkBoxChoice2.setVisibility(View.GONE);
+        checkBoxChoice3.setVisibility(View.GONE);
+        checkBoxChoice4.setVisibility(View.GONE);
+        checkBoxChoice5.setVisibility(View.GONE);
+        checkBoxChoice6.setVisibility(View.GONE);
+        imageViewScenarioImage.setVisibility(View.GONE);
+        imageViewQuestionImage.setVisibility(View.GONE);
+        imageViewChoice1.setVisibility(View.GONE);
+        imageViewChoice2.setVisibility(View.GONE);
+        imageViewChoice3.setVisibility(View.GONE);
+        imageViewChoice4.setVisibility(View.GONE);
+        imageViewChoice5.setVisibility(View.GONE);
+        imageViewChoice6.setVisibility(View.GONE);
+        imageViewCorrectChoice.setVisibility(View.GONE);
     }
 
     public void createQuestionGroup(String subject) {
@@ -386,6 +378,12 @@ public class QuestionController {
                 } else {
                     textViewQuestionCorrectChoice.setTextColor(Color.RED);
                 }
+                //check correct choice image
+                if (currentQuestion.getCorrectAnswerImage() != null && !currentQuestion.getCorrectAnswerImage().equals("")){
+                    imageViewCorrectChoice.setVisibility(View.VISIBLE);
+                    Log.i(TAG, "Image: "+activity.getAssets()+IMAGE_DIRECTORY+currentQuestion.getImage());
+                    Picasso.get().load(IMAGE_DIRECTORY+currentQuestion.getImage()).into(imageViewCorrectChoice);
+                }
             }
         }
         showNextOrFinishButtonText();
@@ -395,20 +393,29 @@ public class QuestionController {
      * to validate each user-answer of a checkBox
      */
     private void validateCheckBoxChoice(CheckBox checkBox, Choice choice) {
+        int answerColor = Color.RED;
+        String message = " \n{Should not be selected!}";
         //if selected and isCorrect
         if (checkBox.isChecked()) {
             if (choice.isCorrect()) {
-                checkBox.setTextColor(Color.GREEN);
-                return;
+               // checkBox.setTextColor(Color.GREEN);
+                //return;
+                answerColor=Color.GREEN;
             }
         } else {
             //if not selected and is not Correct
             if (!choice.isCorrect()) {
-                checkBox.setTextColor(Color.GREEN);
-                return;
+                //checkBox.setTextColor(Color.GREEN);
+                //return;
+                answerColor=Color.GREEN;
             }
         }
-        checkBox.setTextColor(Color.RED);
+        if (choice.isCorrect()){
+            message ="\n{Should be selected!}";
+        }
+        //checkBox.setTextColor(Color.RED);
+        checkBox.setText(checkBox.getText()+message);
+        checkBox.setTextColor(answerColor);
     }
 
     /**
