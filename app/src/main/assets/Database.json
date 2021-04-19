@@ -1,0 +1,215 @@
+[
+{
+  "subject": "Datenbank",
+  "type": "General",
+ "year": "2021",
+  "description": "Einführung Datenbanken",
+  "title": "Datenbanksystem",
+  "image": "",
+  "questions":  [
+    {
+       "title": "Was ist ein Datenbanksystem (DBS)?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "ist ein System zur elektronischen Datenverwaltung. Die wesentliche Aufgabe eines DBS ist es, große Datenmengen effizient, widerspruchsfrei und dauerhaft zu speichern.",
+       "choices": []
+    },{
+       "title": "Von was besteht ein Datenbanksystem?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Ein DBS besteht aus drei Teilen: \n -der Verwaltungssoftware, genannt Datenbankmanagementsystem (DBMS) \n - und der Menge der zu verwaltenden Daten, den eigentlichenen Datenbanken (DB) \n - und dem DataDictionary (DD), in welchem die Struktur der Daten beschrieben wird. \n Alle Zugriffe auf die Daten erfolgt ausschließlich über das DBMS.",
+       "choices": []
+    },{
+       "title": "Bekannte Datenbankmodelle sind?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "1. Hierarchisches Datenmodell \n 2. Netzwerkdatenmodell \n 3. Relationales Datenmodell \n 4. Objektorientiertes Datenmodell \n 5. (objektrelationales Datenmodell)",
+       "choices": []
+    },{
+       "title": "Welche Funktionen kann ein Datenbankmanagementsystem (DBMS) ünterstützen?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Ein DBMS sollte folgende Funktionen unterstützen: \n • Datendefinition: \n Das DBMS muss in der Lage sein, Datendefinitionen, d.h. externe, konzeptuelle, interne Schemata im Quellcode zu akzeptieren und in einen geeigneten Objektcode zu übersetzen. Das DBMS hat Compiler für die verschiedenen DDLs. \n • Datenmanipulation: \n Zum Verarbeiten von DMLs muß das DBMS entsprechende Komponenten haben. DMLAnforderungen können geplant oder ungeplant sein. \n geplant: Die Anforderung ist lange vorher bekannt, so dass der DBA die Speicherstruktur daran anpassen kann (operative oder Produktionsanwendungen, compiled oder canned transaction). \n ungeplant: Das ist eine ad-hoc-Anforderung (Anwendungen der Entscheidungsfindung, decision support). Aufgabe des DBMS ist es, auch solche Anforderungen mit hoher Performanz zu erfüllen. \n • Datensicherheit und -integrität: \n Alle Anforderungen, welche die Sicherheit, Zugriffsrechte und Integrität der Daten verletzen, werden vom DBMS zurückgewiesen. \n • Datenlexikon (data dictionary): \n Mit dem DBMS muss ein Datenlexikon oder Datenkatalog angelegt werden können, das selbst eine DB ist und Daten (über) die Daten enthält (Metadaten). Diese MetaDB enthält Informationen über die Schemata und Abbildungen der DB und sich selbst. \n • Transaktionsmanager (transaction manager): \n Das DBMS muss parallele Zugriffe auf die DB so synchronisieren, dass die DB nicht inkonsistent wird.",
+       "choices": []
+    },{
+       "title": "Was ist eine Transaktion?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Eine Transaktion ist eine Folge von Aktionen zur kontrollierten Veränderung eines Datenbestandes. Die Eigenschaften einer Transaktion werden oft unter dem Schlagwort ACID zusammengefasst: \n - atomic (unteilbar): \n Es werden entweder alle Aktionen einer Transaktion ausgeführt oder gar keine. Eine Transaktion wird niemals nach der Ausführung eines Teils der Aktionen beendet. \n - consistent (konsistent): \n Vor Beginn einer Transaktion und nach ihrer Beendigung befindet sich der Datenbestand in einem konsistenten Zustand. Solange eine Transaktion läuft, kann sich der Datenbestand in einem inkonsistenten Zustand befinden. \n - isolatet (isoliert): \n Wenn mehrere Transaktionen gleichzeitig auf demselben Datenbestand ausgeführt werden, so ist das Ergebnis ein Datenbestand , wie ihn eine sequenzielle Ausführung der Transaktionen in irgend einer Reihenfolge ergeben hätte.  Nebenläufige Transaktionen dürfen sich nicht beeinflussen \n - durable (dauerhaft): \n Die Änderungen, die eine Transaktion an einem Datenbestand vornimmt, werden persistent gespeichert, d.h. sie werden auf ein nicht-flüchtiges Speichermedium geschrieben.",
+       "choices": []
+    },{
+       "title": "Vor- und Nach- teile des Hierarchisches Datenbankmodel?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "q3.JPG",
+       "multipleChoice": "false",
+       "correctAnswer": "Ein Hierarchisches Datenbankmodell ist das älteste Datenbankmodell; es bildet die reale Welt durch eine  hierarchische  Baumstruktur  ab.  Jeder  Satz  (Record)  hat  also genau einen  Vorgänger,  mit Ausnahme genau eines Satzes,  nämlich  der Wurzel. Es können somit  nur  1:1  und  1:n  Beziehungen dargestellt werden. n:m Beziehungen können nur durch Redundanzen realisiert werden. Eine Renaissance erlebt die hierarchische Datenspeicherung mit XML und LDAP. Auch diverse ältere Anwendungen bei Banken und Versicherungen benutzen noch heute hierarchische Datenbanken. Das bekannteste  hierarchisch  organisierte  Datenbanksystem  ist  IMS/DB  der  Firma  IBM. Durch  die hierarchische Baumstrukturist der lesende Zugriff extrem schnell. Der Nachteilder baumstrukturierten  Verweise  liegt  bei  der Speicherung  der  Daten und  deren  Verknüpfung,  da die Verweise untereinander vorab ermittelt werden müssen. Dadurch, dass man nur eine Baumstruktur verwenden kann, ist es nicht möglich, zwei Baumstrukturen miteinander zu verknüpfen. Das hat zur Folge, dass dieses Modell sehr starr ist und wenig Freiheit für den Entwickler bietet. \n Vorteile: \n •einfacher Aufbau \n •extrem schneller Zugriff. \n Nachteile: \n •Querverweise nicht möglich ➔Redundanzen \n •Änderungen nur sehr schwer möglich \n •Suche nur nach festen Kriterien \n •Größe  der  Datenbank  muss  schon  im  Voraus  bekannt  sein ➔leere  Datensätze werden  immer „mit geschleppt“ \n Vertreter: IMS/DB der Firma IBM.",
+       "choices": []
+    },{
+       "title": "Vor- und Nach- teile des Netzwerkmodells Datenbankmodel?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "q4.JPG",
+       "multipleChoice": "false",
+       "correctAnswer": "Das  Netzwerk-Modell  fordert  keine  strenge  Hierarchie  und  kann  deswegen  auch  m:n-Beziehungen abbilden,  d.  h.  ein  Datensatz  kann  mehrere  Vorgänger  haben.  Auch  können  mehrere  Datensätze  an oberster  Stelle  stehen.  Es  existieren  meist  unterschiedliche  Suchwege,  um  zu  einem  bestimmten Datensatz zu kommen. Man kann es als eine Erweiterung des hierarchischen Datenbankmodells sehen. \n Vorteile: \n •Wenig bis keine Redundanzen \n •Flexibel bzgl. Erweiterungen. \n Nachteile: \n •Implementierung, Erweiterung und Wartung aufwändig und kompliziert \n •wird schnell unübersichtlich \n •Datenstruktur bestimmt über Aufbau \n •Ab einer bestimmten Größe sehr langsam. \n Vertreter: UDS (Universal Datenbank System) von Siemens, DMS (Database Manage-ment System) von Sperry Univac.",
+       "choices": []
+    },{
+       "title": "Vor- und Nach- teile des Relationale-Datenbankens?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "q5.JPG",
+       "multipleChoice": "false",
+       "correctAnswer": "Eine relationale  Datenbank beruht  auf  einem  tabellen basierten  relationalen  Datenbankmodell. Grundlage des Konzeptes relationaler Datenbanken ist die Relation. Sie stellt eine mathematische Be-schreibung einer Tabelle dar und ist ein im mathematischen Sinn wohldefinierter Begriff. Operationen auf diesen Relationen werden durch die relationale Algebra bestimmt. Das relationale Datenbankmodell wurde 1970 von Edgar F.  Codd erstmals vorgeschlagen und ist bis heute trotz einiger Kritikpunkte ein etablierter Standard für Datenbanken. \n Eine relationale Datenbank kann man sich als eine   Sammlung   von Tabellen(den   Rela-tionen)   vorstellen,   in   welchen   Datensätze abgespeichert   sind.   Jede   Zeile   (Tupel)   in einer   Tabelle   ist   ein Datensatz(record). Jeder Tupel   besteht   aus   einer   Reihe   von Attributwerten  (Attribute=  Eigenschaften), den  Spalten  der  Tabelle.  Das Relationen-schemalegt  dabei  die  Anzahl  und den  Typ der   Attribute   für   eine Relation. Zur   ein-deutigen     Kennzeichnung     der     einzelnen Datensätze dient der Primärschlüssel. \n Der   Primärschlüssel   muss   eindeutig   sein und bei   jedem   Datensatz   einen Wert haben.   Der Primärschlüssel ist von Bedeutung für den Zugriff (Lesen und Schreiben), für das Navigieren und für die Verbindung von Dateien. Der Fremdschlüssel ist ein Feld einer Tabelle, welches in einer anderen Tabelle als Primärschlüssel fungiert. Wesenszug der relationellen Datenbank sind die Beziehungen (Relationen) zwischen den Tabellen. \n Vorteile: \n •Redundanzfreie Datenspeicherung möglich \n •Durch große Verbreitung existieren zahlreiche Schnittstellen \n •SQL-fähig \n •vergleichsweise sehr einfach und flexibel zu erstellen und zu erweitern \n •Abfragen einfach nach freien Kriterien möglich. \n Nachteile:\n •Komplexität nach Normalisierung \n •umständliche SQL-Befehlskonstrukte bei verknüpften Tabellen \n •keine komplexen Datentypen \n •Beim Einsatz von OO Sprachen O/R Mapping nötig. \n Vertreter: Oracle, MySQL, MS Access, MS SQL Server",
+       "choices": []
+    },{
+       "title": "Vor- und Nach- teile des bjektorientiertes-Modells?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "q6.JPG",
+       "multipleChoice": "false",
+       "correctAnswer": "Ein objektorientiertes Datenbankmodell verfolgt den Ansatz, Daten zusammen mit ihren Methodenin einem  Objekt  zu  speichern.  Das  Datenmodell  basiert  auf  den  Paradigmen  der  objektorientierten Programmierung  und  im  Einzelnen auf  denender  jeweiligen  Programmiersprache,  die  zum  Einsatz kommt. Die Abfrage der Daten kann über die Funktionen des Objektes oder die Objektabfragesprache erfolgen.   Hierbei   kann   auf   die SQL-ähnliche   Abfragesprache Object   Query   Language   (OQL) zurückgegriffen werden. In   der   Praxiskommen objektorientierte   Datenbanken   nur   selten   zum   Einsatz.   Relationale Datenbanksysteme dominieren die Anwendungssysteme in Wirtschaft und Forschung. \n Vorteile: \n •Daten können flexibel repräsentiert werden. \n •Unterstütztkomplexe Datentypen. \n•MehrfacheVerwendung von Objekten möglich. \n •Beim Einsatz vom OO Sprachen kein O/R Mapping nötig. \n Nachteile: ßn •Wenige Schnittstellen vorhanden \n •Im Vergleich zu relationalen Datenbanksystemen nimmt die Performance von Transaktionen mit der Zunahme an zu verarbeitenden Daten sehr schnell ab. \n •Methoden werden auch in der Datenbank gespeichert. \n •Die Zugriffspfade zu Objekten über mehrere Pfadarten (bspw. Vererbung und Assoziation) verur-sacht  bei  Schreiboperationen  in  der  Sperrverwaltung  zu  einer  exponentiellen  Komplexität  und somit zu Performance problemen. \n Vertreter: db4o",
+       "choices": []
+    },{
+       "title": "Was ist NoSQL?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "q7.JPG",
+       "multipleChoice": "false",
+       "correctAnswer": "Der Aufstieg von NoSQL-Datenbanken stellt das traditionelle relationale Datenbankmodell als Lösung für alle Probleme in Frage –nicht nur in der Theorie, sondern auch in der Praxis. In seinem Kern be-deutet NoSQL allerdings keine grundsätzliche Ablehnung von SQL: NoSQL steht eher für (Not Only SQL) (nicht nur SQL) als für (No SQL) (kein SQL). Die neue Strömung greift interessanterweise Da-tenbankmodelle auf, die in der Vergangenheit aus verschiedensten Gründen in Vergessenheit geraten sind. Dabei erfolgt die Innovation in erster Linie durch praktische Entwicklungen –häufig auf der Ba-sis  von  Open-Source-Software –,  nicht  in  Form  datenbanktheoretischer  Überlegungen.  NoSQL,  das schon vorweg, ist jedoch kein Wundermittel für alle Datenbankansprüche.Der derzeitige NoSQL-Trend bringt die relationalen SQL-Datenbank allerdings nicht zum ersten Mal unter  Beschuss.In  den  neunziger  Jahren  zum  Beispiel  machten  die  objektorientierten Datenbanken von sich reden. Sie boten Entwicklern auf den ersten Blick einen Ausweg aus der mühseligen Konver-tierung ihrer Datenobjekte in Reihen und Spalten. In der Praxis waren die Implementierungen von ob-jektorientierten Datenbanken jedoch häufig sehr komplex und fragil, sodass desillusionierte Entwick-ler  sich  erneut  auf  die Suche  nach  besseren  Möglichkeiten  begaben.  In  der  Folge  entstanden  die  ob-jektrelationalen  Mapper  (ORM),  die  einenGroßteil  der Konvertierungsarbeit  von  Datenobjekten zwecks Speicherung in einer SQL-Datenbank erledigten.Die aktuellen NoSQL-Datenbanken haben einige Eigenschaften gemeinsam: Sie verzichten in der Re-gel  auf  die  starren  Schemata  der  Tabellen  ihrer  relationalen  Pendants.  Als  schemafreie  Datenbanken setzen sie auf flexiblere Techniken, um festzulegen, wie Daten gespeichert werden; oder sie überlassen das  gleich  komplett  den  Anwendungen.  Namensgebend  ist  der  Einsatz  anderer Protokolle  für  die Kommunikation mit den Clients als SQL. Die Architektur vieler NoSQL-Datenbanken ist auf Skalier-barkeit ausgelegt, sodass sich große Datenbestände in einem Cluster aus Standardsystemen verwalten lassen, statt sie auf einem einzigen Superserver zu speichern.Bei näherer Betrachtung lassen sich die verschiedenen NoSQL-Ausprägungen in vier Hauptkategorien aufteilen: dokumentenorientierte Datenbanken (document stores), Key-Value-Datenbanken, spalten-orientierte Datenbanken und Graphendatenbanken.",
+       "choices": []
+    }
+]
+},
+{
+  "subject": "Datenbank",
+  "type": "General",
+ "year": "2021",
+  "description": "Normalisierung Formen 3NF",
+  "title": "Normalisierung",
+  "image": "",
+  "questions":  [
+    {
+       "title": "Was ist Normalisierung?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "q8.JPG",
+       "multipleChoice": "false",
+       "correctAnswer": "Die Normalisierung: \n E.F.Codd hat eine Reihe von Regeln festgelegt , die eine Datenverwaltung ohne Redundanzen ermöglichen sollen. Die Normalisierung wird in der Regel bei einem bereits bestehendem Datenbestand angewendet. \n BOTTOM UP-Methode: \n - Eine Tabelle ist in der 1. Normalform, wenn alle Werte der Tabelle atomar vorliegen, d.h. Aufzählungen o. ä. sind nicht erlaubt. \n Probleme der 1. Normalform: \n  Die Tabelle weist nun Redundanzen auf. Mitarbeiternamen, Abteilungsnamen und Projektnamen treten mehrfach auf.  Die Daten können nicht eindeutig identifiziert werden -> Primärschlüssel. \n -Eine Tabelle ist in der 2.Normalform, wenn das Kriterium der 1.Normalform erfüllt ist und jedes Nichtschlüsselfeld voll funktional vom  Primärschlüssel abhängt. \n -Eine Tabelle befindet sich in der 3. Normalform, wenn alle Nichtschlüsselattribute direkt vom Primärschlüssel abhängen, d.h. kein Attribut ist nur transitiv vom Primärschlüssel abhängig.",
+       "choices": []
+    },
+    {
+       "title": "Definition von Redundanz, und Anomalien?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Definition Redundanz: Wiederholung derselben Daten ohne tatsächlichen Informationsgewinn. Redundanzen können zu Anomalien führen. \n Anomalien:\n -Mutationsanomalie (Mutation der Daten):Die Mutationsanomalie tritt auf, wenn die redundanten Daten (z.B. durch versehent-liches Falschschreiben) verändert werden („mutieren“). \n -Einfügeanomalie (ungewolltes Dateneinfügen):Von einer Einfügeanomalie spricht man, wenn durch das Einfügen von Daten unge-wollt weitere Daten eingefügt werden müssen. \n -Löschanomalie (unbeabsichtigtes Datenlöschen):Eine Löschanomalie liegt vor, wenn durch das Löschen von Daten weitere Informati-onen verloren gehen, die aber gar nicht gelöscht werden sollten. \n -Änderungsanomalie (Datenänderung  macht Folgeänderungen notwendig):Wenn das Ändern eines Datensatzes zwangsläufig das Ändern weiterer Datensätzenach sich zieht, spricht man von einer Änderungsanomalie.",
+       "choices": []
+    },
+    {
+       "title": "Der nachfolgende Tabellenausschnitt zeigt, wie in der Werkstatt SchmitzBike die Wartung (Wart) der Räder (Rad) durch die Mitarbeiter (Ma) dokumentiert wird.Sie sollen als Auszubildender ihrer Firma diesen Datenbestand in allen drei Schritten in eine relationale Datenbank überführen.Dazu liegen folgende Informationen vor: \n a.Erstellen Sie auf der nachfolgenden Seite aus der gegebenen Tabelle eine neue Tabelle, die der 1. NF entspricht.Tragen Sie alle ATTRIBUTWERTE ein. Bilden Sie aus den bestehenden Attributen einen zusammengesetzten Primärschlüssel. Kennzeichnen Sie die einzelnen Teilattribute des Schlüssels durch Unterstreichen. \n b.Bringen Sie den Datenbestand durch Aufteilung in mehrere Tabellen in die 2. NF. Geben Sie den Tabellen sinnvolle Namen. Kennzeichnen Sie die Schlüssel! \n c.Überführen Sie anschließend in die 3.NF. Geben Sie eventuell neu entstehenden Tabellen sinnvolle Namen. Kennzeichnen Sie die Schlüssel!",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "q11.PNG",
+       "multipleChoice": "false",
+       "correctAnswer": "",
+       "correctAnswerImage": "ca7.PNG",
+       "choices": []
+    }
+  ]
+},
+{
+  "subject": "Datenbank",
+  "type": "General",
+ "year": "2021",
+  "description": "Entity Relationship Modell",
+  "title": "Entity Relationship Modell, ER-Modell oder ERM ",
+  "image": "",
+  "questions":  [
+    {
+       "title": "Entity-Relationship-Diagrammes Regeln?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "q9.JPG",
+       "multipleChoice": "false",
+       "correctAnswer": "Das Entity-Relationship-Modell, kurz ER-Modell oder ERM  dient dazu, im Rahmen der semantischen Datenmodellioerung einen Ausschnitt der realen Welt zu beschreiben. Das ER-Modell besteht aus einer Grafik (ER-Diagramm, Abk. ERD) und einer Beschreibung der darin verwendeten Elemente, wobei Dateninhalte (d. h. die Bedeutung oder Semantik der Daten) und Datenstrukturen dargestellt werden. Ein ER-Modell dient sowohl in der konzeptionellen Phase der Anwendungsentwicklung der Verständigung zwischen Anwendern und Entwicklern (dabei wird nur das Was, also die Sachlogik, und nicht das Wie, also die Technik, behandelt), als auch in der Implementierungsphase als Grundlage für das Design der – meist relationalen Datenbank Der Einsatz von ER-Modellen ist der De-facto-Standard für die Datenmodellierung, auch wenn es unterschiedliche grafische Darstellungsformen für Datenmodelle gibt. Bei der Überführung eines Entity-Relationship-Diagrammes (ERD) auf ein relationales \n Datenbankschema müssen folgende Regeln beachtet werden: \n Regel 1: Jede Entitätsmenge muss als eigenständige Tabelle mit einem eindeutigen Primärschlüssel definiert werden \n Regel 2: Eine 1:n-Beziehung kann ohne eigenständige Beziehungsmengentabelle durch die beiden Tabellen der zugeordneten Entitätsmengen ausgedrückt werden. Dazu wird in der Tabelle mit der einfachen Assoziation ein Fremdschlüssel auf die referenzierte Tabelle mit eventuell weiteren Merkmalen der Beziehungsmenge geführt. \n Regel 3: Jede Beziehungstabelle einer m:n Beziehung muss als eigenständige Tabelle definiert werden, wobei der Primärschlüssel der zugehörigen Entitätsmengen als Fremdschlüssel in dieser Tabelle auftreten müssen. \n Regel 4: Eine 1:1-Beziehungsmenge kann ohne eigenständige Tabelle durch die beiden Tabellen der zugeordneten Entitätsmengen ausgedrückt werden, indem einer der Primärschlüssel der referenzierten Tabelle als Fremdschlüssel in die andere Tabelle eingebracht wird.",
+       "choices": []
+    },
+    {
+       "title": "Aus dem Pflichtenheft liegen folgende Informationen vor:\n •Für einen Fahrrad werden die RadID, der RadTyp, eine Beschreibung und der Tagespreis gespeichert. Der Tagespreis ist vom Radtyp abhängig. \n •Von jedem Radtyp gibt es mehrere Räder (Exemplare). \n •Zu jedem Kunden werden Name, Anschrift und das Geb.Datum gespeichert. \n •Ein Kunde kann mehrere Räder mieten. \n •In einem Mietvertrag wird der Kunde, das oder die gemieteten Räder, das Ausleih- und Rückgabedatum (Timestamp) und der Gesamtpreis festgehalten. \n •Ein Rad kann mehrmals täglich vermietet werden. \n Erstellen Sie für obige Situation ein ERD. Überführen Sie dieses in ein relationales Datenmodell. Kennzeichnen Sie die Primärschlüssel mit (PK) und die Fremdschlüssel mit (FK).",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Fahrrad: Rad-ID, Beschreibung, RT-ID. \n RadTyp: RT-ID, (Name), Tagespreis. \n Kunden: K-ID, Anschrift, geb_datum. \n Mietvertrag: M-ID, K-ID, Ausleihdatum, Rückgabedatum. \n RadMiet: M-ID, Rad-ID, R-M-ID",
+       "correctAnswerImage": "cc2.JPG",
+       "choices": []
+    }
+  ]
+},
+{
+  "subject": "Datenbank",
+  "type": "General",
+ "year": "2021",
+  "description": "SQL",
+  "title": "SQL-Structured Query Language",
+  "image": "",
+  "questions":  [
+    {
+       "title": "Entwicklung der SQL?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Ziel: Entwicklung einer Datenbanksprache für alle Aufgaben der Datenbank-VerwaltungEntwicklung:1974 viele Sprachentwürfe, u.a. SEQUEL (Structured English Query Language)→ Weiterentwicklung zu SQL (Structured Query Language)1975/76 System R (IBM) als Prototyp für SQL1986/87 SQL als ANSI-Standard1989 SQL-89 ISO-Standard1992 SQL-92 mit 3 Leveln (Entry Level, Intermediate Level, Full Level)1999 SQL:1999 u.a. objekt-rel. Erweiterungen und rekursive Anfragen2003 SQL:2003 u.a. erste XML-Feature2006 SQL:2006 u.a. starke XML-Erweiterungen (Integration XQuery)2008 SQL:2008 u.a. Standardisierung komplexerer AbfrageoperationenSQL ist heute „de-facto“ Standard in der relationalen Welt. Die meisten Produkte unterstützen meist (nur) SQL-92/Intermediate Level und Teile von SQL:1999 / SQL:2003 / SQL:2006 / SQL:2008 \n SQL wird (meist) in drei Teilbereiche aufgeteilt: \n -DDL -Data Definition Language (CREATE TABLE,  DROP TABLE,  ALTER TABLE....) \n -DML -Data Manipulation Language (INSERT, UPDATE,  DELETE.....(SELECT)) \n -DCL Data Control Language (CREATE DATABASE, DROP DATABASE, GRANT, REVOKE, USE.....). \n Manchmal findet sich noch die DQL Data Query Language (SELECT)Standard datentypen in SQL integer (oder auch integer4, int),smallint (oder auch integer2),float(p) (oder auch kurz float),decimal(p,q) und numeric(p,q) mit jeweils q Nachkommastellen,character(n) (oder kurz char(n), bei n = 1 auch char) für Zeichenketten (Strings) fester Länge n,character varying(n) (oder kurz varchar(n) für Strings variabler Länge bis zur Maximallänge n,bit(n) oder bit varying(n) analog für Bitfolgen, unddate, time bzw. timestamp für Datums-, Zeit-und kombinierte Datums-Zeit-Angabenblob (binary large object)für sehr große binäre Datenclob (character large object) für sehr große StringsAchtung:Gelegentlich verwenden Hersteller andere Bezeichnungen  (beispielsweise bei Neuimplementierung von Datentypen –Oracle beispielsweise varchar2(n) )",
+       "choices": []
+    },
+    {
+       "title": "Nützliche Funktionen der SQL?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "",
+       "multipleChoice": "false",
+       "correctAnswer": "Datumsfunktionen Ein Datumswert besteht immer aus drei verschiedenen Informationen: Tag.Monat.Jahr Mit den Funktionen: YEAR([Feldname]) MONTH([Feldname]) DAY([Feldname]) lassen sich aus einem bestimmten Datum Informationen bzgl. des Tages/Monats/Jahres herausselektieren. z.B. SELECT..... WHERE YEAR([geb_datum]) = 1999 würde alle die Geburtsdaten selektieren, die im Jahr 1999 liegen. Eine weitere nützliche Funktion ist die Funktion IS NULL, die überprüft, ob ein Feld nur den Null-Wert enthält. Die Funktion IS NOT NULL überprüft, ob ein Feld einen Inhalt hat. ORDER BY SQL bietet die Möglichkeit, die im Rahmen einer Abfrage empfangenen Daten zu sortieren. Dazu wird die ORDER BY-Klausel verwendet. Sie wird im letzten Abschnitt einer Auswahlabfrage dargestellt. Mit ORDER BY kann nach bis zu 10 Kriterien gleichzeitig sortiert werden. Prinzipiell wird in aufsteigender Reihenfolge sortiert. Mit dem Befehlswort DESC wird eine absteigende Anordnung der Datensätze erreicht. \n Aggregatfunktionen: \n Die Aggregatfunktionen, auch Spaltenfunktionen genannt, ermitteln für eine einzelne Tabellenspalte aus einer Gesamtmenge die Summe, den Minimal- oder Maximalwert, den Mittelwert oder die Anzahl. Funktion Ergebnis MIN (Spaltenname) Minimalwert MAX (Spaltenname) Maximalwert COUNT (*) Anzahl aller vorhandenen Zeilen COUNT DISTINCT (Spaltenname) Anzahl der Zeilen mit unterschiedlichen Werten (nicht bei Jet-SQL) SUM (Spaltenname) Summe AVG (Spaltenname)  Mittelwert Beispiel: \n SELECT MIN(gehalt) FROM.......... Liefert das Minimalgehalt \n GROUP BY: \n Ergebnisse gruppieren Gruppieren  heißt,  dass  solche  Zeilen  zu  einer  gemeinsamen  Ausgabereihe  zusammengefasst werden,  die  gleiche  Schlüsselwerte  haben.  Ein  Gruppenwechsel  findet  immer  dann  statt, sobald sich der Wert in einer Gruppierungsspalte ändert. Beispiel: Gruppenbildung mit einer Spalte: Der  Chef  möchte  wissen,  wie  viele  Stunden  für  welchen  Auftrag  in  einem  bestimmten Zeitraum aufgewendet wurden:\n SELECT aufnr, sum(tstd) AS Summe_der_Stunden FROM tposten WHERE tbnr = #02/28/2008# GROUP BY aufnr ; \n In dieser Aufgabe stellt der einzelne Auftrag eine Gruppe dar. Die Auftragsnummer dient als Gruppenschlüssel. Pro Auftragsnummer wird die Summe der Stunden ermittelt. Beispiel: Gruppenbildung mit mehreren Spalten  Für  eine  Statistik  wird  die  Untergliederung  der  in der  Tabelle  t_posten  für  den  28.02.94 aufgelaufenen  Stunden  nicht  nur  nach  Auftragsnummer  verlangt,  sondern  auch  danach, welcher Mitarbeiter sie geleistet hat. \n SELECT aufnr, persnr, sum(tstd) AS Summe_der_Stunden FROM t_posten WHERE tbnr = #02/28/2008# GROUP BY aufnr, persnr ; \n Bei   dieser   Aufgabe   handelt   es   sich   um   einen   zweistufigen   Gruppenwechsel.   Die Auftragsnummer  stellt  die  Obergruppe,  die  Personalnummer  die  Untergruppe  dar.  Diese Festlegung  erfolgt  durch  die  Reihenfolge  der  Gruppenschlüssel  hinter  der  GROUP-BY-Klausel. Having Gruppen bedingungsweise auswählen Bei  der  gruppenorientierten  Auswertung  interessieren  oftmals  nur  die  Gruppen,  bei  denen eine bestimmte Bedingung erfüllt ist. Dieses geschieht mit der HAVING-Klausel. Beispiel: In welcher Abteilung arbeiten mehr als zwei Mitarbeiter? \n SELECT abtnr, COUNT(*) AS anzahl FROM persdat GROUP BY abtnr HAVING COUNT(*) >2 ;\n  Die  HAVING-Klausel  kann  nur  zusammen  mit  und  für  den  GROUP-BY  Befehl  verwendet werden.  Zudem  können  im  Rahmen  von  HAVING  nur  die  Aggregatfunktionen  benutzt werden. ",
+       "choices": []
+    },
+    {
+       "title": "Was ist SQL JOIN Befehl?",
+       "subject": "Datenbank",
+       "type": "General",
+       "year": "2021",
+       "image": "q10.JPG",
+       "multipleChoice": "false",
+       "correctAnswer": "Bei  normalisierten  Datenbanken  müssen  häufig  zwei  oder  mehrere  Tabellen  abgefragt werden, um die gewünschten Informationen zu erhalten. Dabei tritt das Problem auf, die an der Abfrage beteiligten Tabellen logisch miteinander zu verknüpfen. Werden Tabellen ohne eine  Verknüpfungsvorschrift  in  einer  Abfrage  verbunden,  so  wird  bei  der  Ausführung der Abfrage das kartesische Produktgebildet (!CROSS JOINoderKreuzprodukt). Dabei wird jede  Reihe  der  einen  Tabelle  mit  jeder  Reihe  der  anderen  Tabelle  kombiniert.  Eine Verknüpfung kann nur dann gelingen, wenn bereits beim Entwurf darauf geachtet wurde,dass sich  die  Tabellen  über  die  Schlüsselspalten  miteinander  verbinden  lassen.  Die  logische Zuordnung einer Tabellenzeile aus Tabelle 1 zu der richtigen Tabellenzeile aus Tabelle 2 wird über die JOINS hergestellt. Dabei unterscheidet man zwei Varianten: In der WHERE-Klausel über identische Werte in Schlüsselspalten (Variante 1/SQL89):FROM tabellenname1, tabellenname2WHERE tabellenname1.schlüsselspalte = tabellenname2.schlüsselspalteMan  bezeichnet  diese  Verbindung  als EQUI/ INNER JOIN.  Wird  mit  der  Join-Anweisung gearbeitet (erst ab SQL-92), geschieht dieses in der FROM-Klausel (Variante 2):FROM tabellenname1 INNER JOINtabellenname2 ON tabellenname1.schlüsselspalte = tabellenname2.schlüsselspalteBeide Varianten liefern dieselbe Ergebnismenge.Neben dem INNER JOINunterscheidetmannoch den OUTER JOIN. Bei diesem Joinwird zwischen einer Haupttabelle und einer nachgeordneten Tabelle unterschieden. Es werden auch  dann  Daten  aus  der  Haupttabelle  selektiert,  wenn  keine  identischen  Werte  in  der nachgeordneten  Tabelle  enthalten  sind.  (Statt  vom OUTER-JOINsprechen  einige  Bücher auch vom äußeren Verbund.)FROM tabellenname1 OUTER JOINtabellenname2  ON tabellenname1.schlüsselspalte = tabellenname2.schlüsselspalteBei diesem Beispiel werden alle Datensätze der 1. Tabelle angezeigt, und nur die Datensätze aus der 2. Tabelle, bei denen die Inhalte der verknüpften Felder beider Tabellen gleich sind. Leider unterscheidet sich die Syntax des JOIN Befehls in den einzelnen DBMS. \n Beispiele für Outer-Joins in verschieden Datenbanksystemen:1. Access, MySQL, SQL-ServerFROM tabelle1 LEFT JOIN tabelle2 ON tabellenname1.schlüsselspalte = tabellenname2.schlüsselspalte2. OracleFROM tabelle1,tabelle2 WHERE tabellenname2.schlüsselspalte(+)= tabellenname1.schlüsselspalte(tabelle1 ist die Haupttabelle und tabelle2 die nachgeordnete Tabelle)3. InformixFROM tabelle1 OUTERtabelle2 WHERE tabellenname1.schlüsselspalte = tabellenname2.schlüsselspalte(tabelle1 ist die Haupttabelle und tabelle2 die nachgeordnete Tabelle) \n SELF JOIN \n Sie können eine Tabelle auch mit sich selbst verknüpfen, diesen Typ des Joins nennt man Selfjoin.Erläuterung:  Sie  greifen  dabei  zweimal  auf  die  gleiche  Tabelle  zu.  Um  die  beiden  Tabellen voneinander zu unterscheiden verwenden Sie dazu Aliasnamen in der FROM-und JOIN-Klausel. Diese ermöglichen es Ihnen, in der Feldliste und in den Bedingungen die Herkunft der Daten anzugeben. Anmerkung:Der Selfjoin kann unperformant sein, insbesondere wenn es in den Join-Spalten viele Werte gibt, die mehrfach auftreten. Spalten, deren Werte man nicht benötigt, sollte man normalerweise nicht in der Spaltenliste aufführen.Beispiel:Sie  möchten  z.B.  für  eine  spezielle  Marketingaktion  wissen,  welche  Kunden  sowohl  über  eine Mastercard als auch eine Kreditkarte von American Express verfügen. Ein Selfjoin kann Ihnen helfen, die gewünschten Daten zu erhalten",
+       "choices": []
+    }
+  ]
+}
+  ]
