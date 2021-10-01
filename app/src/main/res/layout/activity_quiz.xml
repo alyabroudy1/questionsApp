@@ -15,16 +15,20 @@
             android:id="@+id/textView_scenarios_count"
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
+            android:textIsSelectable="true"
             android:text="@string/feedbacktitle"
-            android:textSize="10pt">
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            >
         </TextView>
 
         <TextView
             android:id="@+id/textView_q_subject"
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
+            android:textIsSelectable="true"
             android:text="@string/feedbacktitle"
-            android:textSize="10pt">
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            >
         </TextView>
 
         <!--Put form controls here-->
@@ -32,8 +36,10 @@
             android:id="@+id/textView_q_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:ellipsize="end"
             android:text="@string/feedbacktitle"
+            android:padding="16dp"
             android:textAppearance="@style/TextAppearance.AppCompat.Large">
         </TextView>
 
@@ -41,7 +47,9 @@
             android:id="@+id/textView_q_description"
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
+            android:textIsSelectable="true"
             android:text="@string/feedbacktitle"
+            android:padding="16dp"
             android:textSize="10pt">
         </TextView>
 
@@ -54,7 +62,9 @@
             android:id="@+id/textView_q_multiple_choice"
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
+            android:textIsSelectable="true"
             android:text="@string/feedbacktitle"
+            android:padding="16dp"
             android:textSize="10pt">
         </TextView>
 
@@ -62,12 +72,14 @@
             android:id="@+id/editText_q_user_answer"
             android:layout_width="match_parent"
             android:layout_height="fill_parent"
+            android:padding="16dp"
             android:textSize="10pt">
         </EditText>
 
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:ellipsize="end"
             android:padding="16dp"
             android:id="@+id/checkBox_choice1"/>
@@ -80,6 +92,7 @@
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:padding="16dp"
             android:id="@+id/checkBox_choice2"/>
 
@@ -91,6 +104,7 @@
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:padding="16dp"
             android:id="@+id/checkBox_choice3"/>
 
@@ -102,6 +116,7 @@
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:padding="16dp"
             android:id="@+id/checkBox_choice4"/>
 
@@ -113,6 +128,7 @@
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:padding="16dp"
             android:id="@+id/checkBox_choice5"/>
 
@@ -124,6 +140,7 @@
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:padding="16dp"
             android:id="@+id/checkBox_choice6"/>
 
@@ -135,6 +152,7 @@
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:padding="16dp"
             android:id="@+id/checkBox_choice7"/>
 
@@ -146,6 +164,7 @@
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:padding="16dp"
             android:id="@+id/checkBox_choice8"/>
 
@@ -157,6 +176,7 @@
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:padding="16dp"
             android:id="@+id/checkBox_choice9"/>
 
@@ -168,6 +188,7 @@
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:padding="16dp"
             android:id="@+id/checkBox_choice10"/>
 
@@ -179,6 +200,7 @@
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:padding="16dp"
             android:id="@+id/checkBox_choice11"/>
 
@@ -190,6 +212,7 @@
         <CheckBox
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textIsSelectable="true"
             android:padding="16dp"
             android:id="@+id/checkBox_choice12"/>
 
@@ -202,6 +225,7 @@
             android:id="@+id/textView_correct_choice"
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
+            android:textIsSelectable="true"
             android:text="@string/feedbacktitle"
             android:textSize="12pt">
         </TextView>

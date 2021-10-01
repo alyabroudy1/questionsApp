@@ -247,7 +247,7 @@ public class QuestionController {
 
         textViewQuestionSubject.setText(questionHeader);
         textViewQuestionSubject.setVisibility(View.VISIBLE);
-        textViewQuestionTitle.setText("Q-Title: " + currentQuestion.getTitle());
+        textViewQuestionTitle.setText(currentQuestion.getTitle());
         textViewQuestionTitle.setVisibility(View.VISIBLE);
 
         //activate and fill checkbox if question isMultipleChoice
