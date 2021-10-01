@@ -1,0 +1,3169 @@
+[
+  {
+    "subject": "Final_Exam",
+    "type": "Wiso",
+    "year": "2010",
+    "description": "",
+    "title": "Situation\nSie sind Mitarbeiter-in der SKEIP GmbH.\nDie SKEIP GmbH bietet Telekommunikationsanlagen, Informationstechnik und DV-Beratung an\n",
+    "image": "",
+    "questions":  [
+      {
+        "title": "1. Aufgabe (6 Punkte)\nDie SKEIP GmbH wird im nächsten Jahr eine Niederlassung in London gründen. Sie wurden vom Abteilungsleiter ermuntert, sich auf eine der neuen\nStellen in der Niederlassung zu bewerben.\nIT-Fachkräfte\nFür unsere neue NiederlasSung in London suchen wir IT-fachkräfte.\nIhr Profil:\n-Ausbildung zur IT-Fachkraft, z. B. IT-Systemelekatroniker/-in, Infarmationkaufmann/-frau\n-Gute Allgemeinkenntnisse im Bereich PC-Technik\n-Reisebereitschaft\n-Gute Englischkenntnisse\nIhre Aufgaben:\n-Aufsetzen von industrie-PCs und Soft-SPS\n-Einrichten von Druckern, Scannern, Kamerasystemen\n-Durchführung von systemtests\n-Betreuung der Abnahme durch den Kunden\n-Aufstellung, Inbetriebnahme und Endabnahme beim Kunden\n-Technischer Support\nEs erwarten Sie ein dynamisches internationales Team, flexible Arbeitszeiten und ein moderner Arbeitsplatz. Außerdem bieten wir Ihnen eine\n attraktive Gehaltsgestaltung und die Chance, mit uns weiter zu wachsen. Wenn Sie diese interessante Aufgabe reizt, freuen Wir uns auf Ihre Bewerbung.\nDie folgenden Monate wollen Sie zur Verbesserung Ihrer Bewerbungschancen nutzen.\nMit welchen der folgenden Maßnahmen können Sie hre Bewerbungschancen am ehesten verbessern? \n Tragen Sie die Ziffern vor den zwei zutreffenden Maßnahmen die kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Lektüre von Fachzeitschriften",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Wiederholung des Stoffs, der während der Ausbildung vermittelt wurde",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Aufnahme eines Bachelor-Studiums im erlernten Beruf",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Beginn einer weiterqualifizierung zum IT-Prolessional in IHK-Weiterbildungssystem",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Erhöhung der Mobiliat durch Bereitschaft zum Ortswechsel",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Beginn und Abschluss eines Englischkurses",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "2. Aufgabe (3 Punkte)\nEine 30-Jährige Mitarbeiterin der SKEIP GmbH stellt fest, dass es für den von ihr vor zehn Jahren erlerneten Beruf aufgrund des technischen FortSchritts immer weniger Stellen gibt. \nIn der SKEIP gmbH wurden bereits Entlassungen angekündigt\nWie sollte sich die Mitarbeiterin in dieser Situation verhalten?\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kastehen ein.\nDie Mitarbeiterin sollte ..",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] eine berufsbegleitende Fortbildung beginnen.",
+            "correct": "true"
+          },
+          {
+            "title": "[2] sich auf Stellen für ungelernte Arbeit bewerben.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] sich im gelernten Beruf selbstständig machen",
+            "correct": "false"
+          },
+          {
+            "title": "[4] nichts unternehmen, solange ihr nicht gekündigt wurde.",
+            "correct": "false"
+          },
+          {
+            "title": "kündigen.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "3. Aufgabe (3 Punkte) \n Sie haben mit der SKEIP GmbH einen schriftlichen Arbeitsvertrag geschlossen.\nWelcher der folgenden Bestandteile Ihres Arbeitsvertrags bindet die SKEIP GmbH an kollektives Arbeitsrecht?\nTragen Sie die Ziffer vor dem zutrefenden Vertragsbestandteil in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "description": "kollektives Arbeitsrecht",
+        "year": "2010",
+        "image": "",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Das monatliche Bruttogehalt berägt 2.000,00 EUR.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Der/die Angestellte arbeitet als Sachbearbeter/-in im Kundenservice.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Das Arbertsverhaltnis beginnt am 2. Mai 2008.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die reguläre wöchentliche Arbeitszeit beträgt gemäß Betriebsvereinbarung 38,5 Stunden.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Die SKEIP GmbH gewährt einen monatlichen Fahrtkosterzuschuss von 100,00 EUR.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "4. Aufgabe (3 Punkte)\nDie SKEIP GmbH hat mit Ihnen einen Einzelarbeitsvertrag geschlossen.\nWelche der folgenden Aussagen ist in diesem Zusammenhang zutreffend?\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.\nEin Einzelarbeitsvertrag.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "description": "Einzelarbeitsvertrag",
+        "image": "",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] darf nur abgeschlossen werden, wenn für die SKElP GambH kein gültiger Tarifvertrag vorliegt.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] bedarf der Zustimmung des Betriebsrats",
+            "correct": "false"
+          },
+          {
+            "title": "[3] muss eine Urlaubsregelung enthalten.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] darf ein übertarifliches Arbeitsentgelt vereinbaren.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] dart nur befristet geschlossen werden.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "5. Aufgabe {3 Punkte)\nBei Abschluss Eines Arbeitsvertrags übernimmt die SKEIP GmbH Pflichten.\nIn welchem der folgenden Falle würde das Unternehmen eine dieser Pflichten verletzen?\nTragen Sie die Zifer vor dem zutreffenden Fall in das Kästchen ein.\nDie SKEIP GmbH .",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Arbeitsvertrags",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] stellt einem Mitarbeiter beim Ausscheiden aus dem Untemehmen ein einfaches Zeugnis aus.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] erlaubt einem teilzeitbeschäftigten Mitarbeiter eine Nebentätigkeit.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] meldet einen neuen Arbeitnehmer nach Beendigung der Probezeit zur Sozialversicherung an.",
+            "correct": "true"
+          },
+          {
+            "title": "[4] verweigert den Mitarbeitern-innen im Mai aus betrieblichen Gründen den Urlaub.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] schließt aus Kostengründen die Werkskantine",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "6. Aufgabe (3 Punkte)\nSie wollen Einsicht in Ihre von der SKEIP GmbH geführte Personalakte nehmen.\nWelche der folgenden Aussagen beschreibt zutreffend die Rechtslage?\nTragen Sie die ziffer vor der zutreffenden Aussage in das kästchen ein.\nSie haben..",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Rechtslage Personalakte, datenschutz",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] aufgrund des Datenschutzes kein Recht auf Einsichtnahme.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] kein Recht auf Ensichtnahme, da es sich um ein Arbeitsmittel der Personalverwaltumg handelt.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] ein Recht auf uneingeschränkte Einsichtnahme.",
+            "correct": "true"
+          },
+          {
+            "title": "[4] ein Recht auf Einsichtnahme nur im Beisein eines Mitglieds des Betriebsrats.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] ein Recht auf Einsichtnahme nur in gesetzlich geregelten Ausnahmen.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "7. Aufgabe (6 Punkte)\nIn der SKEIP GrmbH sind Regelungen aus dem Arbeitsrecht zu beachten.\nWelche der folgenden Rechtsgrundlagen treffen auf die nachstehenden Sachverhalte zu?\nTragen Sie die Ziffer vor der jeweils zutreffenden Rechtsgrundlage in das Kästchen ein.\nRechtsgrundlagen:\n[1] Kundigungsschutzgesetz\n[2] Tarifvertrag\n[3] Betriebsverfassungsgesetz\n[4] Eine andere als die genannten Rechtsgrundlagen\n\nSachverhalte:\na) Eine Mitarbeiterin genießt Kündigungsschutz bis zum Ablauf von zwei Monaten nach Beendigung des Mutterschaftsurlaubs\nb) Die regelmäßige wöchentiche Arbeitszeit der Medienbranche beträgt 37,5 Stunden.\nc) Eine betriebsbedingte kündigung ist rechtsunwirksam, wenn sie sozial ungerechtfertigt ist.\nd) Wählbar zur Jugend- und Auszubildendenvertretung sind grundsätzlich alle Arbeitnehmer, die das 25. Lebensjahr noch nicht vollendet haben.\ne) Ein Auszubildender kann das Ausbildungsverhältnis nach der Probezeit aus Wichtigem Grund kündigen.\nf) Eine Kundigung ohne Anhörung des Betriebsrats ist unwirksam.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Arbeitsrecht, Rechtsgrundlage",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "a) -> [4], \n b) -> [2], \n c) -> [1], \n d) -> [3], \n e) -> [4], \n f) -> [3]"
+      },
+      {
+        "title": "8. Aufgabe (3 Punkte)\nIn der SKEIP GmbH wurde ein Betriebsrat gewählt.\nWelche der folgenden Aussagen über den Betriebsrat ist zutreffend ?\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kastchen ein.\nEin Betriebsrat",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Betriebsrat",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] muss in jedem Betrieb gewählt werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] muss je zur Hälfte aus weiblichen und männlichen Arbeitnehmern gebildet werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] darf nur von Mitarbeitern gewählt werden, die dem betrieb mindestens ein Jahr angehören.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] hat bei der Kündigung eines Arbeitnehmers ein Mitbestimmungsrecht.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] hat bei der Aufstellung des Urlaubsplans ein Mitbestimmungsrecht.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "9. Aufgabe (3 Punkte)\nDie Geschäftsführung der SKEIP GmbH und der Betriebsrat schließen Betriebsvereinbarungen ab.\nWelcher der folgenden Sachverhalte kann durch eine Betriebsvereinbarurng geregelt werden?\nTragen Sie die Ziffer vor dem zu treffenden Sachverhalt in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Betriebsrat, Sachverhalte Betriebsvereinbarungen",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Kündigungsfristen",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Gleitende Arbeitszeit",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Mindesturlaub",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Mindestlöhne gemäß Tarifvertrag",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Mindestbeitrag einer Krankenversicherung",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "10. Aufgabe (5 Punkte)\nDer Mitarbeiter Peter Sendler teilt der Persanalabteilung der SKEIP GmbH mit, dass er seine Tätigkeit für die SKEIP GmbH zum 30.06.2010 beenden möchte.\nEmitteln sie das Datum, an dem Herrn Sendlers kündigung spätestens bei der SKEIP GmbH eingegangen sein muss (Siehe folgenden Arbeitsvertrag. Auszug aus § 622 BGB und kalender 2010).\nTragen Sie das Datum (TT.MIM.II) in die Kästchen ein",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "q19.PNG",
+        "description": "Kündigung",
+        "points": "5",
+        "multipleChoice": "false",
+        "correctAnswer": "16.06.2010"
+      },
+      {
+        "title": "11. Aufgabe (6 Punkte)\nEin Mitarbeiter der SKEIP GmbH hat gekündigt.\nWelche der folgenden Unterlagen müssen ihm - ggt. auf Verlangen -ausgehändigt werden?\nTragen sie die Ziffern vor den zwei zutreffenden Unterlagen in die Kastehen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Kündigung",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Lebenslauf",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Arbeitsvertrag",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Qualifiziertes Arbeitszeugnis",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Zeugniskopien",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Lohnsteuerkarte/Lohnsteuerbescheinigung",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "12. Aufgabe (4 Punkte)\nEin ehemaliger Arbeitskollege, der eine neue Arbeitsstelle angetreten hat, bittet Sie in folgender Angelegenheit um Rat:\nIn seinem Arbeitsvertrag ist ein übertarifliches Brutogehalt von 1.900,00 EUR und eine Probezeit von drei Monaten vereinbart. Im ersten Monat\nder Probezeit war er wegen Krankheit vier Tage arbeitsunfähig und konnte eine Arbeit nicht termingerecht erledigen. Vor der ersten Gehaltszahlung\nwurde ihm mitgeteilt, dass ihm aufgrund seiner Erkrankung und seiner geringeren Leistung nur das tarifliche Bruttogehalt von 1./00,00 EUR gezahlt werde.\nWelcher der folgenden Sachverhalte entspricht der Rechtslage?\nTragen Sie die ziffer vor dem zutreffenden Sachverhalt in das Kästthen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Erkrankung, übertarifliches Brutogehalt, Probezeit, lohn",
+        "points": "4",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Das vereinbarte Gehalt von 1.900 EUR muss vom Arbeitgeber gezahlt werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Gehaltsdifferenz von 200 EUR Wird von der Krarnkenkasse gezaht.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Die Gehaltsdifierenz von 200 EUR Wird von der Agentur fur Arbeit gezahlt.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die kürzung eines übertariflichen Gehalts ist bis auf Tarifgehaltniveau zulässig",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Die Kürzung von Gehältern ist in der Probezeit bei Minderleistung zulässig.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "13. Aufgabe (6 Punkte)\nDie SKEIP GmbH will ein IT-Servicecenter in der Rechtsform einer GmbH gründen.\nWelche der folgenden Aussagen zur GmbH sind zutreffend?\nTragen Sie die Zifern vor den zwei zutreffenden Aussagen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Rechtsform einer GmbH gründen",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Das Stammkapital muss mindestens 20.000 EUR betragen.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Gesellschaft muss von mindestens zwei Personen gegründet werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Die Gesellschaft wird in Abteilung A des Handelsregisters eingetragen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die Gesellschaft kann erst nach Eintagung ins Handelsregister vertrage schließen.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die Firma kann (Gesellschaft für IT-Service GmbH) lauten.",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Die Geschäftsführung der GmbH obliegt dem Vorstand.",
+            "correct": "false"
+          },
+          {
+            "title": "[7] Die neu gegründete GmbH ist eine juristische Person des privaten Rechts.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "14. Aufgabe (3 Punkte)\nWelche der folgenden Institutionen führt das Handelsregister?\nTragen Sie die Ziffer var der zutreffenden Institution in das kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Institutionen führt das Handelsregister",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Industrie- und Handelskammer ",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Gewerkschaft.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Berufsgenossenschaft",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Arbeitgeberverband",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Amtsgericht",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "15. Aufgabe (6 Punkte)\nWelche der folgenden Aussagen zur Firma sind zutreffend?\nTragen Sie die Ziffern vor den zwei zutreffernden Aussagen in die Kastchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Aussagen zur Firma",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Für jede Firma muss ein Urheberschutz beantragt werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Unter der Firma gibt der Kaufmann seine Unterschrift ab.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Aus der Firma muss die zutreffende Branche hervorgehen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Unter der Firma kann das Unternehmen verklagt werden.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Die Vorschriften zur Firma sind im BGB enthalten.",
+            "correct": "false"
+          },
+          {
+            "title": "[6] bie Firma einer Personengesellschat enthält keinen Hinweis auf die Gesellschaftsform.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "16. Aufgabe (3 Punkte)\nBei welcher der folgenden Rechtsformen haften alle Gesellschafter mit ihrem Privatvermögen?\nTragen Sie die Ziffer vor der zutreffenden Rechtsform in das Kästchen ein.\n",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Gesellschafter, Privatvermögen, Haft",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Offene Handelsgesellschaft (OHG)",
+            "correct": "true"
+          },
+          {
+            "title": "[2] Gesellschaft mit beschränkter Haftung (GmbH)",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Aktiengesellschaft (AG)",
+            "correct": "false"
+          },
+          {
+            "title": "[4] kommanditgesellschaft (KG)",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Genossenschaft (e. G.)",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "17. Aufgabe (3 Punkte)\nEine Mitarbeiterin der SKEIP GmbH ist arbeitsunfähig, weil sie am Vortag auf dem direkten Weg zurArbeit bei einem Verkehrsunfall schwer verletzt wurde.\nWelche der folgenden Aussagen ist in diesem Zusammenhang zutreffend?\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.\nDie SKEIP GmbH..",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "arbeitsunfähig, Unfall",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] muss den Unfall der Krankenversicherung der Mitarbeiterin melden.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] darf die Gehaltszahlung ab dem ersten Krankheitstag einstellen.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] darf den Urlaubsanspruch der Mirtarbeterin kürzen",
+            "correct": "false"
+          },
+          {
+            "title": "[4] muss den Unfall der Gewerbeaufsichtsbehörde melden.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] muss den Unfall der Berufsgenossenschaft melden.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "18. Aufgabe (3 Punkte)\nDie SKEIP GmbH muss eine Fachkraft für Arbeitssicherheit stellen.\nAufgrund welcher der folgenden Rechtsgrundlagen ist die SKEIP GmbH dazu verpflichtet?\nTragen Sie die Ziffer vor der zutreffenden Rechtsgrundlage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Arbeitssicherheit, sicherheit",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Arbeitsplatzschutzgesetz",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Arbeitssicherheitsgesetz",
+            "correct": "true"
+          },
+          {
+            "title": "[3] GmbH-Gesetz",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Unfallverhütungsvorschriten",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Betriebsverfassungsgesetz",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "19. Aufgabe (5 Punkte)\nDie SKEIP GmbH wartet elektrische Anlagen. Die Arbeiten dürfen nur duchgeführt werden, wenn eine Anlage spannungsfrei ist. Der spannungsfreie\nZustand ist nach den Sicherheitsregeln in fünf Arbeitsschriten herzustellen.\nGeben Sie die richtige Reihenfolge dieser Arbeitschrite an.\nTragen Sie fur den ersten Schritt die Ziffer [1], für den zweiten Schritt die Zitter [2] usw. in die entsprechenden Kästchen ein.\na) Erden und Kurzschließen\nb) Spannungsfreiheit feststellen\nc) Allpolig und allseitig abschalten\nd) Gegen Wiedereinschalten sichern\ne) Gegen benachbarte, unter Spannung stehende Teile schützen",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Arbeitschrite Sicherheit, Sicherheitsregeln",
+        "points": "5",
+        "multipleChoice": "false",
+        "correctAnswer": "a) -> [4], \n b) -> [3], \n c) -> [1], \n d) -> [2], \n e) -> [5]"
+      },
+      {
+        "title": "20. Aufgabe (3 Punkte)\nIn einem Technikraum eines Kunden der SKEIP GmbH ist das folgende Schild angebracht.\nWelche der folgenden Bedeutungen hat das Schild?\nTragen Sie die Ziffer vor der zutreffenden Bedeutung in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "q20.PNG",
+        "description": "Schild",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Keine unterbrechungsfreie Stromversorgung",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Keine manuele Schaltung möglich",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Tür geschlossen halten",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Nicht schalten",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Lüftungsklappe nicht öfnen",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "21. Aufgabe (3 Punkte)\nIn dem Labor eines Kunden der SKEIP GmbH ist das folgende Warnschild angebracht.\nVor welcher der folgenden Gefahren warnt das Schild?\nTragen Sie die ziffer vor der zutreffenden Gefahr in das Kastchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "q21.PNG",
+        "description": "Schild",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Explosion",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Elektrizität",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Laserstrahl",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Blitzschlag",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Feuer",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "22. Aufgabe (3 Punkte)\nIn einer Informationsschrift der SKEIP GmbH lesen Sie: Mit der neuen Maschine werden nun in derselben Arbeitszeit doppelt so viele Teile wie mit\nder alten Maschine produziert.\nWelche der folgenden Aussagen kann aus dieser Information abgeleitet werden?\nTragen Sie die ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Informationsschrift, Information",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Der mit den Teilen erzielte Umsatz wurde verdoppelt.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Arbeitsproduktivität wurde erhöht.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Der Anteil der Lohnkosten an den Herstellungskosten ist gestiegen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die Herstellungskosten wurden halbiert.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Es wird weniger Personal benötigt.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "23. Aufgabe (5 Punkte)\nAn der Leistungserstellung der SKEIP GrmbH sind die folgenden betiebswirtscthaftlichen Produktionsfaktoren beteiligt.\nProduktionstaktoren:\n[1] Betriebsmittel\n[2] werkstoffe\n[3] Ausführende Arbeitskräfte\n[4] Leitende Arbertskräfte\nUm welche der vorstehender Produktionsfaktoren handelt es sich in den nachstehenden Beispielen?\n\nTragen sie die Ziffer vor dem jewels zutreffenden Produktionstaktor in das Kästchen ein.\nBeispiele:\na) Gebäude\nb) Notebook\nc) Kabelbinder\nd) DV-Netzwerk\ne) Hausmeister",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "betiebswirtscthaftlichen, Produktionsfaktoren",
+        "points": "3",
+        "multipleChoice": "false",
+        "correctAnswer": "a) -> [1] \n b) -> [1] \n c) -> [2] \n d) -> [1] \n e) -> [3]"
+      },
+      {
+        "title": "24. Aufgabe (6 Punkte)\nDie flgende Grafik zeigt die Marktsituation auf dem Markt für ein IT-Produkt, das auch die SKEiP GmbH anbietet. \n a) Ermitteln Sie den derzeitigen Gesamtumsatz der Branche für dieses IT-Produkt.\nTragen Sie das Ergebnis in die Kästchen ein\nb) Eine Umfrage ergab, dass die käufer dieses IT-Produkts von einer Verschlechterung der wirtschaftlichen Entwicklung ausgehen. Es wird daher nur\nnoch eine Absatzmenge von 4.000 Stück erwartet.\nba) Ermitteln Sie den Stückpreis, den das IT-Produkt in der Modellbetrachtung im neuen Marktgleichgewicht erzielt.\nbb) Ermittein Sie den Gesamumsatz, der bei dem neuen Marktgleichgewicht erzielt wird.\nTragen Sie die Ergebnisse in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "s4.PNG",
+        "description": "Marktsituation, umsatz, Nachfrage, Angebot, Verschlechterung der wirtschaftlichen Entwicklung, Marktgleichgewicht, ",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "a) -> 250.000 \n ba) -> 40 \n bb) -> 160 \n Algo: bb = ba * 4.000"
+      },
+      {
+        "title": "25. Aufgabe (3 Punkte)\nDie SKEIP GmbH hat Frau Brinkmann als Ausbilderin eingestelt.\nWelche der folgenden Voraussetzungen musste Frau Brinkmann nach den gesetzlichen Regelungen erfüllen, um als verantwortliche Ausbilderin von\nder zuständgen IHk anerkannt zu werden ?\nTragen Sie die Ziffer vor der zutreffenden Voraussetzung in das Kästchen ein.\nFau Brinkrmann muss.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2010",
+        "image": "",
+        "description": "Voraussetzungen, Ausbilder",
+        "points": "3",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Mitglied im zuständigen Prüfungsausschuss sein.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] über die personliche und fachliche Eignung verfügen.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] jährlich ein Weiterbildungsseminar der IHk bsuchen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Mitglied der Geschäftslellung sein.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Mitgied einer Gewerkschaft sein.",
+            "correct": "false"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Final_Exam",
+    "type": "Wiso",
+    "year": "2011",
+    "description": "Arbeitsrecht, Betriebsrat, ",
+    "title": "Situation\t\nSie sind Mitafbeiter/-in der ORAKEL GmbH.\t\nDie ORAKEL GmbH bietet Telekommunikationsanlagen, Informationstechnik und DV-Beratung an.",
+    "image": "",
+    "questions":  [
+      {
+        "title": "1. Aufgabe\t\nIn der O.RAKEL GmbH sind Regelungen aus dem Arbeitsrecht zu beachten.\t\nWelche der folgenden Rechtsgrundlagen treffen auf nachstehende Sachverhalte zu?\t\nTragen Sie die Ziffer vor der jeweils zutreffenden Rechtsgrundlage in das Kästchen ein.\t\nRechtsgrundlagen\t\n[1] Kündigungsschutzgesetz\t\n[2] Tarifvertrag\t\n[3] Betriebsverfassungsgesetz\t\n[4] Eine andere ais die genannten Rechtsgrundlagen\t\nSachverhalte\t\na) Eine Mitarbeiterin genießt Kündigungsschutz bis zum Ablauf von zwei Monaten nach Beendigung des Mutterschaftsurlaubs.\t\nb) Die regelmäßige wöchentliche Arbeitszeit in der IT-Branche beträgt 37,5 Stunden.\t\nc) Eine betriebsbedingte Kündigung ist rechtsunwirksam, wenn sie sozial ungerechtfertigt ist.\t\nd) Wählbar zur Jugend- und Auszubildendenvertretung sind grundsätzlich alle Arbeitnehmer, die das 25. Lebensjahr noch nicht vollendet haben.\t\ne) Ein Auszubildender kann das Ausbildungsverhältnis nach der Probezeit aus wichtigem Grund kündigen.\t\nf) Eine Kündigung durch die O.RAKEL GmbH ist ohne Anhörung des Betriebsrats unwirksam.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "Arbeitsrecht",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "a) -> [4] \n b) -> [2] \n c) -> [1] \n d) -> [3] \n e) -> [4] \n f) -> [3]"
+      },
+      {
+        "title": "2. Aufgabe\t\nIn der O.RAKEL GmbH wurde ein Betriebsrat gewählt.\t\nWelche der folgenden Aussagen über den Betriebsrat ist zutreffend?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.\t",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "Betriebsrat , ",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Ein Betriebsrat muss in jedem Betrieb gewählt werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Ein Betriebsrat muss je zur Hälfte aus weiblichen und männlichen Arbeitnehmern gebildet werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Wählbar sind alle Wahlberechtigten, die dem Betrieb mindestens ein Jahr angehören.\t",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die Kündigung eines Arbeitnehmers wird erst durch Zustimmung des Betriebsrats wirksam.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Der Betriebsrat hat bei der Aufstellung des Urlaubsplans ein Mitbestimmungsrecht.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "3. Aufgabe\t\nDer Betriebsrat muss bei der Vorbereitung und Durchführung von Betriebsversammlungen die Vorschriften des Betriebsverfassungsgesetzes (BetrVG) beachten.\t\nWelche der folgenden Aussagen zur Betriebsversammlung entsprechen den Regelungen des BetrVG?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.\t\nDer Betriebsrat ...",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] muss eine Betriebsversammlung je Kalendervierteljahr einberufen.",
+            "correct": "true"
+          },
+          {
+            "title": "[2] muss mindestens drei Betriebsversammlungen im Kalenderjahr einberufen.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] kann den Arbeitgeber mit wichtigem Grund von der Betriebsversammlung ausschließen.\t",
+            "correct": "false"
+          },
+          {
+            "title": "[4] muss dem Arbeitgeber ermöglichen, in der Betriebsversammlung über die wirtschaftliche Lage und Entwicklung des Betriebs zu berichten.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] muss dem Arbeitgeber das Stimmrecht bei Abstimmungen zu Investitionen zugestehen.\t",
+            "correct": "false"
+          },
+          {
+            "title": "[6] muss keine vom Arbeitgeber gewünschten Beratungsgegenstände auf die Tagesordnung setzen.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "4. Aufgabe\t\nDie Geschäftsführung der O.RAKEL GmbH und der Betriebsrat schließen Betriebsvereinbarungen ab.\t\nWelcher der folgenden Sachverhalte kann durch eine Betriebsvereinbarung geregelt werden?\t\nTragen Sie die Ziffer vor dem zutreffenden Sachverhalt in das Kästchen ein.\t",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Kündigungsfristen",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Gleitende Arbeitszeit",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Mindesturlaub",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Mindestlöhne gemäß Tarifvertrag",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Mindestbeitrag einer Krankenversicherung\t",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "5. Aufgabe\t\nEin Auszubildender der O.RAKEL GmbH fragt Sie nach seinen Pflichten aus dem Ausbildungsverhältnis.\t\nWeiche der folgenden Aussagen sind in diesem Zusammenhang richtig?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.\t\nDer Auszubildende\t",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] muss in der Zwischenprüfung ein mindestens ausreichendes Ergebnis erzielen.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] darf selbst entscheiden, ob er an einer innerbetrieblichen Sicherheitsunterweisung teilnimmt.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] muss sich zur Abschlussprüfung anmelden.",
+            "correct": "true"
+          },
+          {
+            "title": "[4] muss seinen Ausbildungsnachweis regelmäßig führen.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] muss nach der schriftlichen Prüfung kein Ausbildungsnachweisheft mehr führen.",
+            "correct": "false"
+          },
+          {
+            "title": "[6] muss bei mangelhaften Leistungen die Zwischenprüfung wiederholen.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "6. Aufgabe\t\nBei weicher der folgenden Institutionen ist der für die Berufsausbildung der O.RAKEL GmbH zuständige Schlichtungsausschuss angesiedelt?\t\nTragen Sie die Ziffer vor der zutreffenden Institution in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Industrie- und Handelskammer",
+            "correct": "true"
+          },
+          {
+            "title": "[2] Gewerkschaft",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Berufsgenossenschaft",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Arbeitgeberverband",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Amtsgericht",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "7. Aufgabe\t\nEine Auszubildende will einen Teil ihrer Berufsausbildung im Ausland durchführen. In diesem Zusammenhang wurde sie auf den Dienst europass\t\nhingewiesen und bittet Sie um weitere Erläuterungen.\t\nWelche der folgenden Aussagen zum Dienst europass ist zutreffend?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.\t\neuropass",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] ist ein kostenpflichtiger Service der Europäischen Kommission.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] stellt standardisierte und europaweit einheitliche europass-Dokumente zur Darstellung von Qualifikationsprofilen zur Verfügung.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] beglaubigt Ausbildungsabschnitte von Auszubildenden, die im europäischen Ausland durchgeführt wurden, im europass-Mobilität.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] zertifiziert Fremdsprachenkenntnisse im europass-Sprachkenntnisse.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] stellt den europass-Mobilität aus, der für eine Berufsausbildung im europäischen Ausland verpflichtend ist.\t",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "8. Aufgabe\t\nBei einem Arbeitsunfall wurde ein Mitarbeiter der ORAKEL GmbH verletzt und dadurch für zwei Wochen arbeitsunfähig.\t\nZu welcher der folgenden Vorgehensweisen ist die O.RAKEL GmbH verpflichtet?\t\nTragen Sie die Ziffer vor der zutreffenden Vorgehensweise in das Kästchen ein.\t\nDie O.RAKEL GmbH muss den Unfall",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] der gesetzlichen Krankenkasse des Mitarbeiters melden.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] der privaten Unfallversicherung des Mitarbeiters melden.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] der privaten Berufsunfähigkeitsversicherung des Mitarbeiters melden.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] dem Sozialdienst des nächsten Krankenhauses melden, der die zuständigen Sozialversicherungsträger benachrichtigt.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] der zuständigen Berufsgenossenschaft melden.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "9. Aufgabe\t\nEin Mitarbeiter der O.RAKEL GmbH hat gekündigt.\t\nWelche der folgenden Unterlagen müssen ihm — ggf. auf Verlangen — ausgehändigt werden?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Unter'agen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Lebenslauf",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Arbeitsvertrag",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Qualifiziertes Arbeitszeugnis",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Zeugniskopien, die der Mitarbeiter mit der Bewerbung eingereicht hat",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Arbeitsbescheinigung",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Stellenbeschreibung",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "10. Aufgabe\t\nIhr Arbeitsverhältnis mit der O.RAKEL GmbH ist in einem schriftlichen Arbeitsvertrag geregelt.\t\nBei welchem der folgenden Bestandteile Ihres Arbeitsvertrags ist die O. RAKEL GmbH an kollektives Arbeitsrecht gebunden?\t\nTragen Sie die Ziffer vor dem zutreffenden Vertragsbestandteil in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "Arbeitsvertrags",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Am Jahresende wird eine außertarifliche, erfolgsabhängige Prämie in Form von Gutscheinen gezahlt.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Der/die Angestellte arbeitet als Sachbearbeiter/-in im Kundenservice.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Das Arbeitsverhältnis begann am 2. Mai 2011.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die reguläre wöchentliche Arbeitszeit beträgt gemäß Betriebsvereinbarung 38,5 Stunden.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Die ORAKEL GmbH gewährt einen monatlichen Fahrtkostenzuschuss von 100,00 EUR.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "11. Aufgabe\t\nDie O.RAKEL GmbH hat mit Ihnen einen Einzelarbeitsvertrag geschlossen.\t\nWelche der folgenden Aussagen ist in diesem Zusammenhang zutreffend?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein. \n Ein Einzelarbeitsvertrag",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "Einzelarbeitsvertrag",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] kann nur abgeschlossen werden, wenn für die O.RAKEL GmbH kein gültiger Tarifvertrag vorliegt.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] kann nur mit Zustimmung des Betriebsrats geschlossen werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] muss eine Urlaubsregelung enthalten.",
+            "correct": "true"
+          },
+          {
+            "title": "[4] ist auch dann gültig, wenn das vereinbarte Arbeitsentgelt über dem tarifvertraglich geregelten liegt.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] darf für höchstens zwei Jahre geschlossen werden.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "12. Aufgabe\t\nIn welchem der folgenden Fälle wird in der O.RAKEL GmbH gegen die Pflichten aus dem Arbeitsvertrag verstoßen?\t\nTragen Sie die Ziffer vor dem zutreffenden Fall in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Ein Mitarbeiter der O.RAKEL GmbH erhät beim Ausscheiden aus der O.RAKEL GmbH ein einfaches Zeugnis.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Ein Mitarbeiter der O.RAKEL GmbH übt ohne Kenntnis des Arbeitgebers eine Nebentätigkeit im gleichen Geschäftszweig aus.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Die O.RAKEL GmbH meldet einen neuen Arbeitnehmer drei Tage nach Arbeitsbeginn zur Sozialversicherung an.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die ORAKEL GmbH hat aus betrieblichen Gründen im Monat Mai eine Urlaubssperre verhängt.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die O.RAKEL GmbH schließt aus Kostengründen die Werkskantine.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "13. Aufgabe\t\nSie wollen Einsicht in Ihre von der O.RAKEL GmbH geführte Personalakte nehmen.\t\nWelche der folgenden Aussagen beschreibt zutreffend die Rechtslage?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.\t\nSie haben",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] kein Recht auf Einsichtnahme, da dadurch der Datenschutz verietzt wird.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] kein Recht auf Einsichtnahme, da die Personalakte nur der Personalverwaltung zugänglich ist.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] ein Recht, jederzeit und uneingeschränkt Ihre Personalakte einzusehen.",
+            "correct": "true"
+          },
+          {
+            "title": "[4] ein Recht, Ihre Personalakte einzusehen, allerdings nur im Beisein eines Mitglieds des Betriebsrats.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] ein Recht, Ihre Personalakte einzusehen, jedoch nur in besonderen Ausnahmefällen, die durch das Betriebsverfassungsgesetz geregelt sind.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "14. Aufgabe\t\nEin ehemaliger Arbeitskollege, der eine neue Arbeitsstelle angetreten hat, bittet Sie in folgender Angelegenheit um Rat: In seinem Arbeitsvertrag sind\t\nein übertarifliches Bruttogehalt von 1.900,00 EUR und eine Probezeit von drei Monaten vereinbart.\t\nIm ersten Monat war er wegen Krankheit vier Tage arbeitsunfähig und konnte eine Arbeit nicht termingerecht erledigen. Vor der ersten Gehalts-\t\nzahlung wurde ihm mitgeteilt, dass ihm aufgrund seiner Erkrankung und seiner verringerten Leistungen nur das tarifliche Bruttogehalt von\t\n1.700,00 EUR gezahlt werde.\t\nWelche der folgenden Antworten entspricht der Rechtslage?\t\nTragen Sie die Ziffer vor der zutreffenden Antwort in das Kästchen ein.\t\nDer ehemalige Arbeitskollege...",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] kann das vereinbarte Bruttogehalt von 1.900,00 EUR fordern.",
+            "correct": "true"
+          },
+          {
+            "title": "[2] kann die Gehaltsdifferenz von der Krankenkasse fordern.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] muss die Gehaltskürzung akzeptieren, da der Arbeitgeber im Krankheitsfall in der ersten Woche das Gehalt ohne Ausgleich durch die Kranken-kasse kürzen kann.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] muss die Gehaltskürzung akzeptieren, da er sich noch in der Probezeit befindet.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] muss die Gehaltskürzung akzeptieren, weil ein übertarifliches Gehalt eine freiwillige Leistung des Arbeitgebers ist.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "15. Aufgabe\t\nDer Mitarbeiter Paul Pendler, 40 Jahre alt, teilt der Personalabteilung der O.RAKEL GmbH mit, dass er seine Tätigkeit für die O.RAKEL GmbH zum\t\n31.12.2011 beenden möchte. Ermitteln Sie das Datum, an dem der O.RAKEL GmbH das Kündigungsschreiben von Herrn Pendler spätestens zugegangen sein muss.\t\nHinweis\t\n— In der O.RAKEL GmbH wird montags bis freitags gearbeitet, Feiertage ausgenommen.\t\n- Siehe Arbeitsvertrag, Auszug aus §622 BGB und Kalender 2011\t\nTragen Sie das Datum (TT.MM.JJJJ) in die Kästchen ein.\t\nArbeitsvertrag (Auszug)\t\nZwischen der O.RAKEL GmbH, vertreten durch Frau Elfi Heinrich, Rahlstetter Str. 144, 22143 Hamburg, und\t\nHerrn Paul Pendler, Ackerstr. 4, 20144 Hamburg, wird folgender Arbeitsvertrag geschlossen:\t\n§ 1 Beginn des Arbeitsverhältnisses\t\nDas Arbeitsverhältnis beginnt am 01.07.2011,\t\n§ 2 Probezeit\t\nDie Probezeit beträgt sechs Monate.\t\n§ 11 Beendigung des Arbeitsverhältnisses\t\nFür die Kündigung des Arbeitsverhältnisses gelten die gesetzlichen Kündigungsfristen.\t\nHetvwtoh\tPendler\t\nHamburg, 01.07.2011\t\nO.RAKEL GmbH\tPaul Pendler\t\nElfi Heinrich\n\t\nAuszug aus dem BGB\t\n§ 622 BGB Kündigungsfrist bei Arbeitsverhältnissen\t\n(1) Das Arbeitsverhältnis eines Arbeiters oder eines Angestellten (Arbeitnehmers) kann mit einer Frist von vier\t\nWochen zum Fünfzehnten Oder zum Ende eines Kalendermonats gekündigt werden.\t\n(2) Für eine Kündigung durch den Arbeitgeber beträgt die Kündigungsfrist, wenn das Arbeitsverhältnis in dem Betrieb oder Unternehmen\t\n1. zwei Jahre bestanden hat, einen Monat zum Ende eines Kalendermonats,\t\n2. fünf Jahre bestanden hat, zwei Monate zum Ende eines Kalendermonats,\t\n3. acht Jahre bestanden hat, drei Monate zum Ende eines Kalendermonats,\t\n4. zehn Jahre bestanden hat, vier Monate zum Ende eines Kalendermonats,\t\n5. zwölf Jahre bestanden hat, fünf Monate zum Ende eines Kalendermonats,\t\n6. fünfzehn Jahre bestanden hat, sechs Monate zum Ende eines Kalendermonats,\t\n7. zwanzig Jahre bestanden hat, sieben Monate zum Ende eines Kalendermonats.\t\nBei der Berechnung der Beschäftigungsdauer werden Zeiten, die vor der Vollendung des\t\n25, Lebensjahres des Arbeitnehmers liegen, nicht berücksichtigt.\n\t\n(3) Während einer vereinbarten Probezeit, längstens für die Dauer von sechs Monaten, kann das\t\nArbeitsverhältnis mit einer Frist von zwei Wochen gekündigt werden.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "q26.PNG",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "16.12.2011"
+      },
+      {
+        "title": "16. Aufgabe\t\nDie O.RAKEL GmbH will ein IT-Servicecenter in der Rechtsform einer GmbH gründen.\t\nWelche der folgenden Aussagen zur GmbH sind zutreffend?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Das Stammkapital muss mindestens 20.000 EUR betragen.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Gesellschaft muss von mindestens zwei Personen gegründet werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Die Gesellschaft wird in Abteilung A des Handelsregisters eingetragen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die Gesellschaft kann erst nach Eintragung ins Handelsregister Verträge schließen.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Die Firma kann „Gesellschaft für IT-Service mbH\" lauten.",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Die neu gegründete GmbH ist eine juristische Person des privaten Rechts.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "17. Aufgabe\nWelche der folgenden Aussagen zur Firma sind zutreffend?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Die Firma ist der Name eines Kaufmanns, unter dem er seine Geschäfte betreibt.",
+            "correct": "true"
+          },
+          {
+            "title": "[2] Unter der Firma gibt der Kaufmann seine Unterschrift ab.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Aus der Firma muss die zutreffende Branche hervorgehen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Nach Übernahme eines Unternehmens muss dessen Firma beibehalten werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Bei der Wahl der Firma sind Vorschriften des BGB zu beachten.",
+            "correct": "false"
+          },
+          {
+            "title": "[6] In der Firma einer Personengesellschaft ist ein Hinweis auf die Gesellschaftsform nicht erforderlich.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "18. Aufgabe\t\nBei welcher der folgenden Rechtsformen haften alle Gesellschafter mit ihrem Privatvermögen?\t\nTragen Sie die Ziffer vor der zutreffenden Rechtsform in das Kästchen ein.\t\nOffene Handelsgesellschaft (OHG)",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Offene Handelsgesellschaft (OHG)",
+            "correct": "true"
+          },
+          {
+            "title": "[2] Gesellschaft mit beschränkter Haftung (GmbH)",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Aktiengesellschaft (AG)",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Kommanditgesellschaft (KG)",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Genossenschaft (e. G.)",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "19. Aufgabe\t\nEine Mitarbeiterin der O.RAKEL GmbH ist arbeitsunfähig, weil sie am Vortag auf dem direkten Weg zur Arbeit bei einem Verkehrsunfall schwer verletzt wurde.\t\nWelche der folgenden Aussagen ist in diesem Zusammenhang zutre.jffend?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein. m,...",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] muss den Unfall der Krankenversicherung der Mitarbeiterin melden.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] darf die Gehaltszahlung ab dem erstem Krankheitstag einstellen.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] darf den Urlaubsanspruch der Mitarbeiterin kürzen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] muss den Unfall der Gewerbeaufsichtsbehörde melden.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] muss den Unfall der Berufsgenossenschaft melden.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "20. Aufgabe\t\nDie O.RAKEL GmbH ist gegen unterschiedliche Risiken versichert.\t\nWelche der folgenden Sachverhalte betreffen die darunter stehenden Versicherungen?\t\nTragen Sie die Ziffer vor dem jeweils zutreffenden Sachverhalt in das Kästchen ein.\t\nSachverhalte\t\n[1] Ein Kunde bricht sich auf dem Betriebsgelände der O.RAKEL GmbH einen Arm.\t\n[2] Ein Fahrer der O.RAKEL GmbH beschädigt mit dem Firmen-PKW das Garagentor eines Kunden.\t\n[3] Die Mitarbeiterin Selma Groß klagt gegen ihre Kündigung.\t\n[4] Das Lagergebäude wird durch einen B'itzschlag beschädigt.\t\n[5] Der Lieferwagen der O.RAKEL GmbH wird ohne Fremdverschulden beschädigt.\t\n[6] Die O.RAKEL GmbH streitet sich mit einem Vertragspartner über eine Rechnung.\t\nVersicherungen\t\na) Gebäudeversicherung\t\nb) Betriebshaftpflichtversicherung\t\nc) Kfz-Haftpflichtversicherung",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "a) -> [4] \n b) -> [1] \n c) -> [2]"
+      },
+      {
+        "title": "21. Aufgabe\t\nDie O.RAKEL GmbH muss eine Fachkraft für Arbeitssicherheit stellen.\t\nAufgrund welcher der folgenden Rechtsgrundlagen ist die ORAKEL GmbH dazu verpflichtet?\t\nTragen Sie die Ziffer vor der zutreffenden Rechtsgrundlage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Arbeitsplatzschutzgesetz",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Arbeitssicherheitsgesetz",
+            "correct": "true"
+          },
+          {
+            "title": "[3] GmbH-Gesetz",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Unfallverhütungsvorschriften",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Betriebsverfassungsgesetz",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "22. Aufgabe\t\nin einem Technikraum eines Kunden der O.RAKEL GmbH ist das folgende Schild angebracht,\t\nWelche der folgenden Bedeutungen hat das Schild?\t\nTragen Sie die Ziffer vor der zutreffenden Bedeutung in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "q27.PNG",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Keine unterbrechungsfreie Stromversorgung",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Keine manuelle Schaltung möglich",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Tür geschlossen halten",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Nicht schalten",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Lüftungsklappe nicht schließen",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "23. Aufgabe\t\nIn dem Labor eines Kunden der O. RAKEL GmbH ist das folgende Warnschild angebracht.\t\nVor welcher der folgenden Gefahren warnt das Schild?\t\nTragen Sie die Ziffer vor der zutreffenden Gefahr in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Explosion",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Elektrizität",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Laserstrahl",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Rotierende Bürste",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Sprühende Funken",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "24. Aufgabe\t\nIn der O.RAKEL GmbH werden neue Fertigungsautomaten eingesetzt, die doppelt so viele Teile wie die alten Maschinen produzieren können.\t\nWeiche der folgenden Aussagen ist in diesem Zusammenhang richtig?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Der Materialverbrauch je Stück sinkt.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Arbeitsproduktivität steigt.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Der Anteil der Lohnkosten steigt.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die prozentuale Maschinenauslastung wird verdoppelt.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die Herstellungskosten verdoppeln sich.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "25. Aufgabe\t\nErmitteln Sie den derzeitigen Gesamtumsatz der Branche für dieses IT-Produkt in EUR.\t\nTragen Sie das Ergebnis in die Kästchen ein. \n Die folgende Grafik zeigt die Marktsituation auf dem Markt für ein IT-Produkt, das auch die O.RAKEL GmbH anbietet.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "q29.PNG",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "250.000"
+      },
+      {
+        "title": "26. Aufgabe\t\nEine Umfrage ergab, dass die Käufer dieses IT-Produkts von einer Verschlechterung der wirtschaftlichen Entwicklung ausgehen. Es wird daher nur\t\nnoch eine Absatzmenge von 4,000 Stück erwartet.\t\na) Ermitteln Sie den Stückpreis, den das IT-Produkt in der Modellbetrachtung im neuen Marktgleichgewicht erzielt.\t\nb) Ermitteln Sie den Gesamtumsatz in EUR, der bei dem neuen Marktgleichgewicht erzielt wird.\t\nTragen Sie die Ergebnisse in die Kästchen ein. \n Die folgende Grafik zeigt die Marktsituation auf dem Markt für ein IT-Produkt, das auch die O.RAKEL GmbH anbietet.",
+        "subject": "Final_Exam",
+        "type": "GA1",
+        "year": "2011",
+        "image": "q29.PNG",
+        "description": "",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "a) -> 40 \n b) -> 160.000 \n Algo: \n ba = ab * 4.000"
+      }
+    ]
+  },
+  {
+    "subject": "Final_Exam",
+    "type": "Wiso",
+    "year": "2012",
+    "description": "",
+    "title": "Situation\t\nSie sind Mitarbeiter/-in der YUHU GmbH.\t\nDie YUHU GmbH bietet Telekommunikationsanlagen, Informationstechnik und DV-Beratung an.",
+    "image": "",
+    "questions":  [
+      {
+        "title": "1. Aufgabe\t\nIhr Arbeitsverhältnis mit der YUHU GmbH ist in einem schriftlichen Arbeitsvertrag geregelt,\t\nBei welchem der folgenden Bestandteile Ihres Arbeitsvertrags ist der Arbeitgeber an kollektives Arbeitsrecht gebunden?\t\nTragen Sie die Ziffer vor dem zutreffenden Vertragsbestandteil in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Das monatliche Bruttogehalt beträgt 2.000,00 EUR.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Der/die Angestellte arbeitet als Sachbearbeiter/-in im Kundenservice.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Das Arbeitsverhältnis beginnt am 2. Mai 2008.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die reguläre wöchentliche Arbeitszeit betragt gemäß Betriebsvereinbarung 38,5 Stunden.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Die YUHU GmbH gewährt einen monatlichen Fahrtkostenzuschuss von 100,00 EUR.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "2. Aufgabe\t\nDie YUHU GmbH hat mit Ihnen einen Einzelarbeitsvertrag geschlossen.\t\nWelche der folgenden Aussagen ist in diesem Zusammenhang zutreffend?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.\t\nEin Einzelarbeitsvertrag...",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] kann nur abgeschlossen werden, wenn für die YUHU GmbH kein gültiger Tarifvertrag vorliegt.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] kann nur mit Zustimmung des Betriebsrats geschlossen werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] ohne Urlaubsregelung ist ungültig.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] ist auch dann gültig, wenn das vereinbarte Arbeitsentgelt über dem tarifvertraglich geregelten liegt.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] darf für höchstens zwei Jahre geschlossen werden.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "3. Aufgabe\t\nArbeitgeber und Arbeitnehmer haben Pflichten aus dem Arbeitsvertrag\t\nIn welchem der folgenden Fälle wird in der YUHU GmbH gegen die Pflichten aus dem Arbeitsvertrag verstoßen?\t\nTragen Sie die Ziffer vor dem zutreffenden Fall in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Ein Mitarbeiter der YUHU GmbH erhält beim Ausscheiden aus der YUHU GmbH ein einfaches Zeugnis.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Ein Mitarbeiter der YUHU GmbH übt ohne Kenntnis des Arbeitgebers eine Nebentätigkeit im gleichen Geschäftszweig aus.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Die YUHU GmbH meldet einen neuen Arbeitnehmer drei Tage nach Arbeitsbeginn zur Sozialversicherung an.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die YUHU GmbH hat aus betrieblichen Gründen im Monat Mai eine Urlaubssperre verhängt.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die YUHU GmbH schließt aus Kostengründen die Werkskantine",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "4. Aufgabe\t\nSie wollen Einsicht in Ihre von der YUHU GmbH geführte Personalakte nehmen.\t\nWelche der folgenden Aussagen beschreibt zutreffend die Rechtslage?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.\t\nSie haben ...",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] kein Recht auf Einsichtnahme, da dadurch der Datenschutz verletzt wird.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] kein Recht auf Einsichtnahme, da die Personalakte nur der Personalverwaltung zugänglich ist.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] ein Recht, jederzeit und uneingeschränkt Ihre Personalakte einzusehen.",
+            "correct": "true"
+          },
+          {
+            "title": "[4] ein Recht, Ihre Personalakte einzusehen, allerdings nur im Beisein eines Mitglieds des Betriebsrats.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] ein Recht, Ihre Personalakte einzusehen, jedoch nur in besonderen Ausnahmefällen, die durch das Betriebsverfassungsgesetz geregelt sind.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "5. Aufgabe\t\nIn der YUHU GmbH sind Regelungen aus dem Arbeitsrecht zu beachten.\t\nWelche der folgenden Rechtsgrundlagen treffen auf die daneben stehenden Sachverhalte zu?\t\nTragen Sie die Ziffer vor der jeweils zutreffenden Rechtsgrundlage in das Kästchen ein.\t\nRechtsgrundlagen:\t\n[1] Kündigungsschutzgesetz\t\t\n[2] Tarifvertrag\t\t\n[3] Betriebsverfassungsgesetz\t\n[4] Eine andere als die genannten Rechtsgrundlagen\t\nSachverhalte:\na) Eine Mitarbeiterin genießt Kündigungsschutz bis zum Ablauf von zwei Monaten nach Beendigung des Mutterschaftsurlaubs.\nb) Die regelmäßige wöchentliche Arbeitszeit der gesamten Branche beträgt 37,5 Stunden.\t\nc) Eine betriebsbedingte Kündigung ist rechtsunwirksam, wenn sie sozial ungerechtfertigt ist.\t\nd) Wählbar zur Jugend- und Auszubildendenvertretung sind grundsätzlich alle Arbeitnehmer,\t\ndie das 25. Lebensjahr noch nicht vollendet haben.\t\ne) Ein Auszubildender kann das Ausbildungsverhältnis nach der Probezeit aus wichtigem Grund kündigen.\t\nf) Eine Kündigung ohne Anhörung des Betriebsrats ist unwirksam.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "a) -> [4] \n b) -> [2] \n c) -> [1] \n d) -> [3] \n e) -> [4] \n f) -> [3]"
+      },
+      {
+        "title": "6. Aufgabe\t\nIn der YUHU GmbH wurde ein Betriebsrat gewählt.\t\nWelche der folgenden Aussagen über den Betriebsrat ist zutreffend?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Ein Betriebsrat muss in jedem Betrieb gewählt werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Ein Betriebsrat muss je zur Hälfte aus weiblichen und männlichen Arbeitnehmern gebildet werden",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Wählbar sind alle Wahlberechtigten, die dem Betrieb mindestens ein Jahr angehören.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die Kündigung eines Arbeitnehmers wird erst durch Zustimmung des Betriebsrats wirksam.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Der Betriebsrat hat bei der Aufstellung des Urlaubsplans ein Mitbestimmungsrecht.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "7. Aufgabe\t\nDie Geschäftsführung der YUHU GmbH und der Betriebsrat schließen Betriebsvereinbarungen ab.\t\nWelcher der folgenden Sachverhalte kann durch eine Betriebsvereinbarung geregelt werden?\t\nTragen Sie die Ziffer vor dem zutreffenden Sachverhalt in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Kündigungsfristen",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Gleitende Arbeitszeit",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Mindesturlaub",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Mindestlöhne gemäß Tarifvertrag",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Mindestbeitrag einer Krankenversicherung",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "8. Aufgabe\t\nEin Mitarbeiter der YUHU GmbH hat gekündigt.\t\nWelche der folgenden Unterlagen müssen ihm — ggf. auf Verlangen — ausgehändigt werden?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Unterlagen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Lebenslauf",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Arbeitsvertrag",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Qualifiziertes Arbeitszeugnis",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Zeugniskopien",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Lohnsteuerkarte/Lohnsteuerbescheinigung",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Personalakte",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "9. Aufgabe\t\nEin ehemaliger Arbeitskollege, der eine neue Arbeitsstelle angetreten hat, bittet Sie in folgender Angelegenheit um Rat, In seinem Arbeitsvertrag sind\t\nein übertarifliches Bruttogehalt von 1.900,00 EUR und eine Probezeit von drei Monaten vereinbart.\t\nIm ersten Monat war er wegen Krankheit vier Tage arbeitsunfähig und konnte eine Arbeit nicht termingerecht erledigen,\t\nVor der ersten Gehaltszahlung wurde ihm mitgeteilt, dass ihm aufgrund seiner Erkrankung und seiner verringerten Leistungen nur das tarifliche\t\nBruttogehalt von 1.700,00 EUR gezahlt werde.\t\nWelche der folgenden Antworten entspricht der Rechtslage?\t\nTragen Sie die Ziffer vor der zutreffenden Antwort in das Kästchen ein.\t\nDer ehemalige Arbeitskollege...",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] kann das vereinbarte Bruttogehalt von 1.900,00 EUR fordern.",
+            "correct": "true"
+          },
+          {
+            "title": "[2] kann die Gehaltsdifferenz von der Krankenkasse fordern.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] muss die Gehaltskürzung akzeptieren, da der Arbeitgeber im Krankheitsfall in der ersten Woche das Gehalt ohne Ausgleich durch die Krankenkasse kürzen kann.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] muss die Gehaltskürzung akzeptieren, da er sich noch in der Probezeit befindet.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] muss die Gehaltskürzung akzeptieren, weil ein übertarifliches Gehalt eine freiwillige Leistung des Arbeitgebers ist.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "10. Aufgabe\t\nAls Mitarbeiter/-in der YUHU GmbH werden Ihnen Steuern und Sozialbeiträge vom Bruttolohn abgezogen.\t\nWelche der folgenden Aussagen zu diesem Sachverhalt treffen zu?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen eim\t\nDie Abzugsbeträge zur...",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Lohnsteuer werden direkt an die Rentenempfänger weitergeleitet.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Lohnsteuer verbleiben bei der Rentenversicherung.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Rentenversicherung werden an die Deutsche Rentenversicherung weitergeleitet.",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Arbeitslosenversicherung werden an die Deutsche Rentenversicherung weitergeleitet.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Rentenversicherung werden an die Rentnerinnen und Rentner ausgezahlt.",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Krankenversicherung werden direkt an die Kassenärztliche Vereinigung der Länder überwiesen.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "11. Aufgabe\t\nDie Solidarität ist ein gesellschaftspolitisches Prinzip, das in der Bundesrepublik Deutschland angewendet wird. Auch Mitarbeiter/-innen der\t\nYUHU GmbH sind davon betroffen.\t\nWelcher der folgenden Sachverhalte entspricht dem Prinzip der Solidarität?\t\nTragen Sie die Ziffer vor dem zutreffenden Sachverhalt in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Der Staat senkt die Beitragsbemessungsgrenze für die gesetzliche Krankenkasse.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Der Staat fordert verstärkt Selbstverantwortung bei der Altersvorsorge.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Der Staat erhöht die Erbschaftssteuer zur Umverteilung großer Vermögen.",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Kindergartenbeiträge sind für alle Eltern, unabhängig vom Einkommen, gleich hoch.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Der Beitrag zur Krankenversicherung steigt mit individuellem Krankheitsrisiko des Versicherten.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "12. Aufgabe\t\nDie YUHU GmbH führt Maßnahmen zur Personalentwicklung durch. U. a. werden Potenzialanalysen erstellt.\t\nWelche der folgenden Aussagen beschreibt diese Analyseform?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Vorgesetzte sprechen mit Mitarbeitern über Aufstiegsmöglichkeiten.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Vorgesetzte versuchen zusammen mit einzelnen Mitarbeitern herauszufinden, welche besonderen Fähigkeiten entwickelt werden könnten.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Mitarbeitern/Mitarbeiterinnen werden Prämien in Aussicht gestellt.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Das Unternehmen bietet Weiterbildungslehrgänge an.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die Mitarbeiter/-innen arbeiten in Projektteams zusammen.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "13. Aufgabe\t\nDer Mitarbeiter Peter Sendler teilt der Personalabteilung der YUHU GmbH mit, dass er seine Tätigkeit für die YUHU GmbH zum 15.06.2012 beenden\t\nmöchte.\t\nErmitteln Sie das Datum, an dem Herrn Sendlers Kündigung spätestens bei der YUHIJ GmbH eingegangen sein muss (siehe Arbeitsvertrag, Auszug\t\naus § 622 BGB und Kalenderauszug 2012).\t\nTragen Sie das Datum (TT.MM.JJJJ) in die Kästchen ein.\t\nArbeitsvertrag (Auszug)\t\nZwischen der YUHU GmbH, vertreten durch Frau Gerda Weinrich, Rahlstetter Str. 144, 22143 Hamburg, und Herrn Peter Sendler, Ackerstr. 4,\t\n20144 Hamburg, wird folgender Arbeitsvertrag geschlossen:\t\n§ 1 Beginn des Arbeitsverhältnisses\t\nDas Arbeitsverhältnis beginnt am 15, 12.2011.\t\n§ 2 Probezeit\t\nDie Probezeit beträgt sechs Monate.\t\n§ 11 Beendigung des Arbeitsverhältnisses\t\nFür die Kündigung des Arbeitsverhältnisses gelten die gesetzlichen Kündigungsfristen.\t\n(YUHU GmbH)\t(Peter Sendler)\t\nHamburg, 14.12.2011\t\n$ 622 BGB Kündigungsfrist bei Arbeitsverhältnissen\t\n(1 ) Das Arbeitsverhältnis eines Arbeiters oder eines Angestellten (Arbeitnehmers) kann mit einer Frist von vier Wochen zum Fünfzehnten oder zum\t\nEnde eines Kalendermonats gekündigt werden.\t\n(2) Für eine Kündigung durch den Arbeitgeber beträgt die Kündigungsfrist, wenn das Arbeitsverhältnis in dem Betrieb oder Unternehmen\t\n1. zwei Jahre bestanden hat, einen Monat zum Ende eines Kalendermonats,\t\n2. fünf Jahre bestanden hat, zwei Monate zum Ende eines Kalendermonats,\t\n3. acht Jahre bestanden hat, drei Monate zum Ende eines Kalendermonats,\t\n4. zehn Jahre bestanden hat, vier Monate zum Ende eines Kalendermonats,\t\n5. zwölf Jahre bestanden hat, fünf Monate zum Ende eines Kalendermonats,\t\n6. fünfzehn Jahre bestanden hat, sechs Monate zum Ende eines Kalendermonats,\t\n7. zwanzig Jahre bestanden hat, sieben Monate zum Ende eines Kalendermonats.\t\nBei der Berechnung der Beschäftigungsdauer werden Zeiten, die vor der Vollendung des 25. Lebensjahres des Arbeitnehmers liegen, nicht\t\nberücksichtigt.\t\n(3) Während einer vereinbarten Probezeit, längstens für die Dauer von sechs Monaten, kann das Arbeitsverhältnis mit einer Frist von zwei Wochen gekündigt werden.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "q38.PNG",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "01.06.2012"
+      },
+      {
+        "title": "14. Aufgabe\t\nAuszubildende der YUHU GmbH diskutieren über Beispiele zur beruflichen Fortbildung.\t\nWelches der folgenden Beispiele zur beruflichen Fortbildung trifft zu?\t\nTragen Sie die Ziffer vor dem zutreffenden Beispiel in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Fritz Wagner besucht nach dem Abschluss der mittleren Reife (MSA) die Berufsfachschule für elektrotechnische Assistenten.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Ein Auszubildender der YUHU GmbH nimmt in einer überbetrieblichen Ausbildungsstätte an einem Lehrgang zur Kunststoffbearbeitung teil.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Sie besuchen an der Volkshochschule einen Segelkurs.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Ein Auszubildender mit Abitur will nach Abschluss der Ausbildung studieren.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die Auszubildende Petra Schulz nimmt nach der Ausbildung zur IT-Systemkauffrau an einem Fernlehrgang „Technisches Englisch\" teil.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "15. Aufgabe\t\nDie YUHU GmbH will ein IPServicecenter in der Rechtsform einer GmbH gründen.\t\nWelche der folgenden Aussagen zur GmbH sind zutreffend?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Das Stammkapital muss mindestens 20.000 EUR betragen.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Gesellschaft muss von mindestens zwei Personen gegründet werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Die Gesellschaft wird in Abteilung A des Handelsregisters eingetragen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die Gesellschaft kann erst nach Eintragung ins Handelsregister Verträge schließen.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die Firma kann „Gesellschaft für IT-Service mbH\" lauten.",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Die Geschäftsführung der GmbH obliegt dem Vorstand.",
+            "correct": "false"
+          },
+          {
+            "title": "[7] Die neu gegründete GmbH ist eine juristische Person des privaten Rechts.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "16. Aufgabe\t\nSie sollen im Handelsregister Informationen über einen neuen Lieferer einholen.\t\nWelche der folgenden Institutionen führt das Handelsregister?\t\nTragen Sie die Ziffer vor der zutreffenden Institution das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Industrie- und Handelskammer",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Gewerkschaft",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Berufsgenossenschaft",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Arbeitgeberverband",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Amtsgericht",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "17. Aufgabe\t\nIm Handelsregister sind Unternehmen mit verschiedenen Firmierungen aufgeführt.\t\nWelche der folgenden Aussagen zur Firma sind zutreffend?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Die Firma ist der Name eines Kaufmanns, unter dem er seine Geschäfte betreibt.",
+            "correct": "true"
+          },
+          {
+            "title": "[2] Ein Kaufmann muss mit der Firma unterschreiben.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Aus der Firma muss die zutreffende Branche hervorgehen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Unter der Firma kann das Unternehmen verklagt werden.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Außer den Vorschriften des HGB sind auch die Vorschriften des BGB bei der Wahl der Firma zu beachten.",
+            "correct": "false"
+          },
+          {
+            "title": "[6] In der Firma einer Personengesellschaft ist ein Hinweis auf die Gesellschaftsform nicht erforderlich.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "18. Aufgabe\t\nDie YUHU GmbH unterhält zu Unternehmen mit folgenden Rechtsformen Geschäftsbeziehungen.\t\nBei welcher der folgenden Rechtsformen haften die Unternehmer mit ihrem Privatvermögen?\t\nTragen Sie die Ziffer vor der zutreffenden Rechtsform in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Eingetragener Verein (e. V.)",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Gesellschaft mit beschränkter Haftung (GmbH)",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Aktiengesellschaft (AG)",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Gesellschaft bürgerlichen Rechts (GbR)",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Genossenschaft (e. G.)",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "19. Aufgabe\t\nEine Mitarbeiterin der YUHU GmbH ist arbeitsunfähig, weil sie am Vortag auf dem direkten Weg zur Arbeit bei einem Verkehrsunfall schwer verletzt wurde.\t\nWelche der folgenden Aussagen ist in diesem Zusammenhang zutreffend?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein\t\nDie YUHU GmbH...",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] muss den Unfall der Krankenversicherung der Mitarbeiterin melden.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] darf die Gehaltszahlung ab dem ersten Krankheitstag einstellen.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] darf den Urlaubsanspruch der Mitarbeiterin kürzen.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] muss den Unfall der Gewerbeaufsichtsbehörde melden.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] muss den Unfall der Berufsgenossenschaft melden.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "20. Aufgabe\nDie YUHU GmbH muss eine Fachkraft für Arbeitssicherheit stellen.\t\nAufgrund welcher der folgenden Rechtsgrundlagen ist die YUHU GmbH dazu verpflichtet?\t\nTragen Sie die Ziffer vor der zutreffenden Rechtsgrundlage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Arbeitsplatzschutzgesetz",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Arbeitssicherheitsgesetz",
+            "correct": "true"
+          },
+          {
+            "title": "[3] GmbH-Gesetz",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Unfallverhütungsvorschriften",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Betriebsverfassungsgesetz",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "21. Aufgabe\t\nDas folgende Schema zeigt das Leitungssystem der YUHU GmbH:\t\nNach welchem der folgenden Leitungssysteme arbeitet die YUHU GmbH?\t\nTragen Sie die Ziffer vor dem zutreffenden Leitungssystem in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "q39.PNG",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Einliniensystem",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Matrixsystem",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Mehrliniensystem",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Stabliniensystem",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Abteilungssystem",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "22. Aufgabe\t\nIn der YUHU GmbH werden Arbeitsplätze durch Fertigungsautomaten ersetzt. Dadurch können in derselben Arbeitszeit doppelt so viele Teile wie\t\nvorher produziert werden.\t\nWelche der folgenden Aussagen ist in diesem Zusammenhang richtig?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Für die Bedienung des Fertigungsautomaten muss ein Ingenieur eingestellt werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Arbeitsproduktivität wird größer.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Der Anteil der Lohnkosten an den Herstellungskosten für ein Teil wird größer.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die Anschaffung der Fertigungsautomaten ist nur möglich, wenn der Betriebsrat zustimmt.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die Herstellungskosten für ein Teil erhöhen sich um 100 Prozent.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "23. Aufgabe\t\nDie YUHU GmbH wartet elektrische Anlagen. Die Arbeiten dürfen nur durchgeführt werden, wenn eine Anlage spannungsfrei ist. Der spannungsfreie\t\nZustand ist nach den Sicherheitsregeln in fünf Arbeitsschritten herzustellen.\t\nGeben Sie die richtige Reihenfolge dieser Arbeitsschritte an.\t\nTragen Sie für den ersten Arbeitsschritt die Ziffer [1], für den zweiten Arbeitsschritt die Ziffer [2] usw. in die entsprechenden Kästchen ein.\t\na) Erden und Kurzschließen\t\nb) Spannungsfreiheit feststellen\t\nc) Allpolig und allseitig abschalten\t\nd) Gegen Wiedereinschalten sichern\t\ne) Gegen benachbarte, unter Spannung stehende Teile schützen",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "a) -> [4] \n b) -> [3] \n c) -> [1] \n d) -> [2] \n e) -> [5]"
+      },
+      {
+        "title": "24. Aufgabe\t\nIn der YUHU GmbH sehen Sie die nachstehenden Schilder:\t\nZu welchen der folgenden Zeichenarten gehören diese Schilder?\t\nTragen Sie die Ziffer vor der jeweils zutreffenden Zeichenart in das Kästchen ein.\t\nZeichenarten\t\n[1] Verbotszeichen\t\n[2] Gebotszeichen\t\n[3] Warnzeichen\t\n[4] Rettungszeichen\t\n[5] Brandschutzzeichen\t\nSchilder: <image>",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "q40.PNG",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "a) -> [3] \n b) -> [4]"
+      },
+      {
+        "title": "25. Aufgabe\t\nDie folgende Grafik zeigt die Marktsituation auf dem Markt für ein IT-Produkt, das auch die YUHIJ GmbH anbietet,\t\nEine Umfrage ergab, dass die Käufer dieses IT-Produkts von einer Verschlechterung der wirtschaftlichen Entwicklung ausgehen. Es wird daher nur\t\nnoch eine Absatzmenge von 4.000 Stück erwartet.\t\na) Ermitteln Sie den derzeitigen Gesamtumsatz der Branche für dieses IT-Produkt.\nb) Ermitteln Sie den Stückpreis, den das IT-Produkt in der Modellbetrachtung im neuen Marktgleichgewicht erzielt.\t\nc) Ermitteln Sie den Gesamtumsatz in EUR. der bei dem neuen Marktgleichgewicht erzielt wird.\t\nTragen Sie die Ergebnisse in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "Wiso",
+        "year": "2012",
+        "image": "q41.PNG",
+        "points": "6",
+        "multipleChoice": "false",
+        "correctAnswer": "a) 250.000 \n b) 40,00 \n c) 160.000  \n Algo: \n c = b * 4.000"
+      }
+    ]
+  },
+  {
+    "subject": "Final_Exam",
+    "type": "WiSo",
+    "year": "2013",
+    "description": "",
+    "title": "Situation\t\nSie sind Mitarbeiter/-in der ZETPE AG.\t\nDie ZETPE AG bietet Softwareschulungen sowie Lehrgänge zur Aus- und Weiterbildung an.",
+    "image": "",
+    "questions":  [
+      {
+        "title": "1. Aufgabe\t\nDie ZETPE AG hat zusätzliche Stellen geschaffen und will diese mit neuen Mitarbeitern besetzen.\t\nWelche der folgenden Aussagen trifft im Hinblick auf die geplanten Neueinstellungen zu?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein. \n Die ZETPE AG..",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] darf eine Stelle erst dann extern ausschreiben, nachdem der Betriebsrat zugestimmt hat.",
+            "correct": "false"
+          },{
+            "title": "[2] muss jede neue Stelle zunächst der Agentur für Arbeit melden.",
+            "correct": "false"
+          },{
+            "title": "[3] darf laut ISO 9003 nur Bewerbungen berücksichtigen, die einen handgeschriebenen Lebenslauf enthalten.",
+            "correct": "false"
+          },{
+            "title": "[4] ist verpflichtet, die Angaben eines Bewerbers anhand der Originalunterlagen (z. B. Zeugnisse) zu überprüfen.",
+            "correct": "false"
+          },{
+            "title": "[5] darf als Mitglied eines Arbeitgeberverbands keinen Arbeitsvertrag abschließen, dessen Bedingungen schlechter sind als die des aktuellen Tarifvertrags.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "2. Aufgabe\t\nAuf eine Stellenanzeige gehen mehrere Bewerbungen bei der ZETPE AG ein.\t\nBringen Sie die folgenden Arbeitsschritte in die richtige Reihenfolge.\t\nTragen Sie für den ersten Schritt die Ziffer [1], für den zweiten Schritt die Ziffer [2] usw. in die entsprechenden Kästchen ein.\t\na) Bewerbungsunterlagen sammeln\t\nb) Ausgewählte Bewerber zur persönlichen Vorstellung einladen\t\nc) Gesammelte Bewerbungsunterlagen sichten und auswerten\t\nd) Arbeitsvertrag zusenden\t\ne) Assessment-Center mit ausgewählten Bewerbern durchführen\t\nf) Entscheidung für den besten Bewerber treffen",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "false",
+        "correctAnswer": "a) => [1] \n b) => [3] \n c) => [2] \n d) => [6] \n e) => [4] \n f) => [5]",
+        "choices": []
+      },
+      {
+        "title": "3. Aufgabe\t\nDie ZETPE AG führt mit einigen Bewerbern Einstellungsgespräche.\t\nWelche der folgenden Fragen darf sie dabei nicht stellen bzw. müssen von den Bewerbern nicht wahrheitsgemäß beantwortet werden?\t\nTragen Sie die Ziffern vor den drei entsprechenden Fragen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Wie lautet Ihre Gehaltsvorstellung?",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Sind Sie schwanger?",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Sind Sie Mitglied einer Gewerkschaft?",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Sind Sie verheiratet?",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Welcher Religionsgemeinschaft gehören Sie an?",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Welche Ausbildungsabschlüsse besitzen Sie?",
+            "correct": "false"
+          },
+          {
+            "title": "[7] Sind Sie bereit, Schichtarbeit zu leisten?",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "4. Aufgabe\t\nDie ZETPE AG schließt mit der Bewerberin Sonja Müller einen unbefristeten Arbeitsvertrag. Die ZETPE AG ist an einen Tarifvertrag gebunden.\t\nWelche der folgenden Aussagen zum unbefristeten Arbeitsvertrag ist zutreffend?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Es darf keine Probezeit vereinbart werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Es dürfen mehr Urlaubstage vereinbart werden, als im Tarifvertrag festgelegt sind.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Es darf keine Teilzeitbeschäftigung vereinbart werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Es darf von keinem Vertragspartner ordentlich gekündigt werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Es darf für die Einarbeitungsphase ein Entgelt vereinbart werden, das unter dem Tarifentgelt liegt.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "5. Aufgabe\t\nSie sollen für Frau Müller einen PC-Arbeitsplatz für Büroarbeiten einrichten.\t\nIn welchen der folgenden Unterlagen finden Sie Vorschriften zur Einrichtung eines PC-Arbeitsplatzes?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Unterlagen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Ausbildungsverordnung",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Arbeitszeitverordnung",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Bildschirmarbeitsplatzverordnung",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Arbeitsstättenverordnung",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Berufsbildungsgesetz",
+            "correct": "false"
+          },
+          {
+            "title": "[6] Mutterschutzgesetz",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "6. Aufgabe\t\nKlaus Scholz, ein Mitarbeiter der ZETPE AG, ist erkrankt und muss operiert werden. An die Operation schließt sich eine Rehabilitation an. Herr Scholz\t\nwird insgesamt fünf Wochen nicht im Betrieb arbeiten können.\t\nWelche der folgenden Aussagen trifft auf die geschilderte Situation zu?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.\t\nHerr Scholz erhält von...",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] der ZETPE AG weiterhin sein Bruttoentgelt.",
+            "correct": "true"
+          },
+          {
+            "title": "[2] der gesetzlichen Krankenkasse Krankengeld.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] der Berufsgenossenschaft ein Übergangsgeld.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] der Bundesagentur für Arbeit eine Entgeltersatzleistung.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] seiner privaten Berufsunfähigkeitsversicherung eine Versicherungsleistung.",
+            "correct": "false"
+          }
+        ]
+      },{
+        "title": "7. Aufgabe\t\nDie ZETPE AG will einen ihrer seit acht Jahren fest angestellten, vollzeitbeschäftigten Dozenten betriebsbedingt kündigen. Es gelten die Vorschriften\t\ndes BGB.\t\nWelche der folgenden Aussagen trifft auf eine rechtswirksame Kündigung zu?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Die Kündigungsfrist beträgt einen Monat zum Ende des jeweiligen Quartals.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Kündigung muss zur Wirksamkeit in Schriftform vorliegen.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Die Kündigung kann in elektronischer Form (E-Mail) übermittelt werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Der Betriebsrat hat bei einer ordentlichen Kündigung kein Widerspruchsrecht.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die ZETPE AG muss bei drohender Arbeitslosigkeit des Gekündigten bei der Bundesagentur für Arbeit Arbeitslosengeld beantragen.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "7. Aufgabe\t\nDie ZETPE AG will einen ihrer seit acht Jahren fest angestellten, vollzeitbeschäftigten Dozenten betriebsbedingt kündigen. Es gelten die Vorschriften\t\ndes BGB.\t\nWelche der folgenden Aussagen trifft auf eine rechtswirksame Kündigung zu?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Die Kündigungsfrist beträgt einen Monat zum Ende des jeweiligen Quartals.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Kündigung muss zur Wirksamkeit in Schriftform vorliegen.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Die Kündigung kann in elektronischer Form (E-Mail) übermittelt werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Der Betriebsrat hat bei einer ordentlichen Kündigung kein Widerspruchsrecht.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die ZETPE AG muss bei drohender Arbeitslosigkeit des Gekündigten bei der Bundesagentur für Arbeit Arbeitslosengeld beantragen.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "8. Aufgabe\t\nIm Zuge einer Umstrukturierung erwägt die ZETPE AG, weitere Mitarbeiter/-innen zu entlassen.\t\nWelche der folgenden Mitarbeiter/-innen haben einen besonderen Kündigungsschutz?\t\nTragen Sie die Ziffern vor den drei zutreffenden Mitarbeitern/Mitarbeiterinnen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Handlungsbevollmächtigte",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Personen über 45 Jahre",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Ausbilder",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Schwangere",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Schwerbehinderte",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Betriebsratsmitglieder",
+            "correct": "true"
+          },
+          {
+            "title": "[7] Sicherheitsbeauftragte",
+            "correct": "false"
+          },
+          {
+            "title": "[8] Gewerkschaftsmitglieder",
+            "correct": "false"
+          },
+          {
+            "title": "[9] Verheiratete",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "9. Aufgabe\t\nSie sind auch für die Berufsausbildung in der ZETPE AG zuständig. Für die Auswahl der Ausbildungsinhalte stehen Ihnen gesetzlich verordnete und\t\nallgemeine Informationsquellen zur Verfügung.\t\nWelche der folgenden Informationsquellen sind gesetzlich verordnet?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Informationsquellen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Der Katalog eines Schulbuchverlages",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Internetseiten eines externen Ausbildungsanbieters",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Der Ausbildungsrahmenplan",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Die Computerarbeitsplatzverordnung",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Der Rahmenlehrplan",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Das Berichtsheft/der Ausbildungsnachweis",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "10. Aufgabe\t\nDie ZETPE AG ist Mitglied einer Arbeitgeberorganisation.\t\nWelche der folgenden Aussagen trifft auf eine Arbeitgeberorganisation zu?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.\t\nEine Arbeitgeberorganisation...",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] muss Kündigungen in Mitgliedsunternehmen zustimmen.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] kann übertarifliche Lohnvereinbarungen untersagen.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] wird von der öffentlichen Hand unterhalten.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] erlässt gesetzliche Vorschriften zur Unternehmensführung.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] betreibt Lobbyarbeit zur Durchsetzung der Interessen ihrer Mitglieder.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "11. Aufgabe\t\nIn der ZETPE AG sollen einige Mitarbeiter an ihren Arbeitsplätzen auf die Weiterentwicklung des bisherigen CRM-Systems geschult werden. Die\t\ngeschulten Mitarbeiter sollen nach einer Prüfung ein Zertifikat erhalten.\t\nWelche der folgenden Angaben beschreiben diese Schulungsmaßnahme zutreffend?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Angaben in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Staatliche Fördermaßnahme",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Anpassungsfortbildung",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Überbetriebliche Fortbildung",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Berufsausbildung",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Umschulung",
+            "correct": "false"
+          },
+          {
+            "title": "[6] Inhouse-Schulung",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "12. Aufgabe\t\nLEONARDO DA VINCI ist das Programm der Europäischen Union für die Zusammenarbeit in der beruflichen Bildung.\t\nWelche der folgenden Aussagen trifft auf das Programm LEONARDO DA VINCI zu?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.\t\nDas Programm LEONARDO DA VINCI",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] fördert europäische Bürger und Bürgerinnen beim Erwerb internationaler Kompetenzen.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] fördert die überbetriebliche Ausbildung innerhalb Deutschlands.",
+            "correct": "true"
+          },
+          {
+            "title": "[3] gibt keine finanziellen Zuschüsse zu Reise- und Aufenthaltskosten für Praxisaufenthalte in Betrieben im europäischen Ausland.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] wird in Deutschland von der Bundesagentur für Arbeit durchgeführt.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] fördert nur Maßnahmen innerhalb der beruflichen Erstausbildung.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "13. Aufgabe\t\nDer Europäische Qualifikationsrahmen (EQR) wurde im Jahr 2008 von der Europäischen Union zur Förderung der grenzüberschreitenden Mobilität\t\nvon Bürgern/Bürgerinnen innerhalb der EU eingesetzt.\t\nWelche der folgenden Aussagen treffen auf den EQR zu?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[l] Ersetzt die nationalen Qualifikationssysteme und deren Abschlüsse",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Ist in acht Referenzniveaus gegliedert, die beschreiben, was ein Lernender weiß, versteht und in der Lage ist, zu tun",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Vergleicht die Abschlüsse der Berufsausbildung, jedoch nicht die der Schul- und Hochschulbildung",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Umfasst nicht die Abschlüsse von Fortbildungsmaßnahmen",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Ist ein Instrument zur Förderung des lebenslangen Lernens",
+            "correct": "true"
+          },
+          {
+            "title": "[6] Ist ein Ordnungsmittel für die berufliche Erstausbildung in europäischen Ländern",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "14. Aufgabe\t\nEinigen Mitarbeitern der ZETPE AG wird vorgeworfen, beruflich nicht mehr flexibel zu sein.\t\nWelcher der folgenden Aussagen beschreibt die berufliche Flexibilität?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Die Möglichkeit, den Arbeitsplatz mit dem eigenen Pkw zu erreichen",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Fähigkeit, sich den wandelnden Anforderungen der Arbeitswelt anpassen zu können",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Die Fähigkeit, ständig zur Verbesserung des Betriebsklimas beizutragen",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die Bereitschaft, immer für Überstunden zur Verfügung zu stehen",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Die Fähigkeit, die Interessen der Arbeitgeber sowie die Interessen der Arbeitnehmer gleichermaßen zu vertreten",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "15. Aufgabe\t\nDie ZETPE AG plant einen Zusammenschluss mit einem Unternehmen in einem anderen Bundesland. In einer Betriebsversammlung soll über diesen\t\nVorschlag der Geschäftsleitung abgestimmt werden.\t\nWelche der folgenden Personengruppen dürfen an der Abstimmung teilnehmen?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Personengruppen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Auszubildende",
+            "correct": "true"
+          },
+          {
+            "title": "[2] Geschäftsführer",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Hauptamtliche Gewerkschaftsvertreter",
+            "correct": "false"
+          },
+          {
+            "title": "[4] In der ZETPE AG angestellte Gewerkschaftsmitglieder",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Betriebsräte des Unternehmens, mit dem der Zusammenschluss geplant ist",
+            "correct": "false"
+          },
+          {
+            "title": "[6] Vertreter des Bundeskartellamtes",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "16. Aufgabe\t\nDa die Dozenten der ZETPE AG häufig in anderen Unternehmen schulen, müssen sie die Bedeutung folgender Zeichen kennen.\t\nOrdnen Sie den abgebildeten Zeichen die richtigen Bedeutungen zu.\t\nTragen Sie die Ziffer vor der jeweils zutreffenden Bedeutung zweistellig in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "q48.PNG",
+        "points": "7",
+        "multipleChoice": "false",
+        "correctAnswer": "a) => [06] \n b) => [04] \n c) => [08] \n d) => [09]",
+        "choices": []
+      },
+      {
+        "title": "17. Aufgabe\t\nDie ZETPE AG bietet Softwareschulungen sowie Lehrgänge zur Aus- und Weiterbildung an.\t\nDie Aktionäre der ZETPE AG sind Privatpersonen, die Dividenden erwarten.\t\nWelche der folgenden Angaben treffen auf die ZETPE AG zu?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Angaben in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Unternehmen des sekundären Sektors",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Unternehmen des tertiären Sektors",
+            "correct": "true"
+          },
+          {
+            "title": "[3] Erwerbswirtschaftliches Unternehmen",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Gemeinwirtschaftliches Unternehmen",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Personengesellschaft",
+            "correct": "false"
+          },
+          {
+            "title": "[6] Gesellschaft bürgerlichen Rechts",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "18. Aufgabe\t\nWährend einer Schulung, die Sie für die ZETPE AG durchführen, stolpern Sie über ein Kabel und verletzen sich am Fuß.\t\nWelcher der folgenden Träger wird für die Kosten der ärztlichen Behandlung aufkommen?\t\nTragen Sie die Ziffer vor dem zutreffenden Träger in das Kästchen ein",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Krankenkasse",
+            "correct": "false"
+          },
+          {
+            "title": "[2] IHK",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Berufsgenossenschaft",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Arbeitsagentur",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Haftpflichtversicherung",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "19. Aufgabe\t\nNach der letzten Gehaltserhöhung übersteigt das Bruttogehalt von Dagmar Fuchs die Beitragsbemessungsgrenze für die gesetzliche Rentenversicherung.\t\nWelche der folgenden Konsequenzen ergeben sich aus der Gehaltserhöhung für Frau Fuchs?\t\nTragen Sie die Ziffer vor der zutreffenden Konsequenz in das Kästchen ein.\t\nFrau Fuchs...",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] ist von der gesetzlichen Rentenversicherungspflicht befreit.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] muss sich nun privat rentenversichern.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] erhält für die Rentenversicherung keinen Arbeitgeberanteil mehr.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] muss nur noch für einen Teil ihres Gehalts einen Beitrag zur gesetzlichen Rentenversicherung leisten.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] kann die Beiträge an die Rentenversicherung gegen Selbstbehalt reduzieren.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "20. Aufgabe\t\nDie Mitarbeiter der ZETPE AG diskutieren über die private kapitalgestützte Altersvorsorge.\t\nWelche der folgenden wirtschaftlichen Faktoren gefährden eine private kapitalgestützte Altersvorsorge?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Faktoren in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Hohe Inflation",
+            "correct": "true"
+          },
+          {
+            "title": "[2] Konjunkturaufschwung",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Arbeitslosigkeit",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Nachfrageüberhang",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Moderate Tariflohnerhöhungen",
+            "correct": "false"
+          },
+          {
+            "title": "[6] Senkung der Beiträge für die gesetzliche Arbeitslosenversicherung",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "21. Aufgabe\t\nSie verschaffen sich einen Überblick zum Thema private Zusatzversicherungen.\t\nWelche der folgenden Aussagen ist in diesem Zusammenhang zutreffend?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Die Kapitallebensversicherung versorgt ausschließlich die Hinterbliebenen im Todesfall.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die private Unfallversicherung sichert den Versicherten allein gegen Folgen von Unfällen auf dem Weg zur Arbeit ab.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Die private Rechtsschutzversicherung hilft ausschließlich bei der Abwehr fremder Ansprüche.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die private Krankenversicherung kann Risikozuschläge für bestimmte Erkrankungen festsetzen.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Die Privathaftpflichtversicherung deckt keine Schäden ab, die der Versicherte einem Dritten zugefügt hat.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "22. Aufgabe\t\nAls Arbeitnehmer/-in müssen Sie sich bei einer Krankenkasse versichern.\t\nWelche der folgenden Aussagen trifft auf die gesetzliche Krankenversicherung zu?\t\nTragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Bietet vom Einkommen unabhängige Versicherungsprämien",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Fordert vom Geschlecht abhängige Beiträge",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Bietet eine Familienversicherung, bei der nicht berufstätige Ehepartner beitragsfrei mitversichert sind",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Fordert vom Eintrittsalter der versicherten Person abhängige Beiträge",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Fordert je nach Gesundheitszustand vom Versicherten Risikozuschläge",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "23. Aufgabe\t\nIn Deutschland werden mehrere wirtschaftspolitische Ziele verfolgt, deren Erfüllungsgrad an Kennzahlen abgelesen werden kann.\t\nOrdnen Sie die folgenden Kennzahlen dem jeweiligen wirtschaftspolitischen Ziel zu.\t\nTragen Sie die Ziffer vor der jeweils zutreffenden Kennzahl in das Kästchen ein.\t\nKennzahlen:\n[1] Reales Bruttoinlandsprodukt\t\n[2] Arbeitslosenquote\t\n[3] Lebenshaltungskostenindex\t\n[4] Außenhandelsüberschuss/-defizit.\n\nWirtschaftspolitische Ziele:\na) Preisstabilität\t\nb) Außenwirtschaftliches Gleichgewicht\t\nc) Wirtschaftswachstum\t\nd) Hoher Beschäftigungsgrad",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "false",
+        "correctAnswer": "a) => [3] \n b) => [4] \n c) => [1] \n d) => [2]",
+        "choices": []
+      },
+      {
+        "title": "24. Aufgabe\t\nDie Auszubildenden der ZETPE AG diskutieren mit ihrem Ausbilder über das Thema Rechtsgeschäfte.\t\nWelche der folgenden Aussagen sind in diesem Zusammenhang richtig?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Ein Kaufvertrag ist ein zweiseitiges Rechtsgeschäft, das einseitig verpflichtend ist.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Eine Kündigung ist ein einseitiges und nicht empfangsbedürftiges Rechtsgeschäft.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Durch konkludentes Handeln kann eine Willenserklärung abgegeben werden.",
+            "correct": "true"
+          },
+          {
+            "title": "[4] Kaufverträge müssen immer schriftlich abgeschlossen werden.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Ein fünfjähriger Junge ist nicht rechtsfähig.",
+            "correct": "false"
+          },
+          {
+            "title": "[6) Nichtige Rechtsgeschäfte sind von Anfang an ungültig.",
+            "correct": "true"
+          }
+        ]
+      },
+      {
+        "title": "25. Aufgabe\t\nDie folgende Grafik zeigt die derzeitige Situation des Marktes, auf dem die ZETPE AG ihre Leistungen anbietet.\t\nBei potenziellen Kunden der ZETPE AG werden nun vom Gesetzgeber Sonderabschreibungsmöglichkeiten und Investitionszulagen gestrichen.\t\nWelche der folgenden Auswirkungen hat diese Veränderung in der Modellbetrachtung auf die dargestellte Marktsituation?\t\nTragen Sie die Ziffer vor der zutreffenden Auswirkung in das Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "q49.PNG",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Die Angebotskurve verschiebt sich nach rechts.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] Die Angebotskurve verschiebt sich nach links.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Die Nachfragekurve verschiebt sich nach rechts.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die Nachfragekurve verschiebt sich nach links.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Die Steigung der Nachfragekurve wird geringer.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "26. Aufgabe\t\nDie ZETPE AG erhält einen Auftrag für einen Lehrgang, mit dem das Unternehmen sechs Monate ausgelastet ist.\t\nIn welchem der folgenden Fälle würde die ZETPE AG nach dem Minimalprinzip handeln?\t\nTragen Sie die Ziffer vor dem zutreffenden Fall in das Kästchen ein.\t\nDie ZETPE AG...",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] gewährt dem Auftraggeber statt üblicherweise 4 % nur 2 % Rabatt.",
+            "correct": "false"
+          },
+          {
+            "title": "[2] überzieht die vorkalkulierten Kosten nur minimal.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] bildet hinsichtlich eventueller Gewährleistungsansprüche aus diesem Geschäft eine Rückstellung, um das finanzielle Risiko zu minimieren.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] holt mehrere Angebote von Honorarkräften ein und beauftragt den günstigsten Anbieter.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] beschäftigt verschiedene Dozenten, um Abhängigkeiten zu minimieren.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "27. Aufgabe\t\nSie entscheiden sich für ein Angebot eines Ihnen bisher unbekannten Unternehmens, der Biber GmbH.\t\nSie wollen daher wissen, zu welchem der folgenden Zeitpunkte die Biber GmbH rechtsfähig wurde.\t\nTragen Sie die Ziffer vor dem zutreffenden Zeitpunkt in das Kästchen ein.\t\nDie Biber GmbH wurde rechtsfähig mit...",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Anmeldung beim Amtsgericht zur Eintragung in das Handelsregister.",
+            "correct": "true"
+          },
+          {
+            "title": "[2] Eintragung in das Handelsregister.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Abschluss des ersten Rechtsgeschäfts.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Einzahlung des Stammkapitals.",
+            "correct": "false"
+          },
+          {
+            "title": "[5] Bestellung des Geschäftsführers.",
+            "correct": "false"
+          }
+        ]
+      },
+      {
+        "title": "28. Aufgabe\t\nIm wirtschaftlichen Umfeld der ZETPE AG verändern sich die Rahmenbedingungen durch Kooperation zwischen Unternehmen und Unternehmens-\t\nübernahmen.\t\nIn welchen der folgenden Fälle handelt es sich um eine horizontale Unternehmenskooperation?\t\nTragen Sie die Ziffern vor den zwei zutreffenden Fällen in die Kästchen ein.",
+        "subject": "Final_Exam",
+        "type": "WiSo",
+        "year": "2013",
+        "image": "",
+        "points": "7",
+        "multipleChoice": "true",
+        "correctAnswer": "",
+        "choices": [
+          {
+            "title": "[1] Die Mayer GmbH kann ein bestimmtes Produkt aus Kapazitätsgründen nicht liefern und verweist bisherige Kunden an einen befreundeten Produzenten.",
+            "correct": "true"
+          },
+          {
+            "title": "[2] Die Kolbinger AG übernimmt sämtliche Geschäftsanteile eines anderen Produzenten, um etwaige Umsatzrückgänge in ihrem Kerngeschäft ausgleichen zu können.",
+            "correct": "false"
+          },
+          {
+            "title": "[3] Die Schulz KG gründet mit zwei Mitbewerbern einen Produktionsverbund, um durch höhere Stückzahlen die Produktionskosten senken zu können.",
+            "correct": "false"
+          },
+          {
+            "title": "[4] Die Davos GmbH erwirbt die Kapitalmehrheit an einem anderen Produzenten, um Einfluss auf dessen Produktpolitik nehmen zu können.",
+            "correct": "true"
+          },
+          {
+            "title": "[5] Die Sabel AG übernimmt vollständig ein Unternehmen aus einem Geschäftsfeld, in dem die Sabel AG bisher nicht vertreten war.",
+            "correct": "false"
+          },
+          {
+            "title": "[6] Die Scholl KG wird nun auch von der Müller GmbH beliefert.",
+            "correct": "false"
+          }
+        ]
+      }
+    ]
+  }
+]

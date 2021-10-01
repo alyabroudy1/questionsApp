@@ -51,12 +51,24 @@ public class QuestionController {
     CheckBox checkBoxChoice4;
     CheckBox checkBoxChoice5;
     CheckBox checkBoxChoice6;
+    CheckBox checkBoxChoice7;
+    CheckBox checkBoxChoice8;
+    CheckBox checkBoxChoice9;
+    CheckBox checkBoxChoice10;
+    CheckBox checkBoxChoice11;
+    CheckBox checkBoxChoice12;
     ImageView imageViewChoice1;
     ImageView imageViewChoice2;
     ImageView imageViewChoice3;
     ImageView imageViewChoice4;
     ImageView imageViewChoice5;
     ImageView imageViewChoice6;
+    ImageView imageViewChoice7;
+    ImageView imageViewChoice8;
+    ImageView imageViewChoice9;
+    ImageView imageViewChoice10;
+    ImageView imageViewChoice11;
+    ImageView imageViewChoice12;
     ImageView imageViewCorrectChoice;
 
     Button buttonConfirm;
@@ -94,10 +106,13 @@ public class QuestionController {
      * @param activity Activity
      */
     public void instantiateView(Activity activity) {
+
         textViewScenarioScenariosCount = (TextView) activity.findViewById(R.id.textView_scenarios_count);
-        textViewScenarioTitle = (TextView) activity.findViewById(R.id.textView_title);
+      /*  textViewScenarioTitle = (TextView) activity.findViewById(R.id.textView_title);
         textViewScenarioDescription = (TextView) activity.findViewById(R.id.textView_description);
         imageViewScenarioImage = (ImageView) activity.findViewById(R.id.imageView_image);
+
+       */
 
         textViewQuestionSubject = (TextView) activity.findViewById(R.id.textView_q_subject);
         textViewQuestionTitle = (TextView) activity.findViewById(R.id.textView_q_title);
@@ -112,12 +127,24 @@ public class QuestionController {
         checkBoxChoice4 = (CheckBox) activity.findViewById(R.id.checkBox_choice4);
         checkBoxChoice5 = (CheckBox) activity.findViewById(R.id.checkBox_choice5);
         checkBoxChoice6 = (CheckBox) activity.findViewById(R.id.checkBox_choice6);
+        checkBoxChoice7 = (CheckBox) activity.findViewById(R.id.checkBox_choice7);
+        checkBoxChoice8 = (CheckBox) activity.findViewById(R.id.checkBox_choice8);
+        checkBoxChoice9 = (CheckBox) activity.findViewById(R.id.checkBox_choice9);
+        checkBoxChoice10 = (CheckBox) activity.findViewById(R.id.checkBox_choice10);
+        checkBoxChoice11 = (CheckBox) activity.findViewById(R.id.checkBox_choice11);
+        checkBoxChoice12 = (CheckBox) activity.findViewById(R.id.checkBox_choice12);
         imageViewChoice1 = (ImageView) activity.findViewById(R.id.imageView_c1_image);
         imageViewChoice2 = (ImageView) activity.findViewById(R.id.imageView_c2_image);
         imageViewChoice3 = (ImageView) activity.findViewById(R.id.imageView_c3_image);
         imageViewChoice4 = (ImageView) activity.findViewById(R.id.imageView_c4_image);
         imageViewChoice5 = (ImageView) activity.findViewById(R.id.imageView_c5_image);
         imageViewChoice6 = (ImageView) activity.findViewById(R.id.imageView_c6_image);
+        imageViewChoice7 = (ImageView) activity.findViewById(R.id.imageView_c7_image);
+        imageViewChoice8 = (ImageView) activity.findViewById(R.id.imageView_c8_image);
+        imageViewChoice9 = (ImageView) activity.findViewById(R.id.imageView_c9_image);
+        imageViewChoice10 = (ImageView) activity.findViewById(R.id.imageView_c10_image);
+        imageViewChoice11 = (ImageView) activity.findViewById(R.id.imageView_c11_image);
+        imageViewChoice12 = (ImageView) activity.findViewById(R.id.imageView_c12_image);
         imageViewCorrectChoice = (ImageView) activity.findViewById(R.id.textView_correct_choice_image);
 
         textColorDefaultRb = checkBoxChoice1.getTextColors();  //save default color of a checkbox
@@ -192,17 +219,21 @@ public class QuestionController {
             textViewScenarioScenariosCount.setText(scenarioHeader);
             textViewScenarioScenariosCount.setVisibility(View.VISIBLE);
 
-            textViewScenarioTitle.setText("S-Title: " + currentScenario.getTitle());
+           /* textViewScenarioTitle.setText("S-Title: " + currentScenario.getTitle());
             textViewScenarioTitle.setVisibility(View.VISIBLE);
+
+            */
 
         }
 
         //scenario image
-        if (currentScenario.getImage() != null && !currentScenario.getImage().equals("")){
+   /*     if (currentScenario.getImage() != null && !currentScenario.getImage().equals("")){
             imageViewScenarioImage.setVisibility(View.VISIBLE);
             Log.i(TAG, "Image: "+IMAGE_DIRECTORY+currentScenario.getImage()+".JPG");
             Picasso.get().load(IMAGE_DIRECTORY+currentScenario.getImage()).into(imageViewScenarioImage);
         }
+
+    */
 
         //check question image
         if (currentQuestion.getImage() != null && !currentQuestion.getImage().equals("")){
@@ -257,6 +288,36 @@ public class QuestionController {
                         checkCheckBox(checkBoxChoice6, imageViewChoice6, choice, counter);
                         counter++;
                         break;
+                    case 7:
+                        Log.d(TAG, "switch: case" + 7);
+                        checkCheckBox(checkBoxChoice7, imageViewChoice7, choice, counter);
+                        counter++;
+                        break;
+                    case 8:
+                        Log.d(TAG, "switch: case" + 8);
+                        checkCheckBox(checkBoxChoice8, imageViewChoice8, choice, counter);
+                        counter++;
+                        break;
+                    case 9:
+                        Log.d(TAG, "switch: case" + 9);
+                        checkCheckBox(checkBoxChoice9, imageViewChoice9, choice, counter);
+                        counter++;
+                        break;
+                    case 10:
+                        Log.d(TAG, "switch: case" + 10);
+                        checkCheckBox(checkBoxChoice10, imageViewChoice10, choice, counter);
+                        counter++;
+                        break;
+                    case 11:
+                        Log.d(TAG, "switch: case" + 11);
+                        checkCheckBox(checkBoxChoice11, imageViewChoice11, choice, counter);
+                        counter++;
+                        break;
+                    case 12:
+                        Log.d(TAG, "switch: case" + 12);
+                        checkCheckBox(checkBoxChoice12, imageViewChoice12, choice, counter);
+                        counter++;
+                        break;
                 }
             }
         }
@@ -271,8 +332,10 @@ public class QuestionController {
      */
     private void disableViews() {
         textViewScenarioScenariosCount.setVisibility(View.GONE);
-        textViewScenarioTitle.setVisibility(View.GONE);
+       /* textViewScenarioTitle.setVisibility(View.GONE);
         textViewScenarioDescription.setVisibility(View.GONE);
+
+        */
         textViewQuestionSubject.setVisibility(View.GONE);
         textViewQuestionTitle.setVisibility(View.GONE);
         textViewQuestionDescription.setVisibility(View.GONE);
@@ -285,7 +348,13 @@ public class QuestionController {
         checkBoxChoice4.setVisibility(View.GONE);
         checkBoxChoice5.setVisibility(View.GONE);
         checkBoxChoice6.setVisibility(View.GONE);
-        imageViewScenarioImage.setVisibility(View.GONE);
+        checkBoxChoice7.setVisibility(View.GONE);
+        checkBoxChoice8.setVisibility(View.GONE);
+        checkBoxChoice9.setVisibility(View.GONE);
+        checkBoxChoice10.setVisibility(View.GONE);
+        checkBoxChoice11.setVisibility(View.GONE);
+        checkBoxChoice12.setVisibility(View.GONE);
+       // imageViewScenarioImage.setVisibility(View.GONE);
         imageViewQuestionImage.setVisibility(View.GONE);
         imageViewChoice1.setVisibility(View.GONE);
         imageViewChoice2.setVisibility(View.GONE);
@@ -293,6 +362,12 @@ public class QuestionController {
         imageViewChoice4.setVisibility(View.GONE);
         imageViewChoice5.setVisibility(View.GONE);
         imageViewChoice6.setVisibility(View.GONE);
+        imageViewChoice7.setVisibility(View.GONE);
+        imageViewChoice8.setVisibility(View.GONE);
+        imageViewChoice9.setVisibility(View.GONE);
+        imageViewChoice10.setVisibility(View.GONE);
+        imageViewChoice11.setVisibility(View.GONE);
+        imageViewChoice12.setVisibility(View.GONE);
         imageViewCorrectChoice.setVisibility(View.GONE);
     }
 
@@ -361,6 +436,37 @@ public class QuestionController {
                         validateCheckBoxChoice(checkBoxChoice6, choice);
                         counter++;
                         break;
+                    case 7:
+                        Log.d(TAG, "switch: case" + 7);
+                        validateCheckBoxChoice(checkBoxChoice7, choice);
+                        counter++;
+                        break;
+                    case 8:
+                        Log.d(TAG, "switch: case" + 8);
+                        validateCheckBoxChoice(checkBoxChoice8, choice);
+                        counter++;
+                        break;
+                    case 9:
+                        Log.d(TAG, "switch: case" + 9);
+                        validateCheckBoxChoice(checkBoxChoice9, choice);
+                        counter++;
+                        break;
+                    case 10:
+                        Log.d(TAG, "switch: case" + 10);
+                        validateCheckBoxChoice(checkBoxChoice10, choice);
+                        counter++;
+                        break;
+                    case 11:
+                        Log.d(TAG, "switch: case" + 11);
+                        validateCheckBoxChoice(checkBoxChoice11, choice);
+                        counter++;
+                        break;
+                    case 12:
+                        Log.d(TAG, "switch: case" + 12);
+                        validateCheckBoxChoice(checkBoxChoice12, choice);
+                        counter++;
+                        break;
+
                 }
 
             }
@@ -374,7 +480,7 @@ public class QuestionController {
 
                 textViewQuestionCorrectChoice.setText(currentQuestion.getCorrectAnswer());
                 if (currentQuestion.getCorrectAnswer() != null && currentQuestion.getCorrectAnswer().contains(userAnswer)){
-                    textViewQuestionCorrectChoice.setTextColor(Color.GREEN);
+                    textViewQuestionCorrectChoice.setTextColor(Color.rgb(0,100,0));
                 } else {
                     textViewQuestionCorrectChoice.setTextColor(Color.RED);
                 }
@@ -395,19 +501,20 @@ public class QuestionController {
     private void validateCheckBoxChoice(CheckBox checkBox, Choice choice) {
         int answerColor = Color.RED;
         String message = " \n{Should not be selected!}";
+        Log.d(TAG, "validateCheckBoxChoice: "+choice.isCorrect()+": "+choice.getTitle());
         //if selected and isCorrect
         if (checkBox.isChecked()) {
             if (choice.isCorrect()) {
                // checkBox.setTextColor(Color.GREEN);
                 //return;
-                answerColor=Color.GREEN;
+                answerColor=Color.rgb(0,100,0);
             }
         } else {
             //if not selected and is not Correct
             if (!choice.isCorrect()) {
                 //checkBox.setTextColor(Color.GREEN);
                 //return;
-                answerColor=Color.GREEN;
+                answerColor=Color.rgb(0,100,0);
             }
         }
         if (choice.isCorrect()){
@@ -452,6 +559,18 @@ public class QuestionController {
         checkBoxChoice5.setChecked(false); //clear the previous selection
         checkBoxChoice6.setTextColor(textColorDefaultRb); //set checkBox color to its default
         checkBoxChoice6.setChecked(false); //clear the previous selection
+        checkBoxChoice7.setTextColor(textColorDefaultRb); //set checkBox color to its default
+        checkBoxChoice7.setChecked(false); //clear the previous selection
+        checkBoxChoice8.setTextColor(textColorDefaultRb); //set checkBox color to its default
+        checkBoxChoice8.setChecked(false); //clear the previous selection
+        checkBoxChoice9.setTextColor(textColorDefaultRb); //set checkBox color to its default
+        checkBoxChoice9.setChecked(false); //clear the previous selection
+        checkBoxChoice10.setTextColor(textColorDefaultRb); //set checkBox color to its default
+        checkBoxChoice10.setChecked(false); //clear the previous selection
+        checkBoxChoice11.setTextColor(textColorDefaultRb); //set checkBox color to its default
+        checkBoxChoice11.setChecked(false); //clear the previous selection
+        checkBoxChoice12.setTextColor(textColorDefaultRb); //set checkBox color to its default
+        checkBoxChoice12.setChecked(false); //clear the previous selection
 
         textViewQuestionCorrectChoice.setTextColor(textColorDefaultRb);
         textViewQuestionCorrectChoice.setText("");

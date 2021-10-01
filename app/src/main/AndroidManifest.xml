@@ -8,9 +8,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.QuestionsApp">
-        <activity android:name=".EndResultActivity"></activity>
-        <activity android:name=".QuizActivity" />
+        android:theme="@style/Theme.QuestionsApp"
+        android:configChanges="orientation|screenSize">
+        <activity android:name=".EndResultActivity" />
+        <activity android:name=".QuizActivity" android:configChanges="orientation|screenSize"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

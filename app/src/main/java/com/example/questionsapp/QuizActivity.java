@@ -23,7 +23,7 @@ public class QuizActivity extends AppCompatActivity {
         setContentView(R.layout.activity_quiz);
 
         String selectedSubject = getIntent().getStringExtra("SELECTED_SUBJECT");
-
+        getSupportActionBar().hide();
             quizC = new QuestionController(QuizActivity.this, selectedSubject);
 
     }
